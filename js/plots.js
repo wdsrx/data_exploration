@@ -24,7 +24,8 @@ function warehouse() {
     }]
     var layout = {
       xaxis: {
-        autotypenumbers: 'strict'
+        autotypenumbers: 'strict', 
+        title: 'WAREHOUSE'
       },
       title: {
         text: "Activity by Warehouse"
@@ -80,7 +81,7 @@ function hours() {
         text: 'Activity by Hour'
       },
       xaxis: {
-        title: 'HOURS',
+        title: 'HOUR',
         autotick: false
       }
     }
@@ -89,82 +90,141 @@ function hours() {
 }
 hours()
 
-function pickers_w10() {
-  d3.json('data/pickers_w10.json').then((data) => {
+
+////////////////////////////////////////////////////////
+//////////////////////// PICKING ///////////////////////
+////////////////////////////////////////////////////////
+
+function pickers() {
+  d3.json('data/pickers.json').then((data) => {
     console.log(data);
-    // console.log(Object.keys(data));
-    // console.log(Object.keys(data)[0]);
-    // console.log(Object.values(data)[0]);
 
-    // a = Object.values(data)[0]
-    // console.log(Object.keys(a))
+    // Hours
+    first = Object.values(data)[0]
+    var hours = Object.keys(first)
+    console.log(hours)
     // console.log(Object.values(a))
-
-
 
     // Employees (x)
     var labels = Object.keys(data)
-    console.log(labels)
+    //console.log(labels)
 
-    
-    // Pickings (y)
-    //var values = Object.values(data)
-    //console.log(values[0]['8'])
-    
-    // console.log(Object.values(data))
-    // console.log(Object.values(data)[0])
-    // console.log(Object.values(data)[1])
-    // console.log(Object.values(data)[2])
-    // console.log(Object.values(data)[3])
-    
-    
-    
-    // Object.values(data).forEach((line) => {
-    //   for (var i = 0; i < dataSize; i++) {
-    //     console.log(Object.values(line)[i])
-        
-
-    //   }
-    //   //console.log(Object.values(line)[0])
-    // })
-    var dataSize = labels.length
+    var dataSize = hours.length
     var chunks = []
+    
     for (var i = 0; i < dataSize; i++) {
+      // Picking Activity (y)
+      var picks = []
       Object.values(data).forEach((line) => {
-        //console.log(Object.keys(line)[i])
-        console.log(Object.values(line)[i])
-
-
+        console.log(Object.keys(line)[i])
+        //console.log(Object.values(line)[i])
+        picks.push(Object.values(line)[i])
       })
       var trace = {
         x: labels,
-        y: [20, 14, 23, 20, 14, 23, 20, 14, 23, 20, 14, 23, 11],
-        name: labels[i],
+        y: picks,
+        name: hours[i],
         type: 'bar'
       }
       chunks.push(trace)
-
     }
-
-    var layout = {barmode: 'stack'}
-
-    Plotly.newPlot('plot_3_1', chunks, layout)
-    
-    
-    
-
-
+    var layout = {
+      barmode: 'stack',
+      title: {
+        text: 'ALL WAREHOUSES - Picking by Employee'
+      }
+    }
+    Plotly.newPlot('plot_3', chunks, layout)
   })
+}
+pickers()
 
+function pickers_w10() {
+  d3.json('data/pickers_w10.json').then((data) => {
+    console.log(data);
+
+    // Hours
+    first = Object.values(data)[0]
+    var hours = Object.keys(first)
+    console.log(hours)
+    // console.log(Object.values(a))
+
+    // Employees (x)
+    var labels = Object.keys(data)
+    //console.log(labels)
+
+    var dataSize = hours.length
+    var chunks = []
+    
+    for (var i = 0; i < dataSize; i++) {
+      // Picking Activity (y)
+      var picks = []
+      Object.values(data).forEach((line) => {
+        console.log(Object.keys(line)[i])
+        //console.log(Object.values(line)[i])
+        picks.push(Object.values(line)[i])
+      })
+      var trace = {
+        x: labels,
+        y: picks,
+        name: hours[i],
+        type: 'bar'
+      }
+      chunks.push(trace)
+    }
+    var layout = {
+      barmode: 'stack',
+      title: {
+        text: 'WAREHOUSE 10 - Picking by Employee'
+      }
+    }
+    Plotly.newPlot('plot_4_1', chunks, layout)
+  })
 }
 pickers_w10()
 
+function pickers_w20() {
+  d3.json('data/pickers_w20.json').then((data) => {
+    console.log(data);
+
+    // Hours
+    first = Object.values(data)[0]
+    var hours = Object.keys(first)
+    //console.log(hours)
+    // console.log(Object.values(a))
+
+    // Employees (x)
+    var labels = Object.keys(data)
+    //console.log(labels)
+
+    var dataSize = hours.length
+    var chunks = []
+    
+    for (var i = 0; i < dataSize; i++) {
+      // Picking Activity (y)
+      var picks = []
+      Object.values(data).forEach((line) => {
+        //console.log(Object.keys(line)[i])
+        //console.log(Object.values(line)[i])
+        picks.push(Object.values(line)[i])
+      })
+      var trace = {
+        x: labels,
+        y: picks,
+        name: hours[i],
+        type: 'bar'
+      }
+      chunks.push(trace)
+    }
+    var layout = {
+      barmode: 'stack',
+      title: {
+        text: 'WAREHOUSE 20 -  Picking by Employee'
+      }
+    }
+    Plotly.newPlot('plot_4_2', chunks, layout)
+  })
+}
+pickers_w20()
 
 
-
-// var trace = {
-//   x: ['giraffes', 'orangutans', 'monkeys'],
-//   y: [20, 14, 23],
-//   name: 'SF Zoo',
-//   type: 'bar'
-// }
