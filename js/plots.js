@@ -91,18 +91,61 @@ function hours() {
 hours()
 
 
+
+
+
+
+
+
+function openOutbounds() {
+  d3.json('data/open_outbounds.json').then((data) => {
+    console.log(data);
+
+    var labels = Object.keys(data.orders)
+    console.log(labels)
+    var values = Object.values(data.orders)
+    console.log(values)
+
+    var data = [{
+      x: labels,
+      y: values,
+      type: "bar",
+      marker: {
+        color: values
+      }
+    }]
+    layout = {
+      title: {
+        text: 'Open Outbound Orders'
+      },
+      xaxis: {
+        autotick: false
+      }
+    }
+
+
+    Plotly.newPlot("plot_2_2", data, layout);
+
+
+  })
+}
+openOutbounds()
+
+
+
+
 ////////////////////////////////////////////////////////
 //////////////////////// PICKING ///////////////////////
 ////////////////////////////////////////////////////////
 
 function pickers() {
   d3.json('data/pickers.json').then((data) => {
-    console.log(data);
+    //console.log(data);
 
     // Hours
     first = Object.values(data)[0]
     var hours = Object.keys(first)
-    console.log(hours)
+    //console.log(hours)
     // console.log(Object.values(a))
 
     // Employees (x)
@@ -116,7 +159,7 @@ function pickers() {
       // Picking Activity (y)
       var picks = []
       Object.values(data).forEach((line) => {
-        console.log(Object.keys(line)[i])
+        //console.log(Object.keys(line)[i])
         //console.log(Object.values(line)[i])
         picks.push(Object.values(line)[i])
       })
@@ -141,12 +184,12 @@ pickers()
 
 function pickers_w10() {
   d3.json('data/pickers_w10.json').then((data) => {
-    console.log(data);
+    //console.log(data);
 
     // Hours
     first = Object.values(data)[0]
     var hours = Object.keys(first)
-    console.log(hours)
+    //console.log(hours)
     // console.log(Object.values(a))
 
     // Employees (x)
@@ -160,7 +203,7 @@ function pickers_w10() {
       // Picking Activity (y)
       var picks = []
       Object.values(data).forEach((line) => {
-        console.log(Object.keys(line)[i])
+        //console.log(Object.keys(line)[i])
         //console.log(Object.values(line)[i])
         picks.push(Object.values(line)[i])
       })
@@ -185,7 +228,7 @@ pickers_w10()
 
 function pickers_w20() {
   d3.json('data/pickers_w20.json').then((data) => {
-    console.log(data);
+    //console.log(data);
 
     // Hours
     first = Object.values(data)[0]
