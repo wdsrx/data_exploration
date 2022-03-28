@@ -2,7 +2,7 @@
 // python -m http.server
 // http://127.0.0.1:8000
 
-
+// ACTIVITY BY WAREHOUSE
 function warehouse() {
   d3.json('data/warehouse.json').then((data) => {
     // console.log(data);
@@ -36,6 +36,7 @@ function warehouse() {
 }
 warehouse()
 
+// ACTIVITY BY OPERATION TYPE
 function operations() {
   d3.json('data/operations_type.json').then((data) => {
     //console.log(data);
@@ -54,6 +55,12 @@ function operations() {
     layout = {
       title: {
         text: 'Activity by Operation Type'
+      },
+      xaxis: {
+        tickangle : 45,
+        tickfont: {
+          size: 8
+        }
       }
     }
     Plotly.newPlot("plot_1_2", data, layout);
@@ -61,6 +68,7 @@ function operations() {
 }
 operations()
 
+// ACTIVITY BY HOUR
 function hours() {
   d3.json('data/hours.json').then((data) => {
     //console.log(data);
@@ -90,13 +98,7 @@ function hours() {
 }
 hours()
 
-
-
-
-
-
-
-
+// OPEN OUTBOUND ORDERS
 function openOutbounds() {
   d3.json('data/open_outbounds.json').then((data) => {
     console.log(data);
@@ -122,17 +124,10 @@ function openOutbounds() {
         autotick: false
       }
     }
-
-
     Plotly.newPlot("plot_2_2", data, layout);
-
-
   })
 }
 openOutbounds()
-
-
-
 
 ////////////////////////////////////////////////////////
 //////////////////////// PICKING ///////////////////////
