@@ -2,6 +2,8 @@
 // python -m http.server
 // http://127.0.0.1:8000
 
+
+// WAREHOUSES //
 // ACTIVITY BY WAREHOUSE
 function warehouse() {
   d3.json('data/warehouse.json').then((data) => {
@@ -129,10 +131,9 @@ function openOutbounds() {
 }
 openOutbounds()
 
-////////////////////////////////////////////////////////
-//////////////////////// PICKING ///////////////////////
-////////////////////////////////////////////////////////
+// PICKING //
 
+// All warehouses
 function pickers() {
   d3.json('data/pickers.json').then((data) => {
     //console.log(data);
@@ -170,6 +171,12 @@ function pickers() {
       barmode: 'stack',
       title: {
         text: 'ALL WAREHOUSES - Picking by Employee'
+      },
+      xaxis: {
+        tickangle: 45,
+        tickfont: {
+          size: 10
+        }
       }
     }
     Plotly.newPlot('plot_3', chunks, layout)
@@ -177,8 +184,8 @@ function pickers() {
 }
 pickers()
 
-function pickers_w10() {
-  d3.json('data/pickers_w10.json').then((data) => {
+function pickers_w10(warehouse) {
+  d3.json(warehouse).then((data) => {
     //console.log(data);
 
     // Hours
@@ -219,7 +226,7 @@ function pickers_w10() {
     Plotly.newPlot('plot_4_1', chunks, layout)
   })
 }
-pickers_w10()
+pickers_w10('data/pickers_w10.json')
 
 function pickers_w20() {
   d3.json('data/pickers_w20.json').then((data) => {
