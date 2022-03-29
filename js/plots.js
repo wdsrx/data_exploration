@@ -38,6 +38,36 @@ function warehouse() {
 }
 warehouse()
 
+// ACTIVITY BY HOUR
+function hours() {
+  d3.json('data/hours.json').then((data) => {
+    //console.log(data);
+
+    var labels = Object.keys(data.Operations)
+    var values = Object.values(data.Operations)
+
+    var data = [{
+      x: labels,
+      y: values,
+      type: "bar",
+      marker: {
+        color: values
+      }
+    }]
+    layout = {
+      title: {
+        text: 'Activity by Hour'
+      },
+      xaxis: {
+        title: 'HOUR',
+        autotick: false
+      }
+    }
+    Plotly.newPlot("plot_w_1_2", data, layout);
+  })
+}
+hours()
+
 // ACTIVITY BY OPERATION TYPE
 function operations() {
   d3.json('data/operations_type.json').then((data) => {
@@ -69,11 +99,6 @@ function operations() {
   })
 }
 operations()
-
-
-
-
-
 
 // ACTIVITY BY OPERATION TYPE EXCLUDING PICKING AND RECEIVING
 function operations_excluded() {
@@ -107,40 +132,6 @@ function operations_excluded() {
 }
 operations_excluded()
 
-
-
-
-
-// ACTIVITY BY HOUR
-function hours() {
-  d3.json('data/hours.json').then((data) => {
-    //console.log(data);
-
-    var labels = Object.keys(data.Operations)
-    var values = Object.values(data.Operations)
-
-    var data = [{
-      x: labels,
-      y: values,
-      type: "bar",
-      marker: {
-        color: values
-      }
-    }]
-    layout = {
-      title: {
-        text: 'Activity by Hour'
-      },
-      xaxis: {
-        title: 'HOUR',
-        autotick: false
-      }
-    }
-    Plotly.newPlot("plot_w_3_1", data, layout);
-  })
-}
-hours()
-
 // OPEN OUTBOUND ORDERS
 function openOutbounds() {
   d3.json('data/open_outbounds.json').then((data) => {
@@ -167,7 +158,7 @@ function openOutbounds() {
         autotick: false
       }
     }
-    Plotly.newPlot("plot_w_3_2", data, layout);
+    Plotly.newPlot("plot_w_3_1", data, layout);
   })
 }
 openOutbounds()
