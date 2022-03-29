@@ -65,10 +65,51 @@ function operations() {
         }
       }
     }
-    Plotly.newPlot("plot_w_1_2", data, layout);
+    Plotly.newPlot("plot_w_2_1", data, layout);
   })
 }
 operations()
+
+
+
+
+
+
+// ACTIVITY BY OPERATION TYPE EXCLUDING PICKING AND RECEIVING
+function operations_excluded() {
+  d3.json('data/operations_type_excluded.json').then((data) => {
+    //console.log(data);
+
+    var labels = Object.keys(data.Tasks)
+    var values = Object.values(data.Tasks)
+
+    var data = [{
+      x: labels,
+      y: values,
+      type: "bar",
+      marker: {
+        color: values
+      }
+    }]
+    layout = {
+      title: {
+        text: 'Activity by Operation Type Excluding Picking and Receiving'
+      },
+      xaxis: {
+        tickangle : 45,
+        tickfont: {
+          size: 8
+        }
+      }
+    }
+    Plotly.newPlot("plot_w_2_2", data, layout);
+  })
+}
+operations_excluded()
+
+
+
+
 
 // ACTIVITY BY HOUR
 function hours() {
@@ -95,7 +136,7 @@ function hours() {
         autotick: false
       }
     }
-    Plotly.newPlot("plot_w_2_1", data, layout);
+    Plotly.newPlot("plot_w_3_1", data, layout);
   })
 }
 hours()
@@ -103,12 +144,12 @@ hours()
 // OPEN OUTBOUND ORDERS
 function openOutbounds() {
   d3.json('data/open_outbounds.json').then((data) => {
-    console.log(data);
+    //console.log(data);
 
     var labels = Object.keys(data.orders)
-    console.log(labels)
+    //console.log(labels)
     var values = Object.values(data.orders)
-    console.log(values)
+    //console.log(values)
 
     var data = [{
       x: labels,
@@ -126,7 +167,7 @@ function openOutbounds() {
         autotick: false
       }
     }
-    Plotly.newPlot("plot_w_2_2", data, layout);
+    Plotly.newPlot("plot_w_3_2", data, layout);
   })
 }
 openOutbounds()
@@ -187,42 +228,44 @@ function pickers_w(warehouse, place) {
   d3.json(warehouse).then((data) => {
     //console.log(data);
 
-    // Hours
-    first = Object.values(data)[0]
-    var hours = Object.keys(first)
-    //console.log(hours)
-    // console.log(Object.values(a))
+    if (Object.keys(data).length > 0) {
+      // Hours
+      first = Object.values(data)[0]
+      var hours = Object.keys(first)
+      //console.log(hours)
+      // console.log(Object.values(a))
 
-    // Employees (x)
-    var labels = Object.keys(data)
-    //console.log(labels)
+      // Employees (x)
+      var labels = Object.keys(data)
+      //console.log(labels)
 
-    var dataSize = hours.length
-    var chunks = []
-    
-    for (var i = 0; i < dataSize; i++) {
-      // Picking Activity (y)
-      var picks = []
-      Object.values(data).forEach((line) => {
-        //console.log(Object.keys(line)[i])
-        //console.log(Object.values(line)[i])
-        picks.push(Object.values(line)[i])
-      })
-      var trace = {
-        x: labels,
-        y: picks,
-        name: hours[i],
-        type: 'bar'
+      var dataSize = hours.length
+      var chunks = []
+      
+      for (var i = 0; i < dataSize; i++) {
+        // Picking Activity (y)
+        var picks = []
+        Object.values(data).forEach((line) => {
+          //console.log(Object.keys(line)[i])
+          //console.log(Object.values(line)[i])
+          picks.push(Object.values(line)[i])
+        })
+        var trace = {
+          x: labels,
+          y: picks,
+          name: hours[i],
+          type: 'bar'
+        }
+        chunks.push(trace)
       }
-      chunks.push(trace)
-    }
-    var layout = {
-      barmode: 'stack',
-      title: {
-        text: 'WAREHOUSE ' + warehouse.substr(14,2) + ' - Picking by Employee'
+      var layout = {
+        barmode: 'stack',
+        title: {
+          text: 'WAREHOUSE ' + warehouse.substr(14,2) + ' - Picking by Employee'
+        }
       }
+      Plotly.newPlot(place, chunks, layout)
     }
-    Plotly.newPlot(place, chunks, layout)
   })
 }
 pickers_w('data/pickers_w10.json', 'plot_p_2_1')
@@ -232,9 +275,52 @@ pickers_w('data/pickers_w15.json', 'plot_p_3_1')
 pickers_w('data/pickers_w16.json', 'plot_p_3_2')
 
 pickers_w('data/pickers_w18.json', 'plot_p_4_1')
-pickers_w('data/pickers_w20.json', 'plot_p_4_2')
+pickers_w('data/pickers_w19.json', 'plot_p_4_2')
 
-pickers_w('data/pickers_w21.json', 'plot_p_5_1')
-pickers_w('data/pickers_w22.json', 'plot_p_5_2')
+pickers_w('data/pickers_w20.json', 'plot_p_5_1')
+pickers_w('data/pickers_w21.json', 'plot_p_5_2')
 
+pickers_w('data/pickers_w22.json', 'plot_p_6_1')
+
+// PICKING //
+// All warehouses
+function receivers() {
+  d3.json('data/receivers.json').then ((data) => {
+    if (Object.keys(data).length > 0) {
+
+      // Working Hours
+      first = Object.values(data)[0]
+      var hours = Object.keys(first)
+
+      // Employees (x)
+      var labels = Object.keys(data)
+
+      var dataSize = hours.length
+      var chunks = []
+
+      for (var i = 0; i < dataSize; i++) {
+        // Picking Activity (y)
+        var receives = []
+        Object.values(data).forEach((line) => {
+          receives.push(Object.values(line)[i])
+        })
+        var trace = {
+          x: labels,
+          y: receives,
+          name: hours[i],
+          type: 'bar'
+        }
+        chunks.push(trace)
+      }
+      var layout = {
+        barmode: 'stack',
+        title: {
+          text: 'ALL WAREHOUSES - Receiving by Employee'
+        }
+      }
+      Plotly.newPlot('plot_p_6', chunks, layout)
+    }
+  })
+}
+receivers()
 
