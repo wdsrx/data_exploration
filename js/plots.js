@@ -33,7 +33,7 @@ function warehouse() {
         text: "Activity by Warehouse"
       }
     }
-    Plotly.newPlot("plot_1_1", data, layout);
+    Plotly.newPlot("plot_w_1_1", data, layout);
   })
 }
 warehouse()
@@ -65,7 +65,7 @@ function operations() {
         }
       }
     }
-    Plotly.newPlot("plot_1_2", data, layout);
+    Plotly.newPlot("plot_w_1_2", data, layout);
   })
 }
 operations()
@@ -95,7 +95,7 @@ function hours() {
         autotick: false
       }
     }
-    Plotly.newPlot("plot_2_1", data, layout);
+    Plotly.newPlot("plot_w_2_1", data, layout);
   })
 }
 hours()
@@ -126,7 +126,7 @@ function openOutbounds() {
         autotick: false
       }
     }
-    Plotly.newPlot("plot_2_2", data, layout);
+    Plotly.newPlot("plot_w_2_2", data, layout);
   })
 }
 openOutbounds()
@@ -178,7 +178,7 @@ function pickers() {
         }
       }
     }
-    Plotly.newPlot('plot_3', chunks, layout)
+    Plotly.newPlot('plot_p_1', chunks, layout)
   })
 }
 pickers()
@@ -219,57 +219,22 @@ function pickers_w(warehouse, place) {
     var layout = {
       barmode: 'stack',
       title: {
-        text: 'WAREHOUSE 10 - Picking by Employee'
+        text: 'WAREHOUSE ' + warehouse.substr(14,2) + ' - Picking by Employee'
       }
     }
     Plotly.newPlot(place, chunks, layout)
   })
 }
-pickers_w('data/pickers_w10.json', 'plot_4_1')
-pickers_w('data/pickers_w20.json', 'plot_4_2')
+pickers_w('data/pickers_w10.json', 'plot_p_2_1')
+pickers_w('data/pickers_w12.json', 'plot_p_2_2')
 
-// function pickers_w20() {
-//   d3.json('data/pickers_w20.json').then((data) => {
-//     //console.log(data);
+pickers_w('data/pickers_w15.json', 'plot_p_3_1')
+pickers_w('data/pickers_w16.json', 'plot_p_3_2')
 
-//     // Hours
-//     first = Object.values(data)[0]
-//     var hours = Object.keys(first)
-//     //console.log(hours)
-//     // console.log(Object.values(a))
+pickers_w('data/pickers_w18.json', 'plot_p_4_1')
+pickers_w('data/pickers_w20.json', 'plot_p_4_2')
 
-//     // Employees (x)
-//     var labels = Object.keys(data)
-//     //console.log(labels)
-
-//     var dataSize = hours.length
-//     var chunks = []
-    
-//     for (var i = 0; i < dataSize; i++) {
-//       // Picking Activity (y)
-//       var picks = []
-//       Object.values(data).forEach((line) => {
-//         //console.log(Object.keys(line)[i])
-//         //console.log(Object.values(line)[i])
-//         picks.push(Object.values(line)[i])
-//       })
-//       var trace = {
-//         x: labels,
-//         y: picks,
-//         name: hours[i],
-//         type: 'bar'
-//       }
-//       chunks.push(trace)
-//     }
-//     var layout = {
-//       barmode: 'stack',
-//       title: {
-//         text: 'WAREHOUSE 20 -  Picking by Employee'
-//       }
-//     }
-//     Plotly.newPlot('plot_4_2', chunks, layout)
-//   })
-// }
-// pickers_w20()
+pickers_w('data/pickers_w21.json', 'plot_p_5_1')
+pickers_w('data/pickers_w22.json', 'plot_p_5_2')
 
 
