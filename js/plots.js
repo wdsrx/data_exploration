@@ -203,6 +203,11 @@ function pickers() {
       title: {
         text: 'ALL WAREHOUSES - Picking by Employee'
       },
+      legend: {
+        title: {
+          text: '24 HOURS'
+        }
+      },
       xaxis: {
         tickangle: 45,
         tickfont: {
@@ -253,6 +258,11 @@ function pickers_w(warehouse, place) {
         barmode: 'stack',
         title: {
           text: 'WAREHOUSE ' + warehouse.substr(14,2) + ' - Picking by Employee'
+        },
+        legend: {
+          title: {
+            text: '24 HOURS'
+          }
         }
       }
       Plotly.newPlot(place, chunks, layout)
@@ -273,7 +283,7 @@ pickers_w('data/pickers_w21.json', 'plot_p_5_2')
 
 pickers_w('data/pickers_w22.json', 'plot_p_6_1')
 
-// PICKING //
+// RECEIVING //
 // All warehouses
 function receivers() {
   d3.json('data/receivers.json').then ((data) => {
@@ -307,11 +317,24 @@ function receivers() {
         barmode: 'stack',
         title: {
           text: 'ALL WAREHOUSES - Receiving by Employee'
+        },
+        legend: {
+          title: {
+            text: '24 HOURS'
+          }
         }
       }
-      Plotly.newPlot('plot_p_6', chunks, layout)
+      Plotly.newPlot('plot_r_1', chunks, layout)
     }
   })
 }
 receivers()
+
+function cycle_count() {
+  d3.json('data/cycle_count.json').then ((data) => {
+    console.log(data)
+
+  })
+}
+cycle_count()
 
