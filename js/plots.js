@@ -333,6 +333,91 @@ receivers()
 function cycle_count() {
   d3.json('data/cycle_count.json').then ((data) => {
     console.log(data)
+    // console.log(Object.keys(data))
+    // console.log(Object.values(data))
+    // console.log(Object.values(data)[0])
+    // console.log(Object.values(data)[0]['Count'])
+    // console.log(Object.values(data)[0]['Inventory Adjustment'])
+    // console.log(Object.values(data)[0]['Recount'])
+    console.log('------------------------------------')
+
+
+    labels = Object.keys(data)
+    console.log(labels)
+
+    values_count = []
+    values_count.push(Object.values(data)[0]['Count'])
+    values_count.push(Object.values(data)[1]['Count'])
+    values_count.push(Object.values(data)[2]['Count'])
+    values_count.push(Object.values(data)[3]['Count'])
+    values_count.push(Object.values(data)[4]['Count'])
+    values_count.push(Object.values(data)[5]['Count'])
+
+    values_recount = []
+    values_recount.push(Object.values(data)[0]['Recount'])
+    values_recount.push(Object.values(data)[1]['Recount'])
+    values_recount.push(Object.values(data)[2]['Recount'])
+    values_recount.push(Object.values(data)[3]['Recount'])
+    values_recount.push(Object.values(data)[4]['Recount'])
+    values_recount.push(Object.values(data)[5]['Recount'])
+
+    values_adjustment = []
+    values_adjustment.push(Object.values(data)[0]['Inventory Adjustment'])
+    values_adjustment.push(Object.values(data)[1]['Inventory Adjustment'])
+    values_adjustment.push(Object.values(data)[2]['Inventory Adjustment'])
+    values_adjustment.push(Object.values(data)[3]['Inventory Adjustment'])
+    values_adjustment.push(Object.values(data)[4]['Inventory Adjustment'])
+    values_adjustment.push(Object.values(data)[5]['Inventory Adjustment'])
+
+
+    // values_count.push(Object.values(data)[0]['Inventory Adjustment'])
+    // values_count.push(Object.values(data)[0]['Recount'])
+    console.log(values_count)
+
+    var data = [{
+      x: labels,
+      y: values_count,
+      type: 'bar',
+      name: 'Inventory Counts',
+      marker: {
+        color: '#FECB52'
+      }
+    },
+    {
+      x: labels,
+      y: values_recount,
+      type: 'bar',
+      name: 'Discrepancies',
+      marker: {
+        color: '#FFA15A'
+      }
+    },
+    {
+      x: labels,
+      y: values_adjustment,
+      type: 'bar',
+      name: 'Inventory Adjustments',
+      marker: {
+        color: '#EF553B'
+      }
+    }
+  
+  ]
+
+    var layout = {
+      barmode: 'stack',
+      xaxis: {
+        autotypenumbers: 'strict'
+      }
+    }
+
+
+    Plotly.newPlot('plot_i_1_1', data, layout)
+
+
+
+
+
 
   })
 }
