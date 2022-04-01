@@ -1,5 +1,7 @@
 // RECEIVING //
 // All warehouses
+
+
 function receivers() {
     d3.json('data/receivers.json').then ((data) => {
       if (Object.keys(data).length > 0) {
