@@ -1,4 +1,205 @@
 Warehouse,Project,Employee,Shipment,Operation,Date,Time
+10,Beach Patient Assistance ,Frantz Laman,BPS1180,Picking,2022-04-11 12:15:12.257,2.8833333333333333
+10,Beach Patient Assistance ,Frantz Laman,BPS1180,Picking Completed,2022-04-11 12:16:02.540,0.8333333333333334
+10,Beach Products Inc,Ronald Celis,7871659,Picking,2022-04-11 13:11:02.637,0.13333333333333333
+10,Beach Products Inc,Ronald Celis,7871659,Picking Completed,2022-04-11 13:12:05.213,1.0333333333333334
+10,Beach Products Inc,Ronald Celis,7871660,Picking,2022-04-11 13:11:34.683,0.13333333333333333
+10,Beach Products Inc,Ronald Celis,7871660,Picking Completed,2022-04-11 13:12:05.213,0.5
+10,Beach Products Inc,Ronald Celis,7871661,Picking,2022-04-11 13:11:46.370,0.15
+10,Beach Products Inc,Ronald Celis,7871661,Picking Completed,2022-04-11 13:12:05.213,0.3
+10,Beach Products Inc,Ronald Celis,7871662,Picking,2022-04-11 13:11:57.387,0.13333333333333333
+10,Beach Products Inc,Ronald Celis,7871662,Picking Completed,2022-04-11 13:12:05.213,0.11666666666666667
+10,Beach Products Inc,Ronald Celis,7871663,Picking,2022-04-11 12:59:48.337,0.3
+10,Beach Products Inc,Ronald Celis,7871663,Picking Completed,2022-04-11 13:00:06.587,0.3
+10,Beach Products Inc,Ronald Celis,7871663,Picking,2022-04-11 13:00:08.853,0.03333333333333333
+10,Beach Products Inc,Ronald Celis,7871664,Picking,2022-04-11 13:10:12.400,0.15
+10,Beach Products Inc,Ronald Celis,7871664,Picking Completed,2022-04-11 13:11:03.680,0.85
+10,Beach Products Inc,Ronald Celis,7871665,Picking,2022-04-11 13:09:52.447,0.18333333333333332
+10,Beach Products Inc,Ronald Celis,7871665,Picking Completed,2022-04-11 13:10:05.133,0.2
+10,Beach Products Inc,Ronald Celis,7871666,Picking,2022-04-11 13:04:31.177,0.36666666666666664
+10,Beach Products Inc,Ronald Celis,7871666,Picking,2022-04-11 13:04:43.050,0.18333333333333332
+10,Beach Products Inc,Ronald Celis,7871666,Picking,2022-04-11 13:04:55.147,0.2
+10,Beach Products Inc,Ronald Celis,7871666,Picking Completed,2022-04-11 13:05:04.253,0.15
+10,Beach Products Inc,Ronald Celis,7871667,Picking,2022-04-11 13:00:51.980,0.23333333333333334
+10,Beach Products Inc,Ronald Celis,7871667,Picking Completed,2022-04-11 13:01:03.323,0.18333333333333332
+10,Beach Products Inc,Ronald Celis,7871667,Picking,2022-04-11 13:01:03.917,0.0
+10,Beach Products Inc,Ronald Celis,7871668,Picking,2022-04-11 13:06:42.320,0.15
+10,Beach Products Inc,Ronald Celis,7871668,Picking Completed,2022-04-11 13:07:04.273,0.35
+10,Beach Products Inc,Ronald Celis,7871669,Picking,2022-04-11 13:05:14.707,0.15
+10,Beach Products Inc,Ronald Celis,7871669,Picking Completed,2022-04-11 13:06:03.193,0.8
+10,Beach Products Inc,Ronald Celis,7871670,Picking,2022-04-11 13:07:33.277,0.35
+10,Beach Products Inc,Ronald Celis,7871670,Picking Completed,2022-04-11 13:08:03.730,0.5
+10,Beach Products Inc,Ronald Celis,7872286,Picking,2022-04-11 13:11:24.277,0.13333333333333333
+10,Beach Products Inc,Ronald Celis,7872286,Picking Completed,2022-04-11 13:12:05.213,0.6666666666666666
+10,Beach Products Inc,Ronald Celis,7872289,Picking,2022-04-11 13:06:11.210,0.21666666666666667
+10,Beach Products Inc,Ronald Celis,7872289,Picking,2022-04-11 13:06:23.087,0.18333333333333332
+10,Beach Products Inc,Ronald Celis,7872289,Picking Completed,2022-04-11 13:07:04.273,0.6833333333333333
+10,Bio-PRF,Frantz Laman,PRF-25884,Picking,2022-04-11 13:02:49.483,0.8
+10,Bio-PRF,Frantz Laman,PRF-25884,Picking Completed,2022-04-11 13:03:03.153,0.21666666666666667
+10,Bio-PRF,Frantz Laman,PRF-25884,Picking,2022-04-11 13:03:33.890,0.5
+10,Bio-PRF,Frantz Laman,PRF-25895,Picking,2022-04-11 13:00:51.730,0.5333333333333333
+10,Bio-PRF,Frantz Laman,PRF-25895,Picking Completed,2022-04-11 13:01:03.323,0.18333333333333332
+10,Bio-PRF,Frantz Laman,PRF-25895,Picking,2022-04-11 13:01:38.043,0.5666666666666667
+10,Bio-PRF,Frantz Laman,PRF-25903,Picking,2022-04-11 12:55:41.817,0.4666666666666667
+10,Bio-PRF,Frantz Laman,PRF-25903,Picking Completed,2022-04-11 12:56:02.830,0.35
+10,Bio-PRF,Frantz Laman,PRF-25903,Picking,2022-04-11 12:59:41.243,3.6333333333333333
+10,Bio-PRF,Frantz Laman,PRF-25919,Picking,2022-04-11 13:11:23.713,1.4333333333333333
+10,Bio-PRF,Frantz Laman,PRF-25919,Picking Completed,2022-04-11 13:12:05.213,0.6833333333333333
+10,Bio-PRF,Frantz Laman,PRF-25919,Picking,2022-04-11 13:12:45.477,0.6666666666666666
+10,Bio-PRF,Frantz Laman,PRF-25919,Picking,2022-04-11 13:15:35.347,2.8166666666666664
+10,Bio-PRF,Frantz Laman,PRF-25937,Picking,2022-04-11 12:53:38.263,1.95
+10,Bio-PRF,Frantz Laman,PRF-25937,Picking Completed,2022-04-11 12:54:03.247,0.4
+10,Bio-PRF,Frantz Laman,PRF-25937,Picking,2022-04-11 12:54:47.970,0.7333333333333333
+10,Bio-PRF,Frantz Laman,PRF-25941,Picking,2022-04-11 12:48:14.147,0.9
+10,Bio-PRF,Frantz Laman,PRF-25941,Picking Completed,2022-04-11 12:49:03.613,0.8166666666666667
+10,Bio-PRF,Frantz Laman,PRF-25941,Picking,2022-04-11 12:51:21.637,2.3
+10,Bio-PRF,Frantz Laman,PRF-25944,Picking,2022-04-11 12:41:35.180,1.8833333333333333
+10,Bio-PRF,Frantz Laman,PRF-25944,Picking Completed,2022-04-11 12:42:03.650,0.4666666666666667
+10,Bio-PRF,Frantz Laman,PRF-25944,Picking,2022-04-11 12:43:05.697,1.0333333333333334
+10,Bio-PRF,Frantz Laman,PRF-25944,Picking,2022-04-11 12:46:58.550,0.3333333333333333
+10,Bio-PRF,Liliana Puentes,PRF-23802-BO,Picking,2022-04-11 13:07:07.587,1.4
+10,Bio-PRF,Liliana Puentes,PRF-23802-BO,Picking Completed,2022-04-11 13:08:03.730,0.9333333333333333
+10,Bio-PRF,Liliana Puentes,PRF-25858,Picking,2022-04-11 13:23:20.403,0.9666666666666667
+10,Bio-PRF,Liliana Puentes,PRF-25858,Picking Completed,2022-04-11 13:24:03.330,0.7
+10,Bio-PRF,Liliana Puentes,PRF-25858,Picking,2022-04-11 13:25:44.017,0.6
+10,Bio-PRF,Liliana Puentes,PRF-25858,Picking,2022-04-11 13:26:46.177,1.0333333333333334
+10,Bio-PRF,Liliana Puentes,PRF-25858,Picking,2022-04-11 13:28:37.373,1.85
+10,Bio-PRF,Liliana Puentes,PRF-25858,Picking,2022-04-11 13:29:56.383,1.3166666666666667
+10,Bio-PRF,Liliana Puentes,PRF-25858,Picking,2022-04-11 13:31:56.753,2.0
+10,Bio-PRF,Liliana Puentes,PRF-25858,Picking,2022-04-11 13:33:02.173,1.0833333333333333
+10,Bio-PRF,Liliana Puentes,PRF-25858,Picking,2022-04-11 13:34:48.877,1.7666666666666666
+10,Bio-PRF,Liliana Puentes,PRF-25858,Picking,2022-04-11 13:35:44.687,0.9166666666666666
+10,Bio-PRF,Liliana Puentes,PRF-25858,Picking,2022-04-11 13:38:59.437,3.2333333333333334
+10,Bio-PRF,Liliana Puentes,PRF-25858,Picking,2022-04-11 13:43:22.327,4.366666666666666
+10,Bio-PRF,Liliana Puentes,PRF-25858,Picking,2022-04-11 13:48:11.207,4.8
+10,Bio-PRF,Liliana Puentes,PRF-26025,Picking,2022-04-11 13:07:45.997,0.4666666666666667
+10,Bio-PRF,Liliana Puentes,PRF-26025,Picking Completed,2022-04-11 13:08:03.730,0.2833333333333333
+10,Bio-PRF,Liliana Puentes,PRF-26025,Picking,2022-04-11 13:10:57.697,2.8833333333333333
+10,Bio-PRF,Liliana Puentes,PRF-26025,Picking,2022-04-11 13:53:12.467,0.26666666666666666
+10,Bio-PRF,Liliana Puentes,PRF-26030,Picking,2022-04-11 12:42:04.320,1.8666666666666667
+10,Bio-PRF,Liliana Puentes,PRF-26030,Picking Completed,2022-04-11 12:43:03.620,0.9833333333333333
+10,Bio-PRF,Liliana Puentes,PRF-26030,Picking,2022-04-11 12:43:15.463,0.18333333333333332
+10,Bio-PRF,Liliana Puentes,PRF-26030,Picking,2022-04-11 12:44:20.090,1.0666666666666667
+10,Bio-PRF,Liliana Puentes,PRF-26030,Picking,2022-04-11 12:45:17.877,0.95
+10,Bio-PRF,Liliana Puentes,PRF-26030,Picking,2022-04-11 12:46:44.270,0.9333333333333333
+10,Bio-PRF,Liliana Puentes,PRF-26030,Picking,2022-04-11 12:48:15.193,1.5
+10,Bio-PRF,Liliana Puentes,PRF-26030,Picking,2022-04-11 12:55:10.220,0.38333333333333336
+10,Bio-PRF,Liliana Puentes,PRF-26030,Picking,2022-04-11 12:59:54.260,4.083333333333333
+10,Bio-PRF,Liliana Puentes,PRF-26030,Picking,2022-04-11 13:03:11.563,3.283333333333333
+10,Emerginnova,Ronald Celis,Enova-9738,Picking,2022-04-11 12:43:59.263,0.25
+10,Emerginnova,Ronald Celis,Enova-9738,Picking Completed,2022-04-11 12:44:03.137,0.05
+10,Emerginnova,Ronald Celis,Enova-9739,Picking,2022-04-11 12:44:52.297,0.6166666666666667
+10,Emerginnova,Ronald Celis,Enova-9739,Picking Completed,2022-04-11 12:45:03.497,0.18333333333333332
+10,Emerginnova,Ronald Celis,Enova-9739,Picking,2022-04-11 12:45:13.970,0.16666666666666666
+10,Emerginnova,Ronald Celis,Enova-9739,Picking,2022-04-11 12:45:51.453,0.6166666666666667
+10,Emerginnova,Ronald Celis,Enova-9739,Picking,2022-04-11 12:46:05.003,0.21666666666666667
+10,Emerginnova,Ronald Celis,Enova-9739,Picking,2022-04-11 12:46:22.597,0.2833333333333333
+10,Emerginnova,Ronald Celis,Enova-9739,Picking,2022-04-11 12:46:41.237,0.3
+10,Emerginnova,Ronald Celis,Enova-9739,Picking,2022-04-11 12:47:00.643,0.31666666666666665
+10,Emerginnova,Ronald Celis,Enova-9739,Picking,2022-04-11 12:47:17.800,0.2833333333333333
+10,Emerginnova,Ronald Celis,Enova-9740,Picking,2022-04-11 12:41:49.463,0.7
+10,Emerginnova,Ronald Celis,Enova-9740,Picking Completed,2022-04-11 12:42:03.650,0.23333333333333334
+10,Emerginnova,Ronald Celis,Enova-9740,Picking,2022-04-11 12:42:33.197,0.48333333333333334
+10,Emerginnova,Ronald Celis,Enova-9740,Picking,2022-04-11 12:43:02.307,0.48333333333333334
+10,Emerginnova,Ronald Celis,Enova-9740,Picking,2022-04-11 12:43:27.357,0.4166666666666667
+10,Eywa Pharma Inc.,Andre Jocelin,7862094,Picking,2022-04-11 10:44:37.733,12.25
+10,Eywa Pharma Inc.,Andre Jocelin,7862094,Picking Completed,2022-04-11 10:45:03.610,0.4166666666666667
+10,Eywa Pharma Inc.,Andre Jocelin,7862174,Picking,2022-04-11 10:31:58.967,1.0
+10,Eywa Pharma Inc.,Andre Jocelin,7862174,Picking Completed,2022-04-11 10:32:03.730,0.06666666666666667
+10,Eywa Pharma Inc.,Andre Jocelin,7862175,Picking,2022-04-11 10:15:36.690,11.5
+10,Eywa Pharma Inc.,Andre Jocelin,7862175,Picking,2022-04-11 10:20:11.213,4.566666666666666
+10,Eywa Pharma Inc.,Andre Jocelin,7862175,Picking Completed,2022-04-11 10:20:41.213,0.5
+10,Eywa Pharma Inc.,Andre Jocelin,7863420,Picking,2022-04-11 11:30:51.503,2.8
+10,Eywa Pharma Inc.,Andre Jocelin,7863420,Picking Completed,2022-04-11 11:31:03.173,0.18333333333333332
+10,Eywa Pharma Inc.,Andre Jocelin,7864041,Picking,2022-04-11 10:22:00.480,1.2
+10,Eywa Pharma Inc.,Andre Jocelin,7864041,Picking Completed,2022-04-11 10:22:04.557,0.06666666666666667
+10,Eywa Pharma Inc.,Andre Jocelin,7872277,Picking,2022-04-11 10:47:58.203,2.7333333333333334
+10,Eywa Pharma Inc.,Andre Jocelin,7872277,Picking Completed,2022-04-11 10:48:03.030,0.06666666666666667
+10,Eywa Pharma Inc.,Andre Jocelin,7872278,Picking,2022-04-11 11:21:40.740,4.533333333333333
+10,Eywa Pharma Inc.,Andre Jocelin,7872278,Picking Completed,2022-04-11 11:22:04.033,0.38333333333333336
+10,Eywa Pharma Inc.,Andre Jocelin,7872278,Picking,2022-04-11 11:23:25.977,1.35
+10,Eywa Pharma Inc.,Frantz Laman,7862173,Picking,2022-04-11 11:20:54.003,1.9833333333333334
+10,Eywa Pharma Inc.,Frantz Laman,7862173,Picking,2022-04-11 11:32:14.023,11.333333333333334
+10,Eywa Pharma Inc.,Frantz Laman,7862173,Picking,2022-04-11 11:36:14.057,4.0
+10,Eywa Pharma Inc.,Frantz Laman,7862173,Picking,2022-04-11 11:38:54.627,2.6666666666666665
+10,Eywa Pharma Inc.,Frantz Laman,7862173,Picking,2022-04-11 11:39:09.627,0.25
+10,Eywa Pharma Inc.,Frantz Laman,7862173,Picking,2022-04-11 11:39:18.907,0.15
+10,Eywa Pharma Inc.,Frantz Laman,7862173,Picking Completed,2022-04-11 11:39:48.907,0.5
+10,Eywa Pharma Inc.,Frantz Laman,7872231,Picking,2022-04-11 10:39:48.810,1.05
+10,Eywa Pharma Inc.,Frantz Laman,7872231,Picking,2022-04-11 10:42:07.840,2.3166666666666664
+10,Eywa Pharma Inc.,Frantz Laman,7872231,Picking Completed,2022-04-11 10:42:37.840,0.5
+10,Eywa Pharma Inc.,Frantz Laman,7872232,Picking,2022-04-11 10:34:40.287,1.85
+10,Eywa Pharma Inc.,Frantz Laman,7872232,Picking,2022-04-11 10:36:18.663,1.6333333333333333
+10,Eywa Pharma Inc.,Frantz Laman,7872232,Picking,2022-04-11 10:36:58.290,0.65
+10,Eywa Pharma Inc.,Frantz Laman,7872232,Picking Completed,2022-04-11 10:37:28.290,0.5
+10,Eywa Pharma Inc.,Frantz Laman,7872264,Picking,2022-04-11 10:30:31.447,0.6666666666666666
+10,Eywa Pharma Inc.,Frantz Laman,7872264,Picking Completed,2022-04-11 10:31:03.603,0.5333333333333333
+10,Eywa Pharma Inc.,Frantz Laman,7872264,Picking,2022-04-11 10:32:29.483,1.4166666666666667
+10,Eywa Pharma Inc.,Frantz Laman,7872265,Picking,2022-04-11 10:27:38.693,0.31666666666666665
+10,Eywa Pharma Inc.,Frantz Laman,7872265,Picking Completed,2022-04-11 10:28:03.503,0.4
+10,Eywa Pharma Inc.,Frantz Laman,7872266,Picking,2022-04-11 10:27:05.520,0.36666666666666664
+10,Eywa Pharma Inc.,Frantz Laman,7872266,Picking Completed,2022-04-11 10:28:03.503,0.95
+10,Eywa Pharma Inc.,Frantz Laman,7872267,Picking,2022-04-11 10:24:26.953,1.5833333333333335
+10,Eywa Pharma Inc.,Frantz Laman,7872267,Picking Completed,2022-04-11 10:25:04.733,0.6166666666666667
+10,Eywa Pharma Inc.,Frantz Laman,7872267,Picking,2022-04-11 10:25:31.207,0.43333333333333335
+10,Eywa Pharma Inc.,Frantz Laman,7872267,Picking,2022-04-11 10:26:27.817,0.9333333333333333
+10,Eywa Pharma Inc.,Frantz Laman,7872268,Picking,2022-04-11 10:19:39.413,0.31666666666666665
+10,Eywa Pharma Inc.,Frantz Laman,7872268,Picking,2022-04-11 10:22:22.700,2.716666666666667
+10,Eywa Pharma Inc.,Frantz Laman,7872268,Picking Completed,2022-04-11 10:22:52.700,0.5
+10,Eywa Pharma Inc.,Frantz Laman,7872275,Picking,2022-04-11 10:13:35.200,1.1833333333333333
+10,Eywa Pharma Inc.,Frantz Laman,7872275,Picking,2022-04-11 10:15:36.690,2.0166666666666666
+10,Eywa Pharma Inc.,Frantz Laman,7872275,Picking,2022-04-11 10:17:06.363,1.4833333333333334
+10,Eywa Pharma Inc.,Frantz Laman,7872275,Picking Completed,2022-04-11 10:17:36.363,0.5
+10,Eywa Pharma Inc.,Frantz Laman,7872276,Picking,2022-04-11 10:07:18.790,1.75
+10,Eywa Pharma Inc.,Frantz Laman,7872276,Picking,2022-04-11 10:11:55.293,4.6
+10,Eywa Pharma Inc.,Frantz Laman,7872276,Picking Completed,2022-04-11 10:12:25.293,0.5
+10,Eywa Pharma Inc.,Liliana Puentes,7863420,Picking,2022-04-11 11:54:35.707,1.15
+10,Eywa Pharma Inc.,Liliana Puentes,7863420,Picking,2022-04-11 11:55:18.980,0.7166666666666667
+10,Eywa Pharma Inc.,Liliana Puentes,7863420,Picking,2022-04-11 11:56:29.480,1.1666666666666667
+10,Eywa Pharma Inc.,Liliana Puentes,7863420,Picking,2022-04-11 11:57:29.247,0.9833333333333333
+10,Eywa Pharma Inc.,Liliana Puentes,7863420,Picking Completed,2022-04-11 11:57:59.247,0.5
+10,Eywa Pharma Inc.,Ronald Celis,7862148,Picking,2022-04-11 10:54:59.527,0.2
+10,Eywa Pharma Inc.,Ronald Celis,7862148,Picking Completed,2022-04-11 10:55:06.807,0.11666666666666667
+10,Eywa Pharma Inc.,Ronald Celis,7862148,Picking,2022-04-11 10:55:58.560,0.85
+10,Eywa Pharma Inc.,Ronald Celis,7862148,Picking,2022-04-11 10:56:09.527,0.16666666666666666
+10,Eywa Pharma Inc.,Ronald Celis,7864040,Picking,2022-04-11 10:19:55.070,1.3166666666666667
+10,Eywa Pharma Inc.,Ronald Celis,7864040,Picking Completed,2022-04-11 10:20:04.320,0.15
+10,Eywa Pharma Inc.,Ronald Celis,7864040,Picking,2022-04-11 10:20:56.497,0.8666666666666667
+10,Eywa Pharma Inc.,Ronald Celis,7872208,Picking,2022-04-11 10:28:32.727,0.15
+10,Eywa Pharma Inc.,Ronald Celis,7872208,Picking Completed,2022-04-11 10:29:02.710,0.48333333333333334
+10,Eywa Pharma Inc.,Ronald Celis,7872209,Picking,2022-04-11 10:59:33.800,0.26666666666666666
+10,Eywa Pharma Inc.,Ronald Celis,7872209,Picking,2022-04-11 11:02:09.227,2.5833333333333335
+10,Eywa Pharma Inc.,Ronald Celis,7872209,Picking,2022-04-11 11:02:48.603,0.65
+10,Eywa Pharma Inc.,Ronald Celis,7872209,Picking,2022-04-11 11:03:56.433,1.1166666666666667
+10,Eywa Pharma Inc.,Ronald Celis,7872209,Picking Completed,2022-04-11 11:04:26.433,0.5
+10,Eywa Pharma Inc.,Ronald Celis,7872210,Picking,2022-04-11 11:06:01.110,0.23333333333333334
+10,Eywa Pharma Inc.,Ronald Celis,7872210,Picking Completed,2022-04-11 11:06:03.860,0.03333333333333333
+10,Eywa Pharma Inc.,Ronald Celis,7872210,Picking,2022-04-11 11:06:55.173,0.85
+10,Eywa Pharma Inc.,Ronald Celis,7872210,Picking,2022-04-11 11:07:07.550,0.2
+10,Eywa Pharma Inc.,Ronald Celis,7872211,Picking,2022-04-11 10:31:52.687,0.23333333333333334
+10,Eywa Pharma Inc.,Ronald Celis,7872211,Picking,2022-04-11 10:32:01.043,0.13333333333333333
+10,Eywa Pharma Inc.,Ronald Celis,7872211,Picking Completed,2022-04-11 10:32:03.730,0.03333333333333333
+10,Eywa Pharma Inc.,Ronald Celis,7872212,Picking,2022-04-11 10:32:33.407,0.2
+10,Eywa Pharma Inc.,Ronald Celis,7872212,Picking,2022-04-11 10:32:41.920,0.13333333333333333
+10,Eywa Pharma Inc.,Ronald Celis,7872212,Picking Completed,2022-04-11 10:33:03.437,0.35
+10,Eywa Pharma Inc.,Ronald Celis,7872226,Picking,2022-04-11 10:29:07.400,0.2
+10,Eywa Pharma Inc.,Ronald Celis,7872226,Picking Completed,2022-04-11 10:30:04.790,0.95
+10,Eywa Pharma Inc.,Ronald Celis,7872226,Picking,2022-04-11 10:30:25.057,0.3333333333333333
+10,Eywa Pharma Inc.,Ronald Celis,7872227,Picking,2022-04-11 10:48:27.673,0.5666666666666667
+10,Eywa Pharma Inc.,Ronald Celis,7872227,Picking Completed,2022-04-11 10:49:02.923,0.5833333333333334
+10,Eywa Pharma Inc.,Ronald Celis,7872227,Picking,2022-04-11 10:49:52.897,0.8166666666666667
+10,Eywa Pharma Inc.,Ronald Celis,7872227,Picking,2022-04-11 10:50:27.063,0.5666666666666667
+10,Eywa Pharma Inc.,Ronald Celis,7872228,Picking,2022-04-11 10:23:29.013,1.5
+10,Eywa Pharma Inc.,Ronald Celis,7872228,Picking,2022-04-11 10:25:08.860,1.65
+10,Eywa Pharma Inc.,Ronald Celis,7872228,Picking,2022-04-11 10:26:28.457,1.3166666666666667
+10,Eywa Pharma Inc.,Ronald Celis,7872228,Picking Completed,2022-04-11 10:26:58.457,0.5
+10,Eywa Pharma Inc.,Ronald Celis,7872229,Picking,2022-04-11 10:38:48.073,1.0
+10,Eywa Pharma Inc.,Ronald Celis,7872229,Picking,2022-04-11 10:38:53.057,0.06666666666666667
+10,Eywa Pharma Inc.,Ronald Celis,7872229,Picking,2022-04-11 10:44:18.500,5.416666666666667
+10,Eywa Pharma Inc.,Ronald Celis,7872229,Picking Completed,2022-04-11 10:44:48.500,0.5
+10,Eywa Pharma Inc.,Ronald Celis,7872230,Picking,2022-04-11 10:45:31.893,0.7833333333333333
+10,Eywa Pharma Inc.,Ronald Celis,7872230,Picking Completed,2022-04-11 10:46:03.547,0.5166666666666667
+10,Eywa Pharma Inc.,Ronald Celis,7872230,Picking,2022-04-11 10:46:34.910,0.5166666666666667
 10,Livs Products,Nelson Hurtado,GMM_ACV_10.990 Bottles,Picking,2022-04-11 08:26:24.747,0.55
 10,Livs Products,Nelson Hurtado,GMM_ACV_10.990 Bottles,Picking,2022-04-11 08:26:44.153,0.31666666666666665
 10,Livs Products,Nelson Hurtado,GMM_ACV_10.990 Bottles,Picking,2022-04-11 08:27:00.090,0.25
@@ -9,6 +210,414 @@ Warehouse,Project,Employee,Shipment,Operation,Date,Time
 10,Livs Products,Nelson Hurtado,GMM_ACV_10.990 Bottles,Picking,2022-04-11 08:28:13.923,0.1
 10,Livs Products,Nelson Hurtado,GMM_ACV_10.990 Bottles,Picking,2022-04-11 08:28:19.517,0.08333333333333333
 10,Livs Products,Nelson Hurtado,GMM_ACV_10.990 Bottles,Picking,2022-04-11 08:28:36.907,0.2833333333333333
+10,MedStone Pharma LLC,Liliana Puentes,7872839,Picking,2022-04-11 12:35:16.437,0.23333333333333334
+10,MedStone Pharma LLC,Liliana Puentes,7872839,Picking Completed,2022-04-11 12:36:03.570,0.7833333333333333
+10,MedStone Pharma LLC,Liliana Puentes,7872842,Picking,2022-04-11 12:34:34.890,0.21666666666666667
+10,MedStone Pharma LLC,Liliana Puentes,7872842,Picking Completed,2022-04-11 12:35:03.717,0.4666666666666667
+10,MedStone Pharma LLC,Liliana Puentes,7872843,Picking,2022-04-11 12:31:57.430,0.4
+10,MedStone Pharma LLC,Liliana Puentes,7872843,Picking Completed,2022-04-11 12:32:03.177,0.08333333333333333
+10,"Methapharm, Inc.",Liliana Puentes,MET208623,Picking,2022-04-11 14:02:18.380,1.2
+10,"Methapharm, Inc.",Liliana Puentes,MET208632,Picking,2022-04-11 13:59:52.297,0.31666666666666665
+10,"Methapharm, Inc.",Liliana Puentes,MET208632,Picking Completed,2022-04-11 14:00:04.217,0.18333333333333332
+10,"Methapharm, Inc.",Ronald Celis,MET208558,Picking,2022-04-11 12:09:22.430,0.16666666666666666
+10,"Methapharm, Inc.",Ronald Celis,MET208558,Picking Completed,2022-04-11 12:10:04.823,0.7
+10,"Methapharm, Inc.",Ronald Celis,MET208570,Picking,2022-04-11 12:05:01.307,0.2
+10,"Methapharm, Inc.",Ronald Celis,MET208570,Picking Completed,2022-04-11 12:05:04.213,0.03333333333333333
+10,"Methapharm, Inc.",Ronald Celis,MET208581,Picking,2022-04-11 12:06:56.143,0.31666666666666665
+10,"Methapharm, Inc.",Ronald Celis,MET208581,Picking Completed,2022-04-11 12:07:03.407,0.11666666666666667
+10,"Methapharm, Inc.",Ronald Celis,MET208581,Picking,2022-04-11 12:07:04.613,0.016666666666666666
+10,"Methapharm, Inc.",Ronald Celis,MET208582,Picking,2022-04-11 12:10:49.063,0.5666666666666667
+10,"Methapharm, Inc.",Ronald Celis,MET208582,Picking Completed,2022-04-11 12:11:03.780,0.23333333333333334
+10,"Methapharm, Inc.",Ronald Celis,MET208591,Picking,2022-04-11 11:55:53.323,0.25
+10,"Methapharm, Inc.",Ronald Celis,MET208591,Picking Completed,2022-04-11 11:56:03.120,0.15
+10,"Methapharm, Inc.",Ronald Celis,MET208591,Picking,2022-04-11 11:59:06.377,3.05
+10,"Methapharm, Inc.",Ronald Celis,MET208591,Picking,2022-04-11 12:04:38.433,5.533333333333333
+10,"Methapharm, Inc.",Ronald Celis,MET208591,Picking,2022-04-11 12:04:46.247,0.11666666666666667
+10,"Methapharm, Inc.",Ronald Celis,MET208614,Picking,2022-04-11 11:48:33.353,4.466666666666667
+10,"Methapharm, Inc.",Ronald Celis,MET208614,Picking,2022-04-11 11:48:41.570,0.13333333333333333
+10,"Methapharm, Inc.",Ronald Celis,MET208614,Picking,2022-04-11 11:48:52.963,0.18333333333333332
+10,"Methapharm, Inc.",Ronald Celis,MET208614,Picking Completed,2022-04-11 11:49:03.443,0.16666666666666666
+10,"Methapharm, Inc.",Ronald Celis,MET208614,Picking,2022-04-11 11:52:53.547,3.8333333333333335
+10,Quinn Pharmaceuticals ,Matthew Shipley,SO5161,Picking,2022-04-11 11:01:24.757,1318.2166666666667
+10,Quinn Pharmaceuticals ,Matthew Shipley,SO5161,Picking,2022-04-11 11:01:30.020,0.08333333333333333
+10,Quinn Pharmaceuticals ,Matthew Shipley,SO5161,Picking Completed,2022-04-11 11:02:02.680,0.5333333333333333
+10,"SD Head USA, LLC",Nelson Hurtado,7872840,Picking,2022-04-11 13:13:13.040,0.4166666666666667
+10,"SD Head USA, LLC",Nelson Hurtado,7872840,Picking Completed,2022-04-11 13:14:02.880,0.8166666666666667
+10,"SD Head USA, LLC",Nelson Hurtado,7872840,Picking,2022-04-11 13:39:29.033,20.216666666666665
+10,"SD Head USA, LLC",Nelson Hurtado,7872840,Picking,2022-04-11 13:55:26.087,8.883333333333333
+10,"SD Head USA, LLC",Nelson Hurtado,7872840,Picking,2022-04-11 13:55:48.917,0.36666666666666664
+10,"Snap Medical Industries, LLC",Ronald Celis,7871657,Picking,2022-04-11 12:39:14.577,0.26666666666666666
+10,"Snap Medical Industries, LLC",Ronald Celis,7871657,Picking Completed,2022-04-11 12:40:03.510,0.8
+10,"Snap Medical Industries, LLC",Ronald Celis,7871658,Picking,2022-04-11 12:36:43.717,0.5166666666666667
+10,"Snap Medical Industries, LLC",Ronald Celis,7871658,Picking Completed,2022-04-11 12:37:03.620,0.31666666666666665
+10,"Snap Medical Industries, LLC",Ronald Celis,7872220,Picking,2022-04-11 12:38:51.217,0.21666666666666667
+10,"Snap Medical Industries, LLC",Ronald Celis,7872220,Picking Completed,2022-04-11 12:39:02.670,0.18333333333333332
+10,"Snap Medical Industries, LLC",Ronald Celis,7872816,Picking,2022-04-11 12:37:10.217,0.26666666666666666
+10,"Snap Medical Industries, LLC",Ronald Celis,7872816,Picking Completed,2022-04-11 12:38:03.747,0.8833333333333333
+10,"Snap Medical Industries, LLC",Ronald Celis,7872817,Picking,2022-04-11 12:37:37.437,0.2833333333333333
+10,"Snap Medical Industries, LLC",Ronald Celis,7872817,Picking Completed,2022-04-11 12:38:03.747,0.43333333333333335
+10,"Snap Medical Industries, LLC",Ronald Celis,7872818,Picking,2022-04-11 12:35:18.733,1.0833333333333333
+10,"Snap Medical Industries, LLC",Ronald Celis,7872818,Picking Completed,2022-04-11 12:36:03.570,0.7333333333333333
+10,"Snap Medical Industries, LLC",Ronald Celis,7872819,Picking,2022-04-11 12:38:30.670,0.7166666666666667
+10,"Snap Medical Industries, LLC",Ronald Celis,7872819,Picking Completed,2022-04-11 12:39:02.670,0.5333333333333333
+102,"Senseonics, Incorporated",Omar Robles,6314968,Picking,2022-04-11 11:25:47.650,1311.4833333333333
+102,"Senseonics, Incorporated",Omar Robles,6314968,Picking,2022-04-11 11:25:49.137,0.016666666666666666
+102,"Senseonics, Incorporated",Omar Robles,6314968,Picking,2022-04-11 11:25:51.133,0.016666666666666666
+102,"Senseonics, Incorporated",Omar Robles,6314968,Picking Completed,2022-04-11 11:26:03.823,0.2
+12,Twinlab Consolidated Corporation,Andre Nau,TWL4112022,Picking,2022-04-11 11:39:42.097,6.966666666666667
+12,Twinlab Consolidated Corporation,Andre Nau,TWL4112022,Picking Completed,2022-04-11 11:40:05.767,0.38333333333333336
+12,Twinlab Consolidated Corporation,Andre Nau,TWL4112022,Picking,2022-04-11 11:45:52.270,0.03333333333333333
+12,Twinlab Consolidated Corporation,Andre Nau,TWL4112022,Picking,2022-04-11 11:48:40.477,0.6166666666666667
+12,Twinlab Consolidated Corporation,Andre Nau,TWL4112022,Picking,2022-04-11 11:51:29.027,1.15
+12,Twinlab Consolidated Corporation,Andre Nau,TWL4112022,Picking,2022-04-11 11:53:38.407,2.15
+12,Twinlab Consolidated Corporation,Andre Nau,TWL4112022,Picking,2022-04-11 11:55:57.247,2.3
+12,Twinlab Consolidated Corporation,Andre Nau,TWL4112022,Picking,2022-04-11 11:58:04.437,2.1166666666666667
+12,Twinlab Consolidated Corporation,Andre Nau,TWL4112022,Picking,2022-04-11 12:00:37.317,2.533333333333333
+12,Twinlab Consolidated Corporation,Andre Nau,TWL4112022,Picking,2022-04-11 12:09:52.837,2.4
+12,Twinlab Consolidated Corporation,Andre Nau,TWL4112022,Picking,2022-04-11 12:12:21.800,2.466666666666667
+12,Twinlab Consolidated Corporation,Andre Nau,TWL4112022,Picking,2022-04-11 12:21:44.630,3.9833333333333334
+12,Twinlab Consolidated Corporation,Andre Nau,TWL4112022,Picking,2022-04-11 12:31:09.990,9.416666666666666
+12,Twinlab Consolidated Corporation,Andre Nau,TWL4112022,Picking,2022-04-11 12:35:06.997,1.3166666666666667
+12,Twinlab Consolidated Corporation,Andre Nau,TWL4112022,Picking,2022-04-11 12:38:01.030,2.9
+12,Twinlab Consolidated Corporation,Andre Nau,TWL4112022,Picking,2022-04-11 12:42:45.417,0.31666666666666665
+12,Twinlab Consolidated Corporation,Andre Nau,TWL4112022,Picking,2022-04-11 12:45:52.970,2.75
+12,Twinlab Consolidated Corporation,Andre Nau,TWL4112022,Picking,2022-04-11 12:49:56.477,1.0
+12,Twinlab Consolidated Corporation,Andre Nau,TWL4112022,Picking,2022-04-11 12:52:25.513,2.4833333333333334
+12,Twinlab Consolidated Corporation,Andre Nau,TWL4112022,Picking,2022-04-11 12:54:50.063,2.4
+12,Twinlab Consolidated Corporation,Andre Nau,TWL4112022,Picking,2022-04-11 13:13:54.380,19.066666666666666
+12,Twinlab Consolidated Corporation,Andre Nau,TWL4112022,Picking,2022-04-11 13:16:03.227,2.1333333333333333
+12,Twinlab Consolidated Corporation,Andre Nau,TWL4112022,Picking,2022-04-11 13:18:34.570,2.5166666666666666
+12,Twinlab Consolidated Corporation,Andre Nau,TWL4112022,Picking,2022-04-11 13:32:29.707,13.916666666666666
+12,Twinlab Consolidated Corporation,Andre Nau,TWL4112022,Picking,2022-04-11 13:36:21.407,3.85
+12,Twinlab Consolidated Corporation,Andre Nau,TWL4112022,Picking,2022-04-11 13:39:47.503,3.4333333333333336
+12,Twinlab Consolidated Corporation,Andre Nau,TWL4112022,Picking,2022-04-11 13:42:07.433,2.3166666666666664
+12,Twinlab Consolidated Corporation,Andre Nau,TWL4112022,Picking,2022-04-11 13:44:15.657,2.1333333333333333
+12,Twinlab Consolidated Corporation,Andre Nau,TWL4112022,Picking,2022-04-11 13:46:22.267,2.1
+12,Twinlab Consolidated Corporation,Andre Nau,TWL4112022,Picking,2022-04-11 13:48:41.130,2.3
+12,Twinlab Consolidated Corporation,Andre Nau,TWL4112022,Picking,2022-04-11 13:51:12.057,2.5
+12,Twinlab Consolidated Corporation,Baldomero Ramos,TWL4112022,Picking,2022-04-11 11:47:36.163,1.7166666666666668
+12,Twinlab Consolidated Corporation,Baldomero Ramos,TWL4112022,Picking Completed,2022-04-11 11:48:02.817,0.43333333333333335
+12,Twinlab Consolidated Corporation,Baldomero Ramos,TWL4112022,Picking,2022-04-11 11:50:19.463,1.6333333333333333
+12,Twinlab Consolidated Corporation,Baldomero Ramos,TWL4112022,Picking,2022-04-11 12:04:08.603,3.5166666666666666
+12,Twinlab Consolidated Corporation,Baldomero Ramos,TWL4112022,Picking,2022-04-11 12:06:42.300,2.55
+12,Twinlab Consolidated Corporation,Baldomero Ramos,TWL4112022,Picking,2022-04-11 12:07:28.050,0.75
+12,Twinlab Consolidated Corporation,Baldomero Ramos,TWL4112022,Picking,2022-04-11 12:15:35.290,3.216666666666667
+12,Twinlab Consolidated Corporation,Baldomero Ramos,TWL4112022,Picking,2022-04-11 12:17:01.450,1.4333333333333333
+12,Twinlab Consolidated Corporation,Baldomero Ramos,TWL4112022,Picking,2022-04-11 12:17:45.090,0.7166666666666667
+12,Twinlab Consolidated Corporation,Baldomero Ramos,TWL4112022,Picking,2022-04-11 12:32:09.197,0.9833333333333333
+12,Twinlab Consolidated Corporation,Baldomero Ramos,TWL4112022,Picking,2022-04-11 12:32:31.633,0.36666666666666664
+12,Twinlab Consolidated Corporation,Baldomero Ramos,TWL4112022,Picking,2022-04-11 12:33:47.747,1.2666666666666666
+12,Twinlab Consolidated Corporation,Baldomero Ramos,TWL4112022,Picking,2022-04-11 12:42:26.120,4.416666666666667
+12,Twinlab Consolidated Corporation,Baldomero Ramos,TWL4112022,Picking,2022-04-11 12:43:07.027,0.35
+12,Twinlab Consolidated Corporation,Baldomero Ramos,TWL4112022,Picking,2022-04-11 12:47:54.630,2.0166666666666666
+12,Twinlab Consolidated Corporation,Shannon Williamson,WWW44425,Picking,2022-04-11 10:39:24.160,1248.2
+12,Twinlab Consolidated Corporation,Shannon Williamson,WWW44425,Picking Completed,2022-04-11 10:40:05.413,0.6833333333333333
+12,Twinlab Consolidated Corporation,Shannon Williamson,WWW44432,Picking,2022-04-11 10:38:53.297,1438.7833333333333
+12,Twinlab Consolidated Corporation,Shannon Williamson,WWW44432,Picking Completed,2022-04-11 10:39:04.150,0.16666666666666666
+12,Twinlab Consolidated Corporation,Shannon Williamson,WWW44439,Picking,2022-04-11 10:39:14.757,0.16666666666666666
+12,Twinlab Consolidated Corporation,Shannon Williamson,WWW44439,Picking Completed,2022-04-11 10:40:05.413,0.8333333333333334
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008564,Picking,2022-04-11 11:30:23.833,0.3333333333333333
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008564,Picking,2022-04-11 11:30:45.943,0.36666666666666664
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008564,Picking,2022-04-11 11:31:04.427,0.3
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008564,Picking Completed,2022-04-11 11:32:03.380,0.9666666666666667
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008565,Picking,2022-04-11 11:16:52.560,0.25
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008565,Picking,2022-04-11 11:17:01.793,0.15
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008565,Picking Completed,2022-04-11 11:17:03.543,0.016666666666666666
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008566,Picking,2022-04-11 12:18:24.327,0.23333333333333334
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008566,Picking,2022-04-11 12:18:31.857,0.11666666666666667
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008566,Picking Completed,2022-04-11 12:19:03.733,0.5166666666666667
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008567,Picking,2022-04-11 11:19:33.737,0.25
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008567,Picking,2022-04-11 11:19:40.877,0.11666666666666667
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008567,Picking Completed,2022-04-11 11:20:05.890,0.4166666666666667
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008568,Picking,2022-04-11 11:49:13.057,0.5
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008568,Picking,2022-04-11 11:49:20.883,0.11666666666666667
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008568,Picking Completed,2022-04-11 11:50:23.947,1.05
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008569,Picking,2022-04-11 12:16:36.497,0.2833333333333333
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008569,Picking,2022-04-11 12:17:08.217,0.5166666666666667
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008569,Picking Completed,2022-04-11 12:18:05.043,0.9333333333333333
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008570,Picking,2022-04-11 11:18:34.610,0.21666666666666667
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008570,Picking,2022-04-11 11:18:41.673,0.11666666666666667
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008570,Picking Completed,2022-04-11 11:19:03.843,0.36666666666666664
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008571,Picking,2022-04-11 12:12:37.957,0.6166666666666667
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008571,Picking,2022-04-11 12:12:46.283,0.13333333333333333
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008571,Picking,2022-04-11 12:12:52.503,0.1
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008571,Picking Completed,2022-04-11 12:13:07.300,0.23333333333333334
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008572,Picking,2022-04-11 11:50:27.043,0.8166666666666667
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008572,Picking,2022-04-11 11:50:36.653,0.15
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008572,Picking Completed,2022-04-11 11:51:02.603,0.4166666666666667
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008572,Picking,2022-04-11 12:25:54.917,0.45
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008572,Picking,2022-04-11 12:26:02.013,0.11666666666666667
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008572,Picking,2022-04-11 12:26:10.577,0.13333333333333333
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008572,Picking,2022-04-11 12:26:18.077,0.11666666666666667
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008573,Picking,2022-04-11 12:05:15.357,0.5
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008573,Picking,2022-04-11 12:05:21.870,0.1
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008573,Picking,2022-04-11 12:05:28.590,0.1
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008573,Picking,2022-04-11 12:05:34.763,0.1
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008573,Picking Completed,2022-04-11 12:06:03.070,0.4666666666666667
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008573,Picking,2022-04-11 12:19:36.720,0.45
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008573,Picking,2022-04-11 12:19:43.343,0.1
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008573,Picking,2022-04-11 12:19:50.343,0.11666666666666667
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008573,Picking,2022-04-11 12:19:56.640,0.1
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008573,Picking,2022-04-11 12:20:04.127,0.11666666666666667
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008574,Picking,2022-04-11 12:02:17.600,0.4166666666666667
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008574,Picking,2022-04-11 12:02:42.960,0.31666666666666665
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008574,Picking Completed,2022-04-11 12:03:03.960,0.35
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008574,Picking,2022-04-11 12:22:10.913,0.35
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008574,Picking,2022-04-11 12:22:16.880,0.08333333333333333
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008574,Picking,2022-04-11 12:22:22.897,0.1
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008575,Picking,2022-04-11 11:51:30.043,0.5166666666666667
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008575,Picking,2022-04-11 11:51:38.950,0.13333333333333333
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008575,Picking Completed,2022-04-11 11:52:06.793,0.45
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008575,Picking,2022-04-11 12:23:55.417,0.36666666666666664
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008575,Picking,2022-04-11 12:24:01.900,0.1
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008576,Picking,2022-04-11 11:20:36.033,0.16666666666666666
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008576,Picking,2022-04-11 11:20:44.050,0.13333333333333333
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008576,Picking Completed,2022-04-11 11:21:03.673,0.31666666666666665
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008577,Picking,2022-04-11 11:21:40.567,0.18333333333333332
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008577,Picking,2022-04-11 11:21:49.177,0.13333333333333333
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008577,Picking Completed,2022-04-11 11:22:04.033,0.23333333333333334
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008578,Picking,2022-04-11 11:22:32.553,0.15
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008578,Picking,2022-04-11 11:22:39.037,0.1
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008578,Picking Completed,2022-04-11 11:23:03.460,0.4
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008579,Picking,2022-04-11 12:03:50.103,0.38333333333333336
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008579,Picking,2022-04-11 12:03:58.773,0.13333333333333333
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008579,Picking Completed,2022-04-11 12:04:03.443,0.06666666666666667
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008579,Picking,2022-04-11 12:21:15.300,0.4166666666666667
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008579,Picking,2022-04-11 12:21:22.770,0.11666666666666667
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008580,Picking,2022-04-11 12:13:51.537,0.31666666666666665
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008580,Picking,2022-04-11 12:13:59.677,0.13333333333333333
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008580,Picking,2022-04-11 12:14:34.583,0.48333333333333334
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008580,Picking,2022-04-11 12:14:41.710,0.11666666666666667
+15,"Alliance Pharma, Inc.",Haydee Moreno,30008580,Picking Completed,2022-04-11 12:15:03.647,0.35
+15,"Brookfield Pharmaceuticals, LLC",Yaima Castillo,7871699,Picking,2022-04-11 11:07:03.487,0.48333333333333334
+15,"Brookfield Pharmaceuticals, LLC",Yaima Castillo,7871699,Picking Completed,2022-04-11 11:08:03.270,0.9833333333333333
+15,"Brookfield Pharmaceuticals, LLC",Yaima Castillo,7871704,Picking,2022-04-11 10:46:37.440,0.4
+15,"Brookfield Pharmaceuticals, LLC",Yaima Castillo,7871704,Picking Completed,2022-04-11 10:47:03.377,0.4166666666666667
+15,"Brookfield Pharmaceuticals, LLC",Yaima Castillo,7871705,Picking,2022-04-11 10:41:35.290,0.9
+15,"Brookfield Pharmaceuticals, LLC",Yaima Castillo,7871705,Picking Completed,2022-04-11 10:42:03.337,0.4666666666666667
+15,"Brookfield Pharmaceuticals, LLC",Yaima Castillo,7872219,Picking,2022-04-11 11:05:01.860,0.8166666666666667
+15,"Brookfield Pharmaceuticals, LLC",Yaima Castillo,7872219,Picking Completed,2022-04-11 11:05:03.437,0.016666666666666666
+15,"Brookfield Pharmaceuticals, LLC",Yaima Castillo,7872223,Picking,2022-04-11 11:02:28.323,0.25
+15,"Brookfield Pharmaceuticals, LLC",Yaima Castillo,7872223,Picking Completed,2022-04-11 11:03:03.773,0.5833333333333334
+15,"Brookfield Pharmaceuticals, LLC",Yaima Castillo,7872223,Picking,2022-04-11 11:03:11.573,0.11666666666666667
+15,"Brookfield Pharmaceuticals, LLC",Yaima Castillo,7872257,Picking,2022-04-11 10:44:42.610,0.38333333333333336
+15,"Brookfield Pharmaceuticals, LLC",Yaima Castillo,7872257,Picking Completed,2022-04-11 10:45:03.610,0.35
+15,"Brookfield Pharmaceuticals, LLC",Yaima Castillo,7872257,Picking,2022-04-11 10:45:46.063,0.7
+15,"Brookfield Pharmaceuticals, LLC",Yaima Castillo,7872260,Picking,2022-04-11 10:42:59.340,0.5833333333333334
+15,"Brookfield Pharmaceuticals, LLC",Yaima Castillo,7872260,Picking Completed,2022-04-11 10:43:02.950,0.05
+15,"Brookfield Pharmaceuticals, LLC",Yaima Castillo,7872260,Picking,2022-04-11 10:43:18.293,0.25
+15,"Brookfield Pharmaceuticals, LLC",Yaima Castillo,7872291,Picking,2022-04-11 11:13:07.307,1.3
+15,"Brookfield Pharmaceuticals, LLC",Yaima Castillo,7872291,Picking Completed,2022-04-11 11:14:02.853,0.9166666666666666
+15,"Brookfield Pharmaceuticals, LLC",yudisel tubella,7871698,Picking,2022-04-11 11:04:48.030,0.38333333333333336
+15,"Brookfield Pharmaceuticals, LLC",yudisel tubella,7871698,Picking Completed,2022-04-11 11:05:03.437,0.25
+15,"Brookfield Pharmaceuticals, LLC",yudisel tubella,7871698,Picking,2022-04-11 11:05:18.267,0.23333333333333334
+15,"Brookfield Pharmaceuticals, LLC",yudisel tubella,7871700,Picking,2022-04-11 12:35:20.453,0.2
+15,"Brookfield Pharmaceuticals, LLC",yudisel tubella,7871700,Picking Completed,2022-04-11 12:36:03.570,0.7166666666666667
+15,"Brookfield Pharmaceuticals, LLC",yudisel tubella,7871701,Picking,2022-04-11 11:08:00.927,0.15
+15,"Brookfield Pharmaceuticals, LLC",yudisel tubella,7871701,Picking Completed,2022-04-11 11:08:03.270,0.03333333333333333
+15,"Brookfield Pharmaceuticals, LLC",yudisel tubella,7871702,Picking,2022-04-11 12:34:33.200,0.23333333333333334
+15,"Brookfield Pharmaceuticals, LLC",yudisel tubella,7871702,Picking Completed,2022-04-11 12:35:03.717,0.5
+15,"Brookfield Pharmaceuticals, LLC",yudisel tubella,7871703,Picking,2022-04-11 12:35:44.377,0.35
+15,"Brookfield Pharmaceuticals, LLC",yudisel tubella,7871703,Picking Completed,2022-04-11 12:36:03.570,0.31666666666666665
+15,"Brookfield Pharmaceuticals, LLC",yudisel tubella,7872213,Picking,2022-04-11 11:07:33.770,0.16666666666666666
+15,"Brookfield Pharmaceuticals, LLC",yudisel tubella,7872213,Picking Completed,2022-04-11 11:08:03.270,0.48333333333333334
+15,"Brookfield Pharmaceuticals, LLC",yudisel tubella,7872214,Picking,2022-04-11 12:14:16.177,0.3333333333333333
+15,"Brookfield Pharmaceuticals, LLC",yudisel tubella,7872214,Picking Completed,2022-04-11 12:15:03.647,0.7833333333333333
+15,"Brookfield Pharmaceuticals, LLC",yudisel tubella,7872215,Picking,2022-04-11 11:08:35.317,0.5
+15,"Brookfield Pharmaceuticals, LLC",yudisel tubella,7872215,Picking Completed,2022-04-11 11:09:03.707,0.4666666666666667
+15,"Brookfield Pharmaceuticals, LLC",yudisel tubella,7872216,Picking,2022-04-11 12:34:51.310,0.25
+15,"Brookfield Pharmaceuticals, LLC",yudisel tubella,7872216,Picking Completed,2022-04-11 12:35:03.717,0.2
+15,"Brookfield Pharmaceuticals, LLC",yudisel tubella,7872216,Picking,2022-04-11 12:35:04.107,0.0
+15,"Brookfield Pharmaceuticals, LLC",yudisel tubella,7872217,Picking,2022-04-11 10:44:34.297,0.25
+15,"Brookfield Pharmaceuticals, LLC",yudisel tubella,7872217,Picking,2022-04-11 11:01:01.523,0.25
+15,"Brookfield Pharmaceuticals, LLC",yudisel tubella,7872217,Picking Completed,2022-04-11 11:01:31.523,0.5
+15,"Brookfield Pharmaceuticals, LLC",yudisel tubella,7872218,Picking,2022-04-11 11:02:18.807,0.3
+15,"Brookfield Pharmaceuticals, LLC",yudisel tubella,7872218,Picking,2022-04-11 11:02:39.790,0.3333333333333333
+15,"Brookfield Pharmaceuticals, LLC",yudisel tubella,7872218,Picking Completed,2022-04-11 11:03:03.773,0.38333333333333336
+15,"Brookfield Pharmaceuticals, LLC",yudisel tubella,7872221,Picking,2022-04-11 12:34:15.170,0.16666666666666666
+15,"Brookfield Pharmaceuticals, LLC",yudisel tubella,7872221,Picking Completed,2022-04-11 12:35:03.717,0.8
+15,"Brookfield Pharmaceuticals, LLC",yudisel tubella,7872222,Picking,2022-04-11 11:07:48.520,0.2
+15,"Brookfield Pharmaceuticals, LLC",yudisel tubella,7872222,Picking Completed,2022-04-11 11:08:03.270,0.23333333333333334
+15,"Brookfield Pharmaceuticals, LLC",yudisel tubella,7872224,Picking,2022-04-11 12:14:42.427,0.21666666666666667
+15,"Brookfield Pharmaceuticals, LLC",yudisel tubella,7872224,Picking Completed,2022-04-11 12:15:03.647,0.35
+15,"Brookfield Pharmaceuticals, LLC",yudisel tubella,7872224,Picking,2022-04-11 12:15:18.760,0.25
+15,"Brookfield Pharmaceuticals, LLC",yudisel tubella,7872225,Picking,2022-04-11 10:43:17.543,0.7166666666666667
+15,"Brookfield Pharmaceuticals, LLC",yudisel tubella,7872225,Picking,2022-04-11 10:59:20.317,0.7166666666666667
+15,"Brookfield Pharmaceuticals, LLC",yudisel tubella,7872225,Picking Completed,2022-04-11 10:59:50.317,0.5
+15,"Brookfield Pharmaceuticals, LLC",yudisel tubella,7872261,Picking,2022-04-11 11:03:27.073,0.7166666666666667
+15,"Brookfield Pharmaceuticals, LLC",yudisel tubella,7872261,Picking,2022-04-11 11:03:56.980,0.48333333333333334
+15,"Brookfield Pharmaceuticals, LLC",yudisel tubella,7872261,Picking Completed,2022-04-11 11:04:03.807,0.1
+15,"Brookfield Pharmaceuticals, LLC",yudisel tubella,7872292,Picking,2022-04-11 12:11:52.003,1.1166666666666667
+15,"Brookfield Pharmaceuticals, LLC",yudisel tubella,7872292,Picking Completed,2022-04-11 12:12:02.657,0.16666666666666666
+15,"Brookfield Pharmaceuticals, LLC",yudisel tubella,7872293,Picking,2022-04-11 12:12:40.457,0.7333333333333333
+15,"Brookfield Pharmaceuticals, LLC",yudisel tubella,7872293,Picking Completed,2022-04-11 12:13:07.300,0.43333333333333335
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7871672,Picking,2022-04-11 12:06:35.327,0.8333333333333334
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7871672,Picking Completed,2022-04-11 12:07:03.407,0.4666666666666667
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7871672,Picking,2022-04-11 12:16:18.900,9.25
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7871672,Picking,2022-04-11 12:16:57.887,0.6333333333333333
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7871672,Picking,2022-04-11 12:17:24.653,0.43333333333333335
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7871672,Picking,2022-04-11 12:17:48.420,0.38333333333333336
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7871673,Picking,2022-04-11 12:18:45.357,0.4166666666666667
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7871673,Picking Completed,2022-04-11 12:19:03.733,0.3
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7871673,Picking,2022-04-11 12:19:24.267,0.3333333333333333
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7871673,Picking,2022-04-11 12:19:46.610,0.36666666666666664
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7871673,Picking,2022-04-11 12:20:04.187,0.2833333333333333
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7871674,Picking,2022-04-11 12:26:07.577,0.25
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7871674,Picking,2022-04-11 12:26:30.403,0.36666666666666664
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7871674,Picking,2022-04-11 12:26:59.200,0.4666666666666667
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7871674,Picking Completed,2022-04-11 12:27:23.153,0.38333333333333336
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7871675,Picking,2022-04-11 12:20:52.287,0.21666666666666667
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7871675,Picking,2022-04-11 12:21:21.473,0.48333333333333334
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7871675,Picking,2022-04-11 12:21:41.990,0.3333333333333333
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7871675,Picking,2022-04-11 12:22:28.740,0.7666666666666667
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7871675,Picking,2022-04-11 12:24:00.337,0.8333333333333334
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7871675,Picking Completed,2022-04-11 12:24:30.337,0.5
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7871676,Picking,2022-04-11 13:18:47.937,0.48333333333333334
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7871676,Picking Completed,2022-04-11 13:19:02.770,0.23333333333333334
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7871676,Picking,2022-04-11 13:19:07.987,0.08333333333333333
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7871676,Picking,2022-04-11 13:19:40.313,0.5333333333333333
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7871677,Picking,2022-04-11 13:16:38.340,0.6
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7871677,Picking,2022-04-11 13:16:56.203,0.2833333333333333
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7871677,Picking Completed,2022-04-11 13:17:14.283,0.3
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7871677,Picking,2022-04-11 13:17:18.813,0.06666666666666667
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7871677,Picking,2022-04-11 13:17:41.053,0.36666666666666664
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7871678,Picking,2022-04-11 10:56:00.840,0.2833333333333333
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7871678,Picking Completed,2022-04-11 10:56:33.823,0.5333333333333333
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7871679,Picking,2022-04-11 10:52:14.193,0.25
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7871679,Picking,2022-04-11 10:52:35.553,0.35
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7871679,Picking Completed,2022-04-11 10:53:02.973,0.45
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7871681,Picking,2022-04-11 12:24:54.447,0.35
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7871681,Picking Completed,2022-04-11 12:25:03.977,0.15
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7871682,Picking,2022-04-11 12:25:42.310,0.5166666666666667
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7871682,Picking Completed,2022-04-11 12:26:03.510,0.35
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7871683,Picking,2022-04-11 12:27:30.123,0.18333333333333332
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7871683,Picking Completed,2022-04-11 12:28:02.530,0.5333333333333333
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7871683,Picking,2022-04-11 12:28:02.827,0.0
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7871684,Picking,2022-04-11 10:39:54.507,3.3833333333333333
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7871684,Picking,2022-04-11 10:41:14.227,1.3166666666666667
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7871684,Picking,2022-04-11 10:41:55.870,0.6833333333333333
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7871684,Picking,2022-04-11 10:43:22.357,1.4333333333333333
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7871684,Picking,2022-04-11 10:44:15.857,0.8833333333333333
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7871684,Picking Completed,2022-04-11 10:44:45.857,0.5
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7871685,Picking,2022-04-11 10:49:31.770,0.16666666666666666
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7871685,Picking Completed,2022-04-11 10:50:04.737,0.5333333333333333
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7871685,Picking,2022-04-11 10:50:15.580,0.16666666666666666
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7871685,Picking,2022-04-11 10:51:16.253,1.0
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7871686,Picking,2022-04-11 13:20:50.603,0.2
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7871686,Picking Completed,2022-04-11 13:21:03.610,0.21666666666666667
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7871686,Picking,2022-04-11 13:21:16.853,0.21666666666666667
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7871686,Picking,2022-04-11 13:21:32.000,0.25
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7871686,Picking,2022-04-11 13:22:05.857,0.55
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7871686,Picking,2022-04-11 13:22:35.443,0.48333333333333334
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7871686,Picking,2022-04-11 13:23:58.270,1.3666666666666667
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7872294,Picking,2022-04-11 10:53:23.053,0.4166666666666667
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7872294,Picking Completed,2022-04-11 10:54:10.990,0.7833333333333333
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7872294,Picking,2022-04-11 10:54:38.057,0.45
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7872295,Picking,2022-04-11 10:45:34.097,0.4
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7872295,Picking,2022-04-11 10:46:51.627,1.2833333333333332
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7872295,Picking,2022-04-11 10:47:23.140,0.5166666666666667
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7872295,Picking,2022-04-11 10:48:11.377,0.8
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7872295,Picking,2022-04-11 10:48:37.097,0.4166666666666667
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7872295,Picking Completed,2022-04-11 10:49:07.097,0.5
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7872820,Picking,2022-04-11 10:56:51.747,0.2
+15,"Laser Pharmaceuticals, LLC",Karen Hernandez,7872820,Picking Completed,2022-04-11 10:57:02.980,0.18333333333333332
+15,"Mizner Bioscience, LLC",Yaima Castillo,7862891,Picking,2022-04-11 12:13:16.630,0.7
+15,"Mizner Bioscience, LLC",Yaima Castillo,7862891,Picking Completed,2022-04-11 12:14:03.580,0.7666666666666667
+15,"Mizner Bioscience, LLC",Yaima Castillo,7862892,Picking,2022-04-11 12:08:57.117,0.5333333333333333
+15,"Mizner Bioscience, LLC",Yaima Castillo,7862892,Picking Completed,2022-04-11 12:09:02.930,0.08333333333333333
+15,"Mizner Bioscience, LLC",Yaima Castillo,7862893,Picking,2022-04-11 12:20:13.190,1.4333333333333333
+15,"Mizner Bioscience, LLC",Yaima Castillo,7862893,Picking,2022-04-11 12:20:33.503,0.3333333333333333
+15,"Mizner Bioscience, LLC",Yaima Castillo,7862893,Picking,2022-04-11 12:20:48.863,0.25
+15,"Mizner Bioscience, LLC",Yaima Castillo,7862893,Picking Completed,2022-04-11 12:21:03.877,0.25
+15,"Mizner Bioscience, LLC",Yaima Castillo,7862894,Picking,2022-04-11 12:11:37.267,0.8
+15,"Mizner Bioscience, LLC",Yaima Castillo,7862894,Picking Completed,2022-04-11 12:12:02.657,0.4166666666666667
+15,"Mizner Bioscience, LLC",Yaima Castillo,7862894,Picking,2022-04-11 12:12:07.300,0.06666666666666667
+15,"Mizner Bioscience, LLC",Yaima Castillo,7862895,Picking,2022-04-11 12:10:24.373,0.2833333333333333
+15,"Mizner Bioscience, LLC",Yaima Castillo,7862895,Picking Completed,2022-04-11 12:11:03.780,0.65
+15,"Mizner Bioscience, LLC",Yaima Castillo,7862896,Picking,2022-04-11 12:18:36.247,1.5
+15,"Mizner Bioscience, LLC",Yaima Castillo,7862896,Picking Completed,2022-04-11 12:19:03.733,0.45
+15,"Mizner Bioscience, LLC",Yaima Castillo,7862897,Picking,2022-04-11 12:14:08.207,0.4666666666666667
+15,"Mizner Bioscience, LLC",Yaima Castillo,7862897,Picking Completed,2022-04-11 12:15:03.647,0.9166666666666666
+15,"Mizner Bioscience, LLC",Yaima Castillo,7862898,Picking,2022-04-11 12:16:09.417,0.55
+15,"Mizner Bioscience, LLC",Yaima Castillo,7862898,Picking,2022-04-11 12:16:33.777,0.4
+15,"Mizner Bioscience, LLC",Yaima Castillo,7862898,Picking Completed,2022-04-11 12:17:03.120,0.48333333333333334
+15,"Mizner Bioscience, LLC",Yaima Castillo,7862899,Picking,2022-04-11 12:14:58.383,0.5833333333333334
+15,"Mizner Bioscience, LLC",Yaima Castillo,7862899,Picking Completed,2022-04-11 12:15:03.647,0.08333333333333333
+15,"Person & Covey, Inc.",Katherine Moncada,PNC349092A,Picking,2022-04-11 10:52:30.927,0.85
+15,"Person & Covey, Inc.",Katherine Moncada,PNC349092A,Picking Completed,2022-04-11 10:53:02.973,0.5333333333333333
+15,"Person & Covey, Inc.",Katherine Moncada,PNC349093A,Picking,2022-04-11 11:02:43.527,0.2833333333333333
+15,"Person & Covey, Inc.",Katherine Moncada,PNC349093A,Picking,2022-04-11 11:02:56.823,0.21666666666666667
+15,"Person & Covey, Inc.",Katherine Moncada,PNC349093A,Picking Completed,2022-04-11 11:03:03.773,0.1
+15,"Person & Covey, Inc.",Katherine Moncada,PNC349094A,Picking,2022-04-11 11:01:15.383,0.36666666666666664
+15,"Person & Covey, Inc.",Katherine Moncada,PNC349094A,Picking,2022-04-11 11:01:33.647,0.3
+15,"Person & Covey, Inc.",Katherine Moncada,PNC349094A,Picking Completed,2022-04-11 11:02:02.680,0.48333333333333334
+15,"Person & Covey, Inc.",Katherine Moncada,PNC349096A,Picking,2022-04-11 11:02:10.383,0.3
+15,"Person & Covey, Inc.",Katherine Moncada,PNC349096A,Picking,2022-04-11 11:02:21.307,0.16666666666666666
+15,"Person & Covey, Inc.",Katherine Moncada,PNC349096A,Picking Completed,2022-04-11 11:03:03.773,0.7
+15,"Person & Covey, Inc.",Katherine Moncada,PNC349097A,Picking,2022-04-11 10:55:17.340,1.65
+15,"Person & Covey, Inc.",Katherine Moncada,PNC349097A,Picking Completed,2022-04-11 10:56:33.823,1.2666666666666666
+15,"Person & Covey, Inc.",Katherine Moncada,PNC349098A,Picking,2022-04-11 10:55:43.917,0.23333333333333334
+15,"Person & Covey, Inc.",Katherine Moncada,PNC349098A,Picking Completed,2022-04-11 10:56:33.823,0.8166666666666667
+15,"Person & Covey, Inc.",Katherine Moncada,PNC349099A,Picking,2022-04-11 10:57:16.047,0.4
+15,"Person & Covey, Inc.",Katherine Moncada,PNC349099A,Picking Completed,2022-04-11 10:58:04.080,0.8
+15,"Person & Covey, Inc.",Katherine Moncada,PNC349101A,Picking,2022-04-11 10:57:33.453,0.2
+15,"Person & Covey, Inc.",Katherine Moncada,PNC349101A,Picking Completed,2022-04-11 10:58:04.080,0.5
+15,"Person & Covey, Inc.",Katherine Moncada,PNC349103A,Picking,2022-04-11 10:57:51.470,0.21666666666666667
+15,"Person & Covey, Inc.",Katherine Moncada,PNC349103A,Picking Completed,2022-04-11 10:58:04.080,0.2
+15,"Person & Covey, Inc.",Katherine Moncada,PNC349104A,Picking,2022-04-11 10:58:32.533,0.2
+15,"Person & Covey, Inc.",Katherine Moncada,PNC349104A,Picking Completed,2022-04-11 10:59:03.783,0.5166666666666667
+15,"Person & Covey, Inc.",Katherine Moncada,PNC349108A,Picking,2022-04-11 10:59:25.287,0.23333333333333334
+15,"Person & Covey, Inc.",Katherine Moncada,PNC349108A,Picking Completed,2022-04-11 10:59:55.287,0.5
+16,"Emersa Waterbox, LLC",Juan Castro,EMERSA-7862162,Picking,2022-04-11 09:11:37.570,0.18333333333333332
+16,"Emersa Waterbox, LLC",Juan Castro,EMERSA-7862162,Picking,2022-04-11 09:11:56.757,0.31666666666666665
+16,"Emersa Waterbox, LLC",Juan Castro,EMERSA-7862162,Picking Completed,2022-04-11 09:12:03.240,0.1
+16,"Emersa Waterbox, LLC",Juan Castro,EMERSA-7862162,Picking,2022-04-11 09:12:11.523,0.13333333333333333
+16,"Emersa Waterbox, LLC",Juan Castro,EMERSA-7862162,Picking,2022-04-11 09:12:23.743,0.2
+16,"Emersa Waterbox, LLC",Juan Castro,EMERSA-7862162,Picking,2022-04-11 09:12:34.883,0.18333333333333332
+16,"Emersa Waterbox, LLC",Juan Castro,EMERSA-7862162,Picking,2022-04-11 09:12:51.807,0.26666666666666666
+16,Sartorius Bioprocess Solutions,Juan Castro,7708569,Picking,2022-04-11 09:51:39.573,9.8
+16,Sartorius Bioprocess Solutions,Juan Castro,7795040,Picking,2022-04-11 10:05:01.600,8.516666666666667
+16,Sartorius Bioprocess Solutions,Juan Castro,7795040,Picking,2022-04-11 10:05:25.867,0.4
+16,Sartorius Bioprocess Solutions,Juan Castro,7795040,Picking,2022-04-11 10:07:05.713,1.65
+16,Sartorius Bioprocess Solutions,Juan Castro,7827401,Picking,2022-04-11 11:31:19.443,17.116666666666667
+16,Sartorius Bioprocess Solutions,Juan Castro,7827401,Picking Completed,2022-04-11 11:32:03.380,0.7166666666666667
+16,Sartorius Bioprocess Solutions,Juan Castro,7844535,Picking,2022-04-11 11:02:09.320,0.85
+16,Sartorius Bioprocess Solutions,Juan Castro,7844535,Picking Completed,2022-04-11 11:03:03.773,0.9
+16,Sartorius Bioprocess Solutions,Juan Castro,7849134,Picking,2022-04-11 11:42:47.870,9.383333333333333
+16,Sartorius Bioprocess Solutions,Juan Castro,7849134,Picking Completed,2022-04-11 11:43:05.213,0.2833333333333333
+16,Sartorius Bioprocess Solutions,Juan Castro,7849134,Picking,2022-04-11 11:43:50.403,0.75
+16,Sartorius Bioprocess Solutions,Juan Castro,7849134,Picking,2022-04-11 11:44:55.217,1.0666666666666667
+16,Sartorius Bioprocess Solutions,Justin Johnson,7790268,Picking,2022-04-11 13:31:07.333,2.4333333333333336
+16,Sartorius Bioprocess Solutions,Justin Johnson,7790268,Picking,2022-04-11 13:31:56.003,0.8
+16,Sartorius Bioprocess Solutions,Justin Johnson,7790268,Picking,2022-04-11 13:40:38.623,8.7
+16,Sartorius Lab Products and Service,Juan Castro,7791679,Picking,2022-04-11 13:51:11.463,10.866666666666667
+16,Sartorius Lab Products and Service,Juan Castro,7791679,Picking,2022-04-11 13:53:42.997,2.5166666666666666
+16,Sartorius Lab Products and Service,Juan Castro,7791695,Picking,2022-04-11 13:56:36.527,2.4333333333333336
+16,Sartorius Lab Products and Service,Juan Castro,7812409,Picking,2022-04-11 12:59:42.243,2.3666666666666667
+16,Sartorius Lab Products and Service,Juan Castro,7812409,Picking,2022-04-11 13:00:44.357,1.0333333333333334
+16,Sartorius Lab Products and Service,Juan Castro,7813698,Picking,2022-04-11 13:05:39.270,3.9
+16,Sartorius Lab Products and Service,Juan Castro,7813698,Picking,2022-04-11 13:08:04.857,2.4166666666666665
+16,Sartorius Lab Products and Service,Juan Castro,7813698,Picking,2022-04-11 13:10:25.977,2.35
+16,Sartorius Lab Products and Service,Juan Castro,7822926,Picking,2022-04-11 12:55:15.863,1.35
+16,Sartorius Lab Products and Service,Juan Castro,7822926,Picking Completed,2022-04-11 12:56:02.830,0.7666666666666667
+16,Sartorius Lab Products and Service,Juan Castro,7822962,Picking,2022-04-11 12:17:01.730,6.766666666666667
+16,Sartorius Lab Products and Service,Juan Castro,7822962,Picking Completed,2022-04-11 12:18:05.043,1.05
+16,Sartorius Lab Products and Service,Juan Castro,7843494,Picking,2022-04-11 11:48:33.273,2.216666666666667
+16,Sartorius Lab Products and Service,Juan Castro,7843494,Picking Completed,2022-04-11 11:49:03.443,0.5
+16,Sartorius Lab Products and Service,Juan Castro,7843494,Picking,2022-04-11 11:50:59.840,1.9333333333333333
+16,Sartorius Lab Products and Service,Juan Castro,7843494,Picking,2022-04-11 11:51:40.247,0.6666666666666666
+16,Sartorius Lab Products and Service,Juan Castro,7843499,Picking,2022-04-11 12:18:34.763,1.1
+16,Sartorius Lab Products and Service,Juan Castro,7843499,Picking Completed,2022-04-11 12:19:03.733,0.4666666666666667
+16,Sartorius Lab Products and Service,Juan Castro,7843531,Picking,2022-04-11 11:53:43.423,0.9666666666666667
+16,Sartorius Lab Products and Service,Juan Castro,7843531,Picking Completed,2022-04-11 11:54:03.657,0.3333333333333333
+18,"Blinc International, Inc.",Raul Bejarano,IF-2087608,Picking,2022-04-11 08:58:04.867,1.9833333333333334
+18,"Blinc International, Inc.",Raul Bejarano,IF-2087608,Picking Completed,2022-04-11 08:59:03.570,0.9666666666666667
+18,"Blinc International, Inc.",Raul Bejarano,IF-2087613,Picking,2022-04-11 08:48:06.487,2.5
+18,"Blinc International, Inc.",Raul Bejarano,IF-2087613,Picking,2022-04-11 08:50:04.600,1.9666666666666668
+18,"Blinc International, Inc.",Raul Bejarano,IF-2087613,Picking,2022-04-11 08:52:14.057,2.15
+18,"Blinc International, Inc.",Raul Bejarano,IF-2087613,Picking,2022-04-11 08:53:06.543,0.8666666666666667
+18,"Blinc International, Inc.",Raul Bejarano,IF-2087613,Picking,2022-04-11 08:55:58.957,2.8666666666666667
+18,"Blinc International, Inc.",Raul Bejarano,IF-2087613,Picking Completed,2022-04-11 08:56:28.957,0.5
 18,"Blinc International, Inc.",Raul Bejarano,IF-2087620,Picking,2022-04-11 08:20:46.003,3.7666666666666666
 18,"Blinc International, Inc.",Raul Bejarano,IF-2087620,Picking Completed,2022-04-11 08:21:03.517,0.2833333333333333
 18,"Blinc International, Inc.",Raul Bejarano,IF-2087620,Picking,2022-04-11 08:25:43.713,4.666666666666667
@@ -17,13 +626,404 @@ Warehouse,Project,Employee,Shipment,Operation,Date,Time
 18,"Blinc International, Inc.",Raul Bejarano,IF-2087620,Picking,2022-04-11 08:34:13.087,2.4333333333333336
 18,"Blinc International, Inc.",Raul Bejarano,IF-2087620,Picking,2022-04-11 08:40:11.390,5.966666666666667
 18,"Blinc International, Inc.",Raul Bejarano,IF-2087620,Picking,2022-04-11 08:42:30.103,2.3
+18,"Blinc International, Inc.-Blinc-ecom",Jose Rodriguez,IF-2087817,Picking,2022-04-11 10:00:42.247,1.4666666666666668
+18,"Blinc International, Inc.-Blinc-ecom",Jose Rodriguez,IF-2087817,Picking Completed,2022-04-11 10:01:03.513,0.35
+18,"Blinc International, Inc.-Blinc-ecom",Jose Rodriguez,IF-2087817,Picking,2022-04-11 10:01:23.703,0.3333333333333333
+18,"Blinc International, Inc.-Blinc-ecom",Jose Rodriguez,IF-2087817,Picking,2022-04-11 10:01:58.157,0.5666666666666667
+18,"ClearSpec, LLC",Martha Hurtado,CLRSPC-20845179,Picking,2022-04-11 13:20:27.177,0.9
+18,"ClearSpec, LLC",Martha Hurtado,CLRSPC-20845179,Picking,2022-04-11 13:20:52.787,0.4166666666666667
+18,"ClearSpec, LLC",Martha Hurtado,CLRSPC-20845179,Picking Completed,2022-04-11 13:21:03.610,0.16666666666666666
+18,"ClearSpec, LLC",Martha Hurtado,CLRSPC-20845179,Picking,2022-04-11 13:21:45.070,0.6833333333333333
+18,"ClearSpec, LLC",Martha Hurtado,CLRSPC-30272863,Picking,2022-04-11 13:23:45.070,1.0
+18,"ClearSpec, LLC",Martha Hurtado,CLRSPC-30272863,Picking Completed,2022-04-11 13:24:03.330,0.3
+18,"ClearSpec, LLC",Martha Hurtado,CLRSPC-3755,Picking,2022-04-11 13:24:22.970,0.31666666666666665
+18,"ClearSpec, LLC",Martha Hurtado,CLRSPC-3755,Picking Completed,2022-04-11 13:25:04.600,0.6833333333333333
+18,"ClearSpec, LLC",Martha Hurtado,CLRSPC-3756,Picking,2022-04-11 13:14:09.590,0.5333333333333333
+18,"ClearSpec, LLC",Martha Hurtado,CLRSPC-3756,Picking Completed,2022-04-11 13:15:04.363,0.9
+18,"ClearSpec, LLC",Martha Hurtado,CLRSPC-3756,Picking,2022-04-11 13:15:09.717,0.08333333333333333
+18,Hush Hush,Jose Rodriguez,HH-33492,Picking,2022-04-11 10:05:14.507,1.8666666666666667
+18,Hush Hush,Jose Rodriguez,HH-33492,Picking,2022-04-11 10:05:46.773,0.4
+18,Hush Hush,Jose Rodriguez,HH-33492,Picking Completed,2022-04-11 10:06:03.303,0.26666666666666666
+19,ACG North America LLC,Angel Luna,ACG-2102489726,Picking,2022-04-11 08:53:48.747,0.5333333333333333
+19,ACG North America LLC,Angel Luna,ACG-2102489726,Picking Completed,2022-04-11 08:54:03.280,0.23333333333333334
+19,ACG North America LLC,Angel Luna,ACG-2102489726,Picking,2022-04-11 08:54:54.470,0.85
+19,ACG North America LLC,Angel Luna,ACG-2102489726,Picking,2022-04-11 08:56:07.613,1.2166666666666668
 19,ACG North America LLC,Angel Luna,ACG-2102489727,Picking,2022-04-11 08:43:25.493,0.9
 19,ACG North America LLC,Angel Luna,ACG-2102489727,Picking Completed,2022-04-11 08:44:03.430,0.6166666666666667
+19,ACG North America LLC,Angel Luna,ACG-2102489727,Picking,2022-04-11 08:45:15.623,1.2
+19,ACG North America LLC,Angel Luna,ACG-2102489731,Picking,2022-04-11 09:26:58.737,0.6
+19,ACG North America LLC,Angel Luna,ACG-2102489731,Picking Completed,2022-04-11 09:27:02.797,0.06666666666666667
+19,ACG North America LLC,Angel Luna,ACG-2102489741,Picking,2022-04-11 11:39:08.143,2.9333333333333336
+19,ACG North America LLC,Angel Luna,ACG-2102489741,Picking Completed,2022-04-11 11:40:05.767,0.95
+19,ACG North America LLC,Angel Luna,ACG-2102489741,Picking,2022-04-11 11:41:30.367,1.4
+19,ACG North America LLC,Angel Luna,ACG-2102489741,Picking,2022-04-11 11:45:00.703,3.5
+19,"AdvaGen Pharma, Ltd",Sujelin Soto-Orta,ADV80001692,Picking,2022-04-11 13:05:52.053,1.3333333333333333
+19,"AdvaGen Pharma, Ltd",Sujelin Soto-Orta,ADV80001692,Picking Completed,2022-04-11 13:06:03.193,0.18333333333333332
+19,"AdvaGen Pharma, Ltd",Sujelin Soto-Orta,ADV80001692,Picking,2022-04-11 13:10:55.213,4.866666666666667
+19,"AdvaGen Pharma, Ltd",Sujelin Soto-Orta,ADV80001692,Picking,2022-04-11 13:14:41.837,3.7666666666666666
+19,"AdvaGen Pharma, Ltd",Sujelin Soto-Orta,ADV80001692,Picking,2022-04-11 13:15:26.287,0.7333333333333333
+19,"AdvaGen Pharma, Ltd",Sujelin Soto-Orta,ADV80001693,Picking,2022-04-11 13:13:43.147,5.05
+19,"AdvaGen Pharma, Ltd",Sujelin Soto-Orta,ADV80001693,Picking Completed,2022-04-11 13:14:02.880,0.31666666666666665
+19,"AdvaGen Pharma, Ltd",Sujelin Soto-Orta,ADV80001693,Picking,2022-04-11 13:16:52.210,2.8166666666666664
+19,"AdvaGen Pharma, Ltd",Sujelin Soto-Orta,ADV80001694,Picking,2022-04-11 13:34:45.143,9.483333333333333
+19,"AdvaGen Pharma, Ltd",Sujelin Soto-Orta,ADV80001694,Picking Completed,2022-04-11 13:35:04.093,0.3
+19,"AdvaGen Pharma, Ltd",Sujelin Soto-Orta,ADV80001695,Picking,2022-04-11 13:24:58.290,1.8833333333333333
+19,"AdvaGen Pharma, Ltd",Sujelin Soto-Orta,ADV80001695,Picking Completed,2022-04-11 13:25:04.600,0.1
+19,"AdvaGen Pharma, Ltd",Sujelin Soto-Orta,ADV80001696,Picking,2022-04-11 13:08:10.027,3.066666666666667
+19,"AdvaGen Pharma, Ltd",Sujelin Soto-Orta,ADV80001696,Picking Completed,2022-04-11 13:09:03.183,0.8833333333333333
+19,"AdvaGen Pharma, Ltd",Sujelin Soto-Orta,ADV80001698,Picking,2022-04-11 13:40:17.953,2.9333333333333336
+19,"AdvaGen Pharma, Ltd",Sujelin Soto-Orta,ADV80001698,Picking Completed,2022-04-11 13:41:03.743,0.75
+19,"AdvaGen Pharma, Ltd",Sujelin Soto-Orta,ADV80001698,Picking,2022-04-11 13:44:13.360,3.15
+19,"AdvaGen Pharma, Ltd",Sujelin Soto-Orta,ADV80001698,Picking,2022-04-11 13:47:03.723,2.8333333333333335
+19,"AdvaGen Pharma, Ltd",Sujelin Soto-Orta,ADV80001699,Picking,2022-04-11 13:18:00.807,2.5
+19,"AdvaGen Pharma, Ltd",Sujelin Soto-Orta,ADV80001699,Picking Completed,2022-04-11 13:18:02.943,0.03333333333333333
+19,"AdvaGen Pharma, Ltd",Sujelin Soto-Orta,ADV80001699,Picking,2022-04-11 13:23:35.167,3.1666666666666665
+19,"AdvaGen Pharma, Ltd",Sujelin Soto-Orta,ADV80001700,Picking,2022-04-11 13:36:43.547,1.7666666666666666
+19,"AdvaGen Pharma, Ltd",Sujelin Soto-Orta,ADV80001700,Picking Completed,2022-04-11 13:37:03.590,0.3333333333333333
+19,"AdvaGen Pharma, Ltd",Sujelin Soto-Orta,ADV80001701,Picking,2022-04-11 13:48:23.163,1.7333333333333334
+19,"AdvaGen Pharma, Ltd",Sujelin Soto-Orta,ADV80001701,Picking Completed,2022-04-11 13:49:03.193,0.6666666666666666
+19,"AdvaGen Pharma, Ltd",Sujelin Soto-Orta,ADV80001707,Picking,2022-04-11 13:52:02.810,3.5
+19,"AdvaGen Pharma, Ltd",Sujelin Soto-Orta,ADV80001707,Picking,2022-04-11 13:52:23.577,0.3333333333333333
+19,"AdvaGen Pharma, Ltd",Sujelin Soto-Orta,ADV80001707,Picking Completed,2022-04-11 13:53:03.713,0.6666666666666666
+19,"AdvaGen Pharma, Ltd",Sujelin Soto-Orta,ADV80001707,Picking,2022-04-11 13:55:21.570,0.16666666666666666
+19,"Bi-Coastal Pharma International, LLC",Sujelin Soto-Orta,7872262,Picking,2022-04-11 09:25:13.450,1.7
+19,"Bi-Coastal Pharma International, LLC",Sujelin Soto-Orta,7872262,Picking Completed,2022-04-11 09:26:03.047,0.8166666666666667
+19,Dexcel Pharma Technologies Ltd. DBA WDSrx,Sujelin Soto-Orta,DEX0006563,Picking,2022-04-11 12:37:13.200,0.95
+19,Dexcel Pharma Technologies Ltd. DBA WDSrx,Sujelin Soto-Orta,DEX0006563,Picking Completed,2022-04-11 12:38:03.747,0.8333333333333334
+19,Dexcel Pharma Technologies Ltd. DBA WDSrx,Sujelin Soto-Orta,DEX0006564,Picking,2022-04-11 12:37:54.373,0.5666666666666667
+19,Dexcel Pharma Technologies Ltd. DBA WDSrx,Sujelin Soto-Orta,DEX0006564,Picking Completed,2022-04-11 12:38:03.747,0.15
+19,Dexcel Pharma Technologies Ltd. DBA WDSrx,Sujelin Soto-Orta,DEX0006565,Picking,2022-04-11 12:38:34.857,0.5833333333333334
+19,Dexcel Pharma Technologies Ltd. DBA WDSrx,Sujelin Soto-Orta,DEX0006565,Picking Completed,2022-04-11 12:39:02.670,0.45
+19,Dexcel Pharma Technologies Ltd. DBA WDSrx,Sujelin Soto-Orta,DEX0006566,Picking,2022-04-11 12:36:07.917,0.75
+19,Dexcel Pharma Technologies Ltd. DBA WDSrx,Sujelin Soto-Orta,DEX0006566,Picking Completed,2022-04-11 12:37:03.620,0.9166666666666666
+19,Dexcel Pharma Technologies Ltd. DBA WDSrx,Sujelin Soto-Orta,DEX0006567,Picking,2022-04-11 12:35:02.437,0.7166666666666667
+19,Dexcel Pharma Technologies Ltd. DBA WDSrx,Sujelin Soto-Orta,DEX0006567,Picking Completed,2022-04-11 12:36:03.570,1.0166666666666666
+19,"Innogenix, LLC",Sujelin Soto-Orta,7871638,Picking,2022-04-11 09:06:11.317,0.35
+19,"Innogenix, LLC",Sujelin Soto-Orta,7871638,Picking,2022-04-11 09:06:41.147,0.48333333333333334
+19,"Innogenix, LLC",Sujelin Soto-Orta,7871638,Picking Completed,2022-04-11 09:07:02.830,0.35
 19,"Innogenix, LLC",Sujelin Soto-Orta,7871639,Picking,2022-04-11 08:42:07.803,1.4166666666666667
-19,"Innogenix, LLC",Sujelin Soto-Orta,7871639,Picking Completed,2022-04-11 08:43:02.740,0.9
+19,"Innogenix, LLC",Sujelin Soto-Orta,7871639,Picking,2022-04-11 08:45:12.873,3.0833333333333335
+19,"Innogenix, LLC",Sujelin Soto-Orta,7871639,Picking,2022-04-11 08:47:25.207,2.2
+19,"Innogenix, LLC",Sujelin Soto-Orta,7871639,Picking Completed,2022-04-11 08:47:55.207,0.5
+19,"Innogenix, LLC",Sujelin Soto-Orta,7871640,Picking,2022-04-11 08:49:31.787,1.8
+19,"Innogenix, LLC",Sujelin Soto-Orta,7871640,Picking Completed,2022-04-11 08:50:04.490,0.5333333333333333
+19,"Innogenix, LLC",Sujelin Soto-Orta,7871640,Picking,2022-04-11 08:50:26.037,0.35
+19,"Innogenix, LLC",Sujelin Soto-Orta,7871640,Picking,2022-04-11 08:51:18.697,0.8666666666666667
+19,"Innogenix, LLC",Sujelin Soto-Orta,7871641,Picking,2022-04-11 09:17:40.690,0.8666666666666667
+19,"Innogenix, LLC",Sujelin Soto-Orta,7871641,Picking Completed,2022-04-11 09:18:03.203,0.36666666666666664
+19,"Innogenix, LLC",Sujelin Soto-Orta,7871641,Picking,2022-04-11 09:18:25.767,0.36666666666666664
+19,"Innogenix, LLC",Sujelin Soto-Orta,7871642,Picking,2022-04-11 08:52:19.620,0.85
+19,"Innogenix, LLC",Sujelin Soto-Orta,7871642,Picking,2022-04-11 08:52:38.967,0.31666666666666665
+19,"Innogenix, LLC",Sujelin Soto-Orta,7871642,Picking Completed,2022-04-11 08:53:03.387,0.4
+19,"Innogenix, LLC",Sujelin Soto-Orta,7871643,Picking,2022-04-11 09:20:03.457,1.4166666666666667
+19,"Innogenix, LLC",Sujelin Soto-Orta,7871643,Picking,2022-04-11 09:20:33.380,0.48333333333333334
+19,"Innogenix, LLC",Sujelin Soto-Orta,7871643,Picking Completed,2022-04-11 09:21:03.397,0.5
+19,"Innogenix, LLC",Sujelin Soto-Orta,7871644,Picking,2022-04-11 09:31:40.650,0.45
+19,"Innogenix, LLC",Sujelin Soto-Orta,7871644,Picking Completed,2022-04-11 09:32:03.947,0.38333333333333336
+19,"Innogenix, LLC",Sujelin Soto-Orta,7871645,Picking,2022-04-11 09:32:13.493,0.4
+19,"Innogenix, LLC",Sujelin Soto-Orta,7871645,Picking Completed,2022-04-11 09:32:43.493,0.5
+19,"Innogenix, LLC",Sujelin Soto-Orta,7871646,Picking,2022-04-11 09:21:24.397,0.48333333333333334
+19,"Innogenix, LLC",Sujelin Soto-Orta,7871646,Picking Completed,2022-04-11 09:22:03.087,0.6333333333333333
+19,"Innogenix, LLC",Sujelin Soto-Orta,7871647,Picking,2022-04-11 08:53:09.153,0.38333333333333336
+19,"Innogenix, LLC",Sujelin Soto-Orta,7871647,Picking,2022-04-11 08:53:23.577,0.23333333333333334
+19,"Innogenix, LLC",Sujelin Soto-Orta,7871647,Picking,2022-04-11 08:53:51.187,0.45
+19,"Innogenix, LLC",Sujelin Soto-Orta,7871647,Picking Completed,2022-04-11 08:54:03.280,0.2
+19,"Innogenix, LLC",Sujelin Soto-Orta,7871648,Picking,2022-04-11 08:55:09.047,0.36666666666666664
+19,"Innogenix, LLC",Sujelin Soto-Orta,7871648,Picking,2022-04-11 08:55:20.407,0.18333333333333332
+19,"Innogenix, LLC",Sujelin Soto-Orta,7871648,Picking,2022-04-11 08:55:29.610,0.15
+19,"Innogenix, LLC",Sujelin Soto-Orta,7871648,Picking Completed,2022-04-11 08:56:02.890,0.55
+19,"Innogenix, LLC",Sujelin Soto-Orta,7871649,Picking,2022-04-11 09:22:41.587,0.75
+19,"Innogenix, LLC",Sujelin Soto-Orta,7871649,Picking Completed,2022-04-11 09:23:03.337,0.35
+19,"Innogenix, LLC",Sujelin Soto-Orta,7871650,Picking,2022-04-11 08:57:02.207,1.3833333333333333
+19,"Innogenix, LLC",Sujelin Soto-Orta,7871650,Picking,2022-04-11 08:57:49.507,0.7833333333333333
+19,"Innogenix, LLC",Sujelin Soto-Orta,7871650,Picking Completed,2022-04-11 08:58:02.880,0.21666666666666667
+19,"Innogenix, LLC",Sujelin Soto-Orta,7871651,Picking,2022-04-11 08:58:43.600,0.7833333333333333
+19,"Innogenix, LLC",Sujelin Soto-Orta,7871651,Picking,2022-04-11 09:00:05.900,1.3666666666666667
+19,"Innogenix, LLC",Sujelin Soto-Orta,7871651,Picking,2022-04-11 09:00:48.340,0.7
+19,"Innogenix, LLC",Sujelin Soto-Orta,7871651,Picking Completed,2022-04-11 09:01:18.340,0.5
+19,"Innogenix, LLC",Sujelin Soto-Orta,7871652,Picking,2022-04-11 09:30:36.447,0.65
+19,"Innogenix, LLC",Sujelin Soto-Orta,7871652,Picking Completed,2022-04-11 09:31:04.553,0.4666666666666667
+19,"Innogenix, LLC",Sujelin Soto-Orta,7871653,Picking,2022-04-11 09:29:50.227,0.6833333333333333
+19,"Innogenix, LLC",Sujelin Soto-Orta,7871653,Picking Completed,2022-04-11 09:30:07.503,0.2833333333333333
+19,"Innogenix, LLC",Sujelin Soto-Orta,7871654,Picking,2022-04-11 09:31:06.353,0.3333333333333333
+19,"Innogenix, LLC",Sujelin Soto-Orta,7871654,Picking Completed,2022-04-11 09:32:03.947,0.95
+19,"Innogenix, LLC",Sujelin Soto-Orta,7872857,Picking,2022-04-11 11:02:48.837,0.2
+19,"Innogenix, LLC",Sujelin Soto-Orta,7872857,Picking,2022-04-11 11:44:18.827,0.48333333333333334
+19,"Innogenix, LLC",Sujelin Soto-Orta,7872857,Picking Completed,2022-04-11 11:44:48.827,0.5
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873015,Picking,2022-04-11 11:02:24.040,0.25
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873015,Picking Completed,2022-04-11 11:03:03.773,0.65
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873016,Picking,2022-04-11 11:47:22.303,0.7833333333333333
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873016,Picking Completed,2022-04-11 11:48:02.817,0.6666666666666666
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873017,Picking,2022-04-11 11:03:22.010,0.23333333333333334
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873017,Picking,2022-04-11 11:45:05.407,0.5166666666666667
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873017,Picking Completed,2022-04-11 11:45:35.407,0.5
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873018,Picking,2022-04-11 10:54:29.417,2.5166666666666666
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873018,Picking,2022-04-11 10:54:59.447,0.5
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873018,Picking,2022-04-11 10:57:31.453,0.7
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873018,Picking Completed,2022-04-11 10:58:01.453,0.5
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873019,Picking,2022-04-11 11:01:21.367,0.23333333333333334
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873019,Picking,2022-04-11 11:01:52.430,0.5166666666666667
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873019,Picking Completed,2022-04-11 11:02:02.680,0.16666666666666666
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873020,Picking,2022-04-11 11:48:02.897,0.55
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873020,Picking Completed,2022-04-11 11:49:03.443,1.0
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873021,Picking,2022-04-11 11:46:00.083,0.5
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873021,Picking Completed,2022-04-11 11:46:08.800,0.13333333333333333
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873096,Picking,2022-04-11 11:42:59.997,0.2833333333333333
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873096,Picking Completed,2022-04-11 11:43:05.213,0.08333333333333333
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873107,Picking,2022-04-11 12:13:20.177,1.05
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873107,Picking Completed,2022-04-11 12:14:03.580,0.7166666666666667
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873107,Picking,2022-04-11 12:14:22.553,0.3
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873108,Picking,2022-04-11 12:20:08.703,4.283333333333333
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873108,Picking Completed,2022-04-11 12:21:03.877,0.9166666666666666
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873108,Picking,2022-04-11 12:23:32.117,2.466666666666667
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873109,Picking,2022-04-11 11:58:35.000,4.45
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873109,Picking Completed,2022-04-11 11:59:02.670,0.25
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873109,Picking,2022-04-11 12:01:35.677,2.55
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873109,Picking,2022-04-11 12:03:42.087,2.1
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873110,Picking,2022-04-11 12:05:40.730,1.6
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873110,Picking Completed,2022-04-11 12:06:03.070,0.36666666666666664
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873110,Picking,2022-04-11 12:06:19.443,0.26666666666666666
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873110,Picking,2022-04-11 12:07:03.080,0.7166666666666667
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873111,Picking,2022-04-11 12:27:38.077,4.9
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873111,Picking,2022-04-11 12:27:59.343,0.35
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873111,Picking Completed,2022-04-11 12:28:02.530,0.05
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873112,Picking,2022-04-11 12:24:21.277,0.7666666666666667
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873112,Picking Completed,2022-04-11 12:25:03.977,0.7
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873112,Picking,2022-04-11 12:25:33.043,0.48333333333333334
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873122,Picking,2022-04-11 11:59:24.703,1.2666666666666666
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873122,Picking Completed,2022-04-11 12:00:12.360,0.7833333333333333
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873123,Picking,2022-04-11 12:29:07.597,1.0166666666666666
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873123,Picking,2022-04-11 12:29:24.940,0.2833333333333333
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873123,Picking Completed,2022-04-11 12:30:04.660,0.65
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873124,Picking,2022-04-11 12:27:05.983,1.25
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873124,Picking Completed,2022-04-11 12:27:23.153,0.2833333333333333
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873125,Picking,2022-04-11 12:20:28.440,0.8
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873125,Picking Completed,2022-04-11 12:21:03.877,0.5833333333333334
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873125,Picking,2022-04-11 12:21:10.300,0.1
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873126,Picking,2022-04-11 12:18:01.733,2.5833333333333335
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873126,Picking Completed,2022-04-11 12:18:05.043,0.05
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873126,Picking,2022-04-11 12:18:41.483,0.6
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873127,Picking,2022-04-11 12:12:22.003,2.25
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873127,Picking,2022-04-11 12:15:14.133,2.8666666666666667
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873127,Picking Completed,2022-04-11 12:15:44.133,0.5
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873128,Picking,2022-04-11 12:08:46.837,1.0333333333333334
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873128,Picking Completed,2022-04-11 12:09:02.930,0.26666666666666666
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873129,Picking,2022-04-11 12:02:30.587,2.45
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873129,Picking Completed,2022-04-11 12:03:03.960,0.55
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873129,Picking,2022-04-11 12:03:16.993,0.21666666666666667
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873130,Picking,2022-04-11 12:08:07.613,0.7333333333333333
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873130,Picking Completed,2022-04-11 12:09:02.930,0.9166666666666666
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873130,Picking,2022-04-11 12:09:45.790,0.7
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873130,Picking,2022-04-11 12:10:40.500,0.9
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873131,Picking,2022-04-11 12:06:24.990,1.3333333333333333
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873131,Picking Completed,2022-04-11 12:07:03.407,0.6333333333333333
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873132,Picking,2022-04-11 12:07:32.097,0.9666666666666667
+19,"Innogenix, LLC",Sujelin Soto-Orta,7873132,Picking Completed,2022-04-11 12:08:03.753,0.5166666666666667
+20,"ACI Healthcare USA, Inc.",Gregory Watts,7852871,Picking,2022-04-11 09:43:24.980,1.5666666666666667
+20,"ACI Healthcare USA, Inc.",Gregory Watts,7852871,Picking,2022-04-11 09:43:52.967,0.45
+20,"ACI Healthcare USA, Inc.",Gregory Watts,7852871,Picking Completed,2022-04-11 09:44:03.120,0.16666666666666666
+20,"ACI Healthcare USA, Inc.",Gregory Watts,7852871,Picking,2022-04-11 09:44:06.810,0.05
+20,"ACI Healthcare USA, Inc.",Gregory Watts,7852874,Picking,2022-04-11 09:24:19.513,0.4666666666666667
+20,"ACI Healthcare USA, Inc.",Gregory Watts,7852874,Picking,2022-04-11 09:24:44.920,0.4166666666666667
+20,"ACI Healthcare USA, Inc.",Gregory Watts,7852874,Picking Completed,2022-04-11 09:25:04.747,0.31666666666666665
+20,"ACI Healthcare USA, Inc.",Gregory Watts,7852874,Picking,2022-04-11 09:25:09.920,0.08333333333333333
+20,"ACI Healthcare USA, Inc.",Gregory Watts,7852877,Picking,2022-04-11 09:26:07.470,0.23333333333333334
+20,"ACI Healthcare USA, Inc.",Gregory Watts,7852877,Picking,2022-04-11 09:26:24.437,0.26666666666666666
+20,"ACI Healthcare USA, Inc.",Gregory Watts,7852877,Picking Completed,2022-04-11 09:27:02.797,0.6333333333333333
+20,"ACI Healthcare USA, Inc.",Gregory Watts,7852884,Picking,2022-04-11 09:27:22.377,0.5
+20,"ACI Healthcare USA, Inc.",Gregory Watts,7852884,Picking,2022-04-11 09:27:38.923,0.26666666666666666
+20,"ACI Healthcare USA, Inc.",Gregory Watts,7852884,Picking Completed,2022-04-11 09:28:03.563,0.4
+20,"ACI Healthcare USA, Inc.",Micah Powers,7854414,Picking,2022-04-11 08:59:57.180,5.933333333333334
+20,"ACI Healthcare USA, Inc.",Micah Powers,7854414,Picking Completed,2022-04-11 09:00:05.600,0.13333333333333333
+20,"ACI Healthcare USA, Inc.",Micah Powers,7854414,Picking,2022-04-11 09:07:48.880,0.75
+20,"ACI Healthcare USA, Inc.",Micah Powers,7854414,Picking,2022-04-11 09:16:08.060,8.316666666666666
+20,"ACI Healthcare USA, Inc.",Micah Powers,7854414,Picking,2022-04-11 09:19:22.490,3.2333333333333334
+20,"ACI Healthcare USA, Inc.",Micah Powers,7854414,Picking,2022-04-11 09:22:44.433,3.35
+20,"ACI Healthcare USA, Inc.",Micah Powers,7854414,Picking,2022-04-11 09:47:30.800,24.766666666666666
+20,"ACI Healthcare USA, Inc.",Micah Powers,7854414,Picking,2022-04-11 09:48:21.117,0.8333333333333334
+20,"ACI Healthcare USA, Inc.",Micah Powers,7854414,Picking,2022-04-11 09:48:52.587,0.5166666666666667
+20,"ACI Healthcare USA, Inc.",Micah Powers,7854414,Picking,2022-04-11 09:49:23.820,0.5166666666666667
+20,"ACI Healthcare USA, Inc.",Shawn Saunders,7852878,Picking,2022-04-11 11:13:30.667,3.7333333333333334
+20,"ACI Healthcare USA, Inc.",Shawn Saunders,7852878,Picking Completed,2022-04-11 11:14:02.853,0.5333333333333333
+20,"ACI Healthcare USA, Inc.",Shawn Saunders,7852878,Picking,2022-04-11 11:15:59.510,1.9333333333333333
+20,"ACI Healthcare USA, Inc.",Shawn Saunders,7852878,Picking,2022-04-11 11:18:56.733,2.95
+20,"ACI Healthcare USA, Inc.",Shawn Saunders,7852878,Picking,2022-04-11 11:20:34.643,1.6166666666666667
+20,"ACI Healthcare USA, Inc.",Shawn Saunders,7852878,Picking,2022-04-11 11:20:46.427,0.18333333333333332
+20,"ACI Healthcare USA, Inc.",Shawn Saunders,7852878,Picking,2022-04-11 11:20:53.427,0.11666666666666667
+20,"ACI Healthcare USA, Inc.",Shawn Saunders,7853612,Picking,2022-04-11 09:20:53.727,2.4166666666666665
+20,"ACI Healthcare USA, Inc.",Shawn Saunders,7853612,Picking Completed,2022-04-11 09:21:03.397,0.15
+20,"ACI Healthcare USA, Inc.",Shawn Saunders,7853612,Picking,2022-04-11 09:46:45.097,7.733333333333333
+20,"ACI Healthcare USA, Inc.",Shawn Saunders,7853612,Picking,2022-04-11 09:53:14.700,6.483333333333333
+20,"ACI Healthcare USA, Inc.",Shawn Saunders,7853612,Picking,2022-04-11 09:54:31.017,1.2666666666666666
+20,"ACI Healthcare USA, Inc.",Shawn Saunders,7853612,Picking,2022-04-11 09:57:48.927,3.283333333333333
+20,"ACI Healthcare USA, Inc.",Thalia Rivera,ASN_7872826,Picking,2022-04-11 09:36:15.273,1362.7833333333333
+20,"ACI Healthcare USA, Inc.",Thalia Rivera,ASN_7872826,Picking Completed,2022-04-11 09:37:03.330,0.8
+20,"ACI Healthcare USA, Inc.",Wendy Medrano,7858323,Picking,2022-04-11 12:42:38.027,1.4833333333333334
+20,"ACI Healthcare USA, Inc.",Wendy Medrano,7858323,Picking,2022-04-11 12:42:47.650,0.15
+20,"ACI Healthcare USA, Inc.",Wendy Medrano,7858323,Picking,2022-04-11 12:42:55.277,0.11666666666666667
+20,"ACI Healthcare USA, Inc.",Wendy Medrano,7858323,Picking Completed,2022-04-11 12:43:03.620,0.13333333333333333
+20,"ACI Healthcare USA, Inc.",Wendy Medrano,7858325,Picking,2022-04-11 12:44:28.483,0.26666666666666666
+20,"ACI Healthcare USA, Inc.",Wendy Medrano,7858325,Picking,2022-04-11 12:44:37.280,0.13333333333333333
+20,"ACI Healthcare USA, Inc.",Wendy Medrano,7858325,Picking Completed,2022-04-11 12:45:03.497,0.43333333333333335
+20,"ACI Healthcare USA, Inc.",Wendy Medrano,7858326,Picking,2022-04-11 12:34:31.060,0.16666666666666666
+20,"ACI Healthcare USA, Inc.",Wendy Medrano,7858326,Picking,2022-04-11 12:34:40.920,0.15
+20,"ACI Healthcare USA, Inc.",Wendy Medrano,7858326,Picking Completed,2022-04-11 12:35:03.717,0.36666666666666664
+20,"ACI Healthcare USA, Inc.",Wendy Medrano,7858327,Picking,2022-04-11 12:27:55.767,4.65
+20,"ACI Healthcare USA, Inc.",Wendy Medrano,7858327,Picking Completed,2022-04-11 12:28:02.530,0.1
+20,"ACI Healthcare USA, Inc.",Wendy Medrano,7858327,Picking,2022-04-11 12:33:13.213,5.166666666666667
+20,"ACI Healthcare USA, Inc.",Wendy Medrano,7858327,Picking,2022-04-11 12:33:24.493,0.18333333333333332
+20,Alumier Labs Inc.,Maria Ramos,ALU0006562,Picking,2022-04-11 11:54:02.283,1.0333333333333334
+20,Alumier Labs Inc.,Maria Ramos,ALU0006562,Picking,2022-04-11 11:54:23.143,0.3333333333333333
+20,Alumier Labs Inc.,Maria Ramos,ALU0006562,Picking,2022-04-11 11:54:34.957,0.18333333333333332
+20,Alumier Labs Inc.,Maria Ramos,ALU0006562,Picking,2022-04-11 11:54:47.927,0.2
+20,Alumier Labs Inc.,Maria Ramos,ALU0006562,Picking,2022-04-11 11:55:00.787,0.2
+20,Alumier Labs Inc.,Maria Ramos,ALU0006562,Picking Completed,2022-04-11 11:55:04.050,0.05
+20,Alumier Labs Inc.,Maria Ramos,ALU0006562,Picking,2022-04-11 11:55:09.820,0.08333333333333333
+20,Alumier Labs Inc.,Maria Ramos,ALU0006562,Picking,2022-04-11 11:55:17.260,0.11666666666666667
+20,Alumier Labs Inc.,Maria Ramos,ALU0006562,Picking,2022-04-11 11:55:31.417,0.23333333333333334
+20,Alumier Labs Inc.,Maria Ramos,ALU0006562,Picking,2022-04-11 11:55:44.870,0.21666666666666667
+20,Alumier Labs Inc.,Maria Ramos,ALU0006562,Picking,2022-04-11 11:57:03.403,1.3
+20,Alumier Labs Inc.,Maria Ramos,ALU0006562,Picking,2022-04-11 11:57:13.280,0.15
+20,Alumier Labs Inc.,Maria Ramos,ALU0006562,Picking,2022-04-11 11:57:28.857,0.25
+20,Alumier Labs Inc.,Maria Ramos,ALU0006562,Picking,2022-04-11 11:57:57.047,0.4666666666666667
+20,Alumier Labs Inc.,Maria Ramos,ALU0006564,Picking,2022-04-11 10:46:22.440,0.75
+20,Alumier Labs Inc.,Maria Ramos,ALU0006564,Picking,2022-04-11 10:46:29.317,0.1
+20,Alumier Labs Inc.,Maria Ramos,ALU0006564,Picking,2022-04-11 10:46:41.363,0.2
+20,Alumier Labs Inc.,Maria Ramos,ALU0006564,Picking,2022-04-11 10:46:49.330,0.11666666666666667
+20,Alumier Labs Inc.,Maria Ramos,ALU0006564,Picking,2022-04-11 10:46:58.957,0.15
+20,Alumier Labs Inc.,Maria Ramos,ALU0006564,Picking,2022-04-11 10:47:24.093,0.4166666666666667
+20,Alumier Labs Inc.,Maria Ramos,ALU0006564,Picking,2022-04-11 10:47:31.140,0.11666666666666667
+20,Alumier Labs Inc.,Maria Ramos,ALU0006564,Picking,2022-04-11 10:47:57.767,0.43333333333333335
+20,Alumier Labs Inc.,Maria Ramos,ALU0006564,Picking,2022-04-11 10:48:06.377,0.13333333333333333
+20,Alumier Labs Inc.,Maria Ramos,ALU0006564,Picking,2022-04-11 10:49:07.487,1.0166666666666666
+20,Alumier Labs Inc.,Maria Ramos,ALU0006564,Picking,2022-04-11 10:49:21.380,0.21666666666666667
+20,Alumier Labs Inc.,Maria Ramos,ALU0006564,Picking,2022-04-11 10:49:38.660,0.2833333333333333
+20,Alumier Labs Inc.,Maria Ramos,ALU0006564,Picking Completed,2022-04-11 10:50:08.660,0.5
+20,Alumier Labs Inc.,Maria Ramos,ALU0006565,Picking,2022-04-11 10:53:47.757,0.3
+20,Alumier Labs Inc.,Maria Ramos,ALU0006565,Picking,2022-04-11 10:54:07.307,0.31666666666666665
+20,Alumier Labs Inc.,Maria Ramos,ALU0006565,Picking Completed,2022-04-11 10:54:10.990,0.05
+20,Alumier Labs Inc.,Maria Ramos,ALU0006566,Picking,2022-04-11 11:25:44.683,0.4
+20,Alumier Labs Inc.,Maria Ramos,ALU0006566,Picking,2022-04-11 11:31:39.333,5.9
+20,Alumier Labs Inc.,Maria Ramos,ALU0006566,Picking Completed,2022-04-11 11:32:09.333,0.5
+20,Alumier Labs Inc.,Maria Ramos,ALU0006567,Picking,2022-04-11 10:33:07.093,0.26666666666666666
+20,Alumier Labs Inc.,Maria Ramos,ALU0006567,Picking,2022-04-11 10:33:12.687,0.08333333333333333
+20,Alumier Labs Inc.,Maria Ramos,ALU0006567,Picking,2022-04-11 10:33:58.317,0.75
+20,Alumier Labs Inc.,Maria Ramos,ALU0006567,Picking,2022-04-11 10:34:25.627,0.45
+20,Alumier Labs Inc.,Maria Ramos,ALU0006567,Picking,2022-04-11 10:34:40.567,0.23333333333333334
+20,Alumier Labs Inc.,Maria Ramos,ALU0006567,Picking,2022-04-11 10:35:06.347,0.4166666666666667
+20,Alumier Labs Inc.,Maria Ramos,ALU0006567,Picking,2022-04-11 10:36:10.583,1.0666666666666667
+20,Alumier Labs Inc.,Maria Ramos,ALU0006567,Picking,2022-04-11 10:36:32.337,0.35
+20,Alumier Labs Inc.,Maria Ramos,ALU0006567,Picking,2022-04-11 10:37:08.900,0.6
+20,Alumier Labs Inc.,Maria Ramos,ALU0006567,Picking,2022-04-11 10:38:21.777,1.2
+20,Alumier Labs Inc.,Maria Ramos,ALU0006567,Picking Completed,2022-04-11 10:38:51.777,0.5
+20,Alumier Labs Inc.,Maria Ramos,ALUR005597610,Picking,2022-04-11 12:16:39.357,0.3
+20,Alumier Labs Inc.,Maria Ramos,ALUR005597610,Picking,2022-04-11 12:16:56.620,0.2833333333333333
+20,Alumier Labs Inc.,Maria Ramos,ALUR005597610,Picking Completed,2022-04-11 12:17:03.120,0.1
+20,Alumier Labs Inc.,Maria Ramos,ALUR005597610,Picking,2022-04-11 12:17:04.027,0.0
+20,Alumier Labs Inc.,Maria Ramos,ALUR005597610,Picking,2022-04-11 12:17:51.793,0.7833333333333333
+20,Alumier Labs Inc.,Maria Ramos,ALUR027533238,Picking,2022-04-11 12:05:16.307,0.3
+20,Alumier Labs Inc.,Maria Ramos,ALUR027533238,Picking,2022-04-11 12:05:48.917,0.5333333333333333
+20,Alumier Labs Inc.,Maria Ramos,ALUR027533238,Picking,2022-04-11 12:06:01.870,0.2
+20,Alumier Labs Inc.,Maria Ramos,ALUR027533238,Picking Completed,2022-04-11 12:06:03.070,0.016666666666666666
+20,Alumier Labs Inc.,Maria Ramos,ALUR027533238,Picking,2022-04-11 12:07:04.987,1.0166666666666666
+20,Alumier Labs Inc.,Maria Ramos,ALUR031276148,Picking,2022-04-11 12:16:09.417,0.6333333333333333
+20,Alumier Labs Inc.,Maria Ramos,ALUR031276148,Picking,2022-04-11 12:16:17.197,0.11666666666666667
+20,Alumier Labs Inc.,Maria Ramos,ALUR031276148,Picking Completed,2022-04-11 12:17:03.120,0.75
+20,Alumier Labs Inc.,Maria Ramos,ALUR031276148,Picking,2022-04-11 12:18:33.157,0.65
+20,Alumier Labs Inc.,Maria Ramos,ALUR059726767,Picking,2022-04-11 12:15:23.320,0.2833333333333333
+20,Alumier Labs Inc.,Maria Ramos,ALUR059726767,Picking,2022-04-11 12:15:28.523,0.08333333333333333
+20,Alumier Labs Inc.,Maria Ramos,ALUR059726767,Picking Completed,2022-04-11 12:16:02.540,0.5666666666666667
+20,Alumier Labs Inc.,Maria Ramos,ALUR074287495,Picking,2022-04-11 12:11:41.080,0.2
+20,Alumier Labs Inc.,Maria Ramos,ALUR074287495,Picking Completed,2022-04-11 12:12:02.657,0.35
+20,Alumier Labs Inc.,Maria Ramos,ALUR074287495,Picking,2022-04-11 12:12:55.097,0.8666666666666667
+20,Alumier Labs Inc.,Maria Ramos,ALUR114591105,Picking,2022-04-11 12:07:31.660,0.36666666666666664
+20,Alumier Labs Inc.,Maria Ramos,ALUR114591105,Picking,2022-04-11 12:07:47.707,0.26666666666666666
+20,Alumier Labs Inc.,Maria Ramos,ALUR114591105,Picking,2022-04-11 12:07:55.160,0.11666666666666667
+20,Alumier Labs Inc.,Maria Ramos,ALUR114591105,Picking Completed,2022-04-11 12:08:03.753,0.13333333333333333
+20,Alumier Labs Inc.,Maria Ramos,ALUR240550865,Picking,2022-04-11 11:15:22.213,1.2
+20,Alumier Labs Inc.,Maria Ramos,ALUR240550865,Picking,2022-04-11 11:15:54.997,0.5333333333333333
+20,Alumier Labs Inc.,Maria Ramos,ALUR240550865,Picking,2022-04-11 11:16:27.013,0.5333333333333333
+20,Alumier Labs Inc.,Maria Ramos,ALUR240550865,Picking,2022-04-11 11:16:39.667,0.2
+20,Alumier Labs Inc.,Maria Ramos,ALUR240550865,Picking,2022-04-11 11:17:10.403,0.5
+20,Alumier Labs Inc.,Maria Ramos,ALUR240550865,Picking,2022-04-11 11:18:21.813,1.1833333333333333
+20,Alumier Labs Inc.,Maria Ramos,ALUR240550865,Picking,2022-04-11 11:23:36.257,5.233333333333333
+20,Alumier Labs Inc.,Maria Ramos,ALUR240550865,Picking,2022-04-11 11:24:37.243,1.0
+20,Alumier Labs Inc.,Maria Ramos,ALUR240550865,Picking Completed,2022-04-11 11:25:07.243,0.5
+20,Alumier Labs Inc.,Maria Ramos,ALUR248125311,Picking,2022-04-11 12:08:46.337,0.31666666666666665
+20,Alumier Labs Inc.,Maria Ramos,ALUR248125311,Picking,2022-04-11 12:09:01.337,0.25
+20,Alumier Labs Inc.,Maria Ramos,ALUR248125311,Picking Completed,2022-04-11 12:09:02.930,0.016666666666666666
+20,Alumier Labs Inc.,Maria Ramos,ALUR248125311,Picking,2022-04-11 12:09:07.243,0.06666666666666667
+20,Alumier Labs Inc.,Maria Ramos,ALUR262487567,Picking,2022-04-11 11:58:32.813,0.48333333333333334
+20,Alumier Labs Inc.,Maria Ramos,ALUR262487567,Picking Completed,2022-04-11 11:59:02.670,0.48333333333333334
+20,Alumier Labs Inc.,Maria Ramos,ALUR262487567,Picking,2022-04-11 11:59:40.940,0.6333333333333333
+20,Alumier Labs Inc.,Maria Ramos,ALUR262487567,Picking,2022-04-11 11:59:50.003,0.15
+20,Alumier Labs Inc.,Maria Ramos,ALUR262487567,Picking,2022-04-11 11:59:59.580,0.15
+20,Alumier Labs Inc.,Maria Ramos,ALUR262487567,Picking,2022-04-11 12:00:48.737,0.8166666666666667
+20,Alumier Labs Inc.,Maria Ramos,ALUR282267496,Picking,2022-04-11 11:41:46.977,0.3
+20,Alumier Labs Inc.,Maria Ramos,ALUR282267496,Picking Completed,2022-04-11 11:42:04.507,0.2833333333333333
+20,Alumier Labs Inc.,Maria Ramos,ALUR282267496,Picking,2022-04-11 11:48:39.710,6.583333333333333
+20,Alumier Labs Inc.,Maria Ramos,ALUR282267496,Picking,2022-04-11 11:49:32.290,0.8666666666666667
+20,Alumier Labs Inc.,Maria Ramos,ALUR282267496,Picking,2022-04-11 11:50:10.387,0.6333333333333333
+20,Alumier Labs Inc.,Maria Ramos,ALUR282267496,Picking,2022-04-11 11:50:22.573,0.2
+20,Alumier Labs Inc.,Maria Ramos,ALUR282267496,Picking,2022-04-11 11:50:53.073,0.5
+20,Alumier Labs Inc.,Maria Ramos,ALUR296246533,Picking,2022-04-11 11:38:06.623,0.9666666666666667
+20,Alumier Labs Inc.,Maria Ramos,ALUR296246533,Picking,2022-04-11 11:38:25.640,0.31666666666666665
+20,Alumier Labs Inc.,Maria Ramos,ALUR296246533,Picking,2022-04-11 11:38:33.360,0.11666666666666667
+20,Alumier Labs Inc.,Maria Ramos,ALUR296246533,Picking,2022-04-11 11:38:53.907,0.3333333333333333
+20,Alumier Labs Inc.,Maria Ramos,ALUR296246533,Picking Completed,2022-04-11 11:39:03.703,0.15
+20,Alumier Labs Inc.,Maria Ramos,ALUR296246533,Picking,2022-04-11 11:39:21.737,0.3
+20,Alumier Labs Inc.,Maria Ramos,ALUR296246533,Picking,2022-04-11 11:40:24.457,1.0333333333333334
+20,Alumier Labs Inc.,Maria Ramos,ALUR296246533,Picking,2022-04-11 11:40:31.987,0.11666666666666667
+20,Alumier Labs Inc.,Maria Ramos,ALUR395548512,Picking,2022-04-11 12:10:28.717,0.25
+20,Alumier Labs Inc.,Maria Ramos,ALUR395548512,Picking,2022-04-11 12:11:01.813,0.55
+20,Alumier Labs Inc.,Maria Ramos,ALUR395548512,Picking Completed,2022-04-11 12:11:03.780,0.016666666666666666
+20,Alumier Labs Inc.,Maria Ramos,ALUR396551440,Picking,2022-04-11 12:09:37.837,0.4166666666666667
+20,Alumier Labs Inc.,Maria Ramos,ALUR396551440,Picking Completed,2022-04-11 12:10:04.823,0.43333333333333335
+20,Alumier Labs Inc.,Maria Ramos,ALUR396551440,Picking,2022-04-11 12:10:10.730,0.08333333333333333
+20,Alumier Labs Inc.,Maria Ramos,ALUR460132306,Picking,2022-04-11 11:51:21.513,0.4166666666666667
+20,Alumier Labs Inc.,Maria Ramos,ALUR460132306,Picking Completed,2022-04-11 11:52:06.793,0.75
+20,Alumier Labs Inc.,Maria Ramos,ALUR460132306,Picking,2022-04-11 11:52:15.513,0.13333333333333333
+20,Alumier Labs Inc.,Maria Ramos,ALUR511341645,Picking,2022-04-11 12:13:52.770,0.43333333333333335
+20,Alumier Labs Inc.,Maria Ramos,ALUR511341645,Picking Completed,2022-04-11 12:14:03.580,0.16666666666666666
+20,Alumier Labs Inc.,Maria Ramos,ALUR511341645,Picking,2022-04-11 12:14:20.037,0.26666666666666666
+20,Alumier Labs Inc.,Maria Ramos,ALUR537948806,Picking,2022-04-11 10:30:02.557,0.4166666666666667
+20,Alumier Labs Inc.,Maria Ramos,ALUR537948806,Picking,2022-04-11 10:30:46.090,0.7166666666666667
+20,Alumier Labs Inc.,Maria Ramos,ALUR537948806,Picking,2022-04-11 10:31:13.950,0.45
+20,Alumier Labs Inc.,Maria Ramos,ALUR537948806,Picking,2022-04-11 10:31:41.827,0.45
+20,Alumier Labs Inc.,Maria Ramos,ALUR537948806,Picking Completed,2022-04-11 10:32:11.827,0.5
+20,Alumier Labs Inc.,Maria Ramos,ALUR549645235,Picking,2022-04-11 11:06:37.847,2.8833333333333333
+20,Alumier Labs Inc.,Maria Ramos,ALUR549645235,Picking,2022-04-11 11:07:04.253,0.43333333333333335
+20,Alumier Labs Inc.,Maria Ramos,ALUR549645235,Picking,2022-04-11 11:07:34.987,0.5
+20,Alumier Labs Inc.,Maria Ramos,ALUR549645235,Picking,2022-04-11 11:07:43.380,0.13333333333333333
+20,Alumier Labs Inc.,Maria Ramos,ALUR549645235,Picking,2022-04-11 11:08:05.410,0.36666666666666664
+20,Alumier Labs Inc.,Maria Ramos,ALUR549645235,Picking,2022-04-11 11:08:16.410,0.18333333333333332
+20,Alumier Labs Inc.,Maria Ramos,ALUR549645235,Picking,2022-04-11 11:08:34.990,0.3
+20,Alumier Labs Inc.,Maria Ramos,ALUR549645235,Picking,2022-04-11 11:09:02.257,0.45
+20,Alumier Labs Inc.,Maria Ramos,ALUR549645235,Picking,2022-04-11 11:09:22.227,0.31666666666666665
+20,Alumier Labs Inc.,Maria Ramos,ALUR549645235,Picking,2022-04-11 11:10:25.207,1.0333333333333334
+20,Alumier Labs Inc.,Maria Ramos,ALUR549645235,Picking,2022-04-11 11:12:25.257,2.0
+20,Alumier Labs Inc.,Maria Ramos,ALUR549645235,Picking,2022-04-11 11:12:36.883,0.18333333333333332
+20,Alumier Labs Inc.,Maria Ramos,ALUR549645235,Picking,2022-04-11 11:13:20.620,0.7166666666666667
+20,Alumier Labs Inc.,Maria Ramos,ALUR549645235,Picking,2022-04-11 11:13:52.277,0.5166666666666667
+20,Alumier Labs Inc.,Maria Ramos,ALUR549645235,Picking Completed,2022-04-11 11:14:22.277,0.5
+20,Alumier Labs Inc.,Maria Ramos,ALUR568075043,Picking,2022-04-11 14:00:49.203,0.26666666666666666
+20,Alumier Labs Inc.,Maria Ramos,ALUR568075043,Picking Completed,2022-04-11 14:01:03.297,0.23333333333333334
+20,Alumier Labs Inc.,Maria Ramos,ALUR568075043,Picking,2022-04-11 14:01:24.830,0.35
+20,Alumier Labs Inc.,Maria Ramos,ALUR568075043,Picking,2022-04-11 14:01:43.330,0.3
+20,Alumier Labs Inc.,Maria Ramos,ALUR568075043,Picking,2022-04-11 14:02:10.410,0.45
+20,Alumier Labs Inc.,Maria Ramos,ALUR598100215,Picking,2022-04-11 10:29:04.540,0.2833333333333333
+20,Alumier Labs Inc.,Maria Ramos,ALUR598100215,Picking,2022-04-11 10:29:31.587,0.45
+20,Alumier Labs Inc.,Maria Ramos,ALUR598100215,Picking Completed,2022-04-11 10:30:04.790,0.55
+20,Alumier Labs Inc.,Maria Ramos,ALUR619127424,Picking,2022-04-11 10:50:21.847,0.38333333333333336
+20,Alumier Labs Inc.,Maria Ramos,ALUR619127424,Picking,2022-04-11 10:50:41.847,0.3333333333333333
+20,Alumier Labs Inc.,Maria Ramos,ALUR619127424,Picking,2022-04-11 10:50:56.397,0.23333333333333334
+20,Alumier Labs Inc.,Maria Ramos,ALUR619127424,Picking Completed,2022-04-11 10:51:03.820,0.11666666666666667
+20,Alumier Labs Inc.,Maria Ramos,ALUR619127424,Picking,2022-04-11 10:51:26.737,0.36666666666666664
+20,Alumier Labs Inc.,Maria Ramos,ALUR974753716,Picking,2022-04-11 10:52:43.820,0.4166666666666667
+20,Alumier Labs Inc.,Maria Ramos,ALUR974753716,Picking Completed,2022-04-11 10:53:02.973,0.31666666666666665
+20,Alumier Labs Inc.,Maria Ramos,ALUR974753716,Picking,2022-04-11 10:53:27.617,0.4
 20,Alumier Labs Inc.,Wendy Medrano,ALU0006561,Picking,2022-04-11 08:02:29.503,0.9166666666666666
-20,Alumier Labs Inc.,Wendy Medrano,ALU0006561,Picking Completed,2022-04-11 08:03:04.033,0.5666666666666667
-20,Alumier Labs Inc.,Wendy Medrano,ALU0006561,Picking,2022-04-11 08:03:07.097,0.05
+20,Alumier Labs Inc.,Wendy Medrano,ALU0006561,Picking,2022-04-11 08:03:07.097,0.6166666666666667
 20,Alumier Labs Inc.,Wendy Medrano,ALU0006561,Picking,2022-04-11 08:03:16.270,0.15
 20,Alumier Labs Inc.,Wendy Medrano,ALU0006561,Picking,2022-04-11 08:03:33.737,0.2833333333333333
 20,Alumier Labs Inc.,Wendy Medrano,ALU0006561,Picking,2022-04-11 08:03:51.863,0.3
@@ -98,6 +1098,7 @@ Warehouse,Project,Employee,Shipment,Operation,Date,Time
 20,Alumier Labs Inc.,Wendy Medrano,ALU0006561,Picking,2022-04-11 08:32:10.693,4.0
 20,Alumier Labs Inc.,Wendy Medrano,ALU0006561,Picking,2022-04-11 08:32:26.990,0.26666666666666666
 20,Alumier Labs Inc.,Wendy Medrano,ALU0006561,Picking,2022-04-11 08:32:36.210,0.15
+20,Alumier Labs Inc.,Wendy Medrano,ALU0006561,Picking Completed,2022-04-11 08:33:06.210,0.5
 20,Alumier Labs Inc.,Wendy Medrano,ALUR086969624,Picking,2022-04-11 08:33:25.210,0.4166666666666667
 20,Alumier Labs Inc.,Wendy Medrano,ALUR086969624,Picking,2022-04-11 08:33:43.900,0.3
 20,Alumier Labs Inc.,Wendy Medrano,ALUR086969624,Picking Completed,2022-04-11 08:34:03.257,0.31666666666666665
@@ -110,8 +1111,7 @@ Warehouse,Project,Employee,Shipment,Operation,Date,Time
 20,Alumier Labs Inc.,Wendy Medrano,ALUR267865540,Picking,2022-04-11 08:39:53.247,0.2833333333333333
 20,Alumier Labs Inc.,Wendy Medrano,ALUR267865540,Picking Completed,2022-04-11 08:40:04.607,0.18333333333333332
 20,Alumier Labs Inc.,Wendy Medrano,ALUR327634577,Picking,2022-04-11 07:50:57.907,2.0166666666666666
-20,Alumier Labs Inc.,Wendy Medrano,ALUR327634577,Picking Completed,2022-04-11 07:51:03.013,0.08333333333333333
-20,Alumier Labs Inc.,Wendy Medrano,ALUR327634577,Picking,2022-04-11 07:51:14.907,0.18333333333333332
+20,Alumier Labs Inc.,Wendy Medrano,ALUR327634577,Picking,2022-04-11 07:51:14.907,0.2833333333333333
 20,Alumier Labs Inc.,Wendy Medrano,ALUR327634577,Picking,2022-04-11 07:51:23.873,0.13333333333333333
 20,Alumier Labs Inc.,Wendy Medrano,ALUR327634577,Picking,2022-04-11 07:52:07.860,0.7166666666666667
 20,Alumier Labs Inc.,Wendy Medrano,ALUR327634577,Picking,2022-04-11 07:53:11.987,1.0666666666666667
@@ -121,29 +1121,88 @@ Warehouse,Project,Employee,Shipment,Operation,Date,Time
 20,Alumier Labs Inc.,Wendy Medrano,ALUR327634577,Picking,2022-04-11 07:55:07.897,0.15
 20,Alumier Labs Inc.,Wendy Medrano,ALUR327634577,Picking,2022-04-11 07:55:45.177,0.6166666666666667
 20,Alumier Labs Inc.,Wendy Medrano,ALUR327634577,Picking,2022-04-11 08:00:30.060,0.8666666666666667
+20,Alumier Labs Inc.,Wendy Medrano,ALUR327634577,Picking Completed,2022-04-11 08:01:00.060,0.5
 20,Alumier Labs Inc.,Wendy Medrano,ALUR657989892,Picking,2022-04-11 07:56:19.617,0.21666666666666667
 20,Alumier Labs Inc.,Wendy Medrano,ALUR657989892,Picking,2022-04-11 07:56:38.960,0.31666666666666665
 20,Alumier Labs Inc.,Wendy Medrano,ALUR657989892,Picking,2022-04-11 07:57:00.273,0.35
-20,Alumier Labs Inc.,Wendy Medrano,ALUR657989892,Picking Completed,2022-04-11 07:57:03.553,0.05
-20,Alumier Labs Inc.,Wendy Medrano,ALUR657989892,Picking,2022-04-11 07:57:31.573,0.4666666666666667
+20,Alumier Labs Inc.,Wendy Medrano,ALUR657989892,Picking,2022-04-11 07:57:31.573,0.5166666666666667
 20,Alumier Labs Inc.,Wendy Medrano,ALUR657989892,Picking,2022-04-11 07:57:43.633,0.2
 20,Alumier Labs Inc.,Wendy Medrano,ALUR657989892,Picking,2022-04-11 07:58:04.290,0.3333333333333333
 20,Alumier Labs Inc.,Wendy Medrano,ALUR657989892,Picking,2022-04-11 07:58:55.450,0.85
+20,Alumier Labs Inc.,Wendy Medrano,ALUR657989892,Picking Completed,2022-04-11 07:59:25.450,0.5
 20,Alumier Labs Inc.,Wendy Medrano,ALUR818375848,Picking,2022-04-11 08:35:15.950,0.6
 20,Alumier Labs Inc.,Wendy Medrano,ALUR818375848,Picking,2022-04-11 08:35:34.933,0.3
 20,Alumier Labs Inc.,Wendy Medrano,ALUR818375848,Picking,2022-04-11 08:36:01.497,0.43333333333333335
 20,Alumier Labs Inc.,Wendy Medrano,ALUR818375848,Picking Completed,2022-04-11 08:36:04.180,0.03333333333333333
 20,Alumier Labs Inc.,Wendy Medrano,ALUR818375848,Picking,2022-04-11 08:36:16.120,0.18333333333333332
 20,Alumier Labs Inc.,Wendy Medrano,ALUR818375848,Picking,2022-04-11 08:36:32.403,0.26666666666666666
+20,"Andelyn Biosciences, Inc.",Ernest Ferguson,7872841,Picking,2022-04-11 10:09:09.840,0.5333333333333333
+20,"Andelyn Biosciences, Inc.",Ernest Ferguson,7872841,Picking Completed,2022-04-11 10:10:04.007,0.9
+20,"Andelyn Biosciences, Inc.",Ernest Ferguson,7872841,Picking,2022-04-11 10:11:50.120,1.7666666666666666
+20,"Exact-Rx, Inc.",Wendy Medrano,7871637,Picking,2022-04-11 11:03:21.167,1.1
+20,"Exact-Rx, Inc.",Wendy Medrano,7871637,Picking,2022-04-11 11:03:29.447,0.13333333333333333
+20,"Exact-Rx, Inc.",Wendy Medrano,7871637,Picking,2022-04-11 11:03:35.637,0.1
+20,"Exact-Rx, Inc.",Wendy Medrano,7871637,Picking Completed,2022-04-11 11:04:03.807,0.4666666666666667
+20,"Exact-Rx, Inc.",Wendy Medrano,7873239,Picking,2022-04-11 14:02:26.287,0.9
+20,"Exact-Rx, Inc.",Wendy Medrano,7873239,Picking,2022-04-11 14:02:37.660,0.18333333333333332
+20,"Exact-Rx, Inc.",Wendy Medrano,7873239,Picking,2022-04-11 14:02:43.647,0.08333333333333333
+20,"Exact-Rx, Inc.",Wendy Medrano,7873239,Picking,2022-04-11 14:02:50.397,0.1
+20,"Exact-Rx, Inc.",Wendy Medrano,7873239,Picking,2022-04-11 14:02:59.443,0.15
+20,"Exact-Rx, Inc.",Wendy Medrano,7873243,Picking,2022-04-11 13:59:27.640,0.23333333333333334
+20,"Exact-Rx, Inc.",Wendy Medrano,7873243,Picking,2022-04-11 13:59:35.140,0.11666666666666667
+20,"Exact-Rx, Inc.",Wendy Medrano,7873243,Picking,2022-04-11 13:59:40.860,0.08333333333333333
+20,"Exact-Rx, Inc.",Wendy Medrano,7873243,Picking Completed,2022-04-11 14:00:04.217,0.38333333333333336
+20,"Exact-Rx, Inc.",Wendy Medrano,7873244,Picking,2022-04-11 13:59:10.547,0.2
+20,"Exact-Rx, Inc.",Wendy Medrano,7873244,Picking Completed,2022-04-11 14:00:04.217,0.8833333333333333
+20,"Exact-Rx, Inc.",Wendy Medrano,7873246,Picking,2022-04-11 13:58:55.920,0.18333333333333332
+20,"Exact-Rx, Inc.",Wendy Medrano,7873246,Picking Completed,2022-04-11 13:59:03.137,0.11666666666666667
+20,"Exact-Rx, Inc.",Wendy Medrano,7873257,Picking,2022-04-11 13:58:41.793,0.3333333333333333
+20,"Exact-Rx, Inc.",Wendy Medrano,7873257,Picking Completed,2022-04-11 13:59:03.137,0.35
+20,"Exact-Rx, Inc.",Wendy Medrano,7873259,Picking,2022-04-11 13:58:14.480,1.25
+20,"Exact-Rx, Inc.",Wendy Medrano,7873259,Picking Completed,2022-04-11 13:59:03.137,0.8
 20,Reliable 1 Laboratories LLC,Aisha Cooper,7852846,Picking,2022-04-11 08:05:16.193,7.033333333333333
-20,Reliable 1 Laboratories LLC,Aisha Cooper,7852846,Picking Completed,2022-04-11 08:06:05.183,0.8
-20,Reliable 1 Laboratories LLC,Aisha Cooper,7852846,Picking,2022-04-11 08:13:13.507,7.133333333333334
+20,Reliable 1 Laboratories LLC,Aisha Cooper,7852846,Picking,2022-04-11 08:13:13.507,7.95
 20,Reliable 1 Laboratories LLC,Aisha Cooper,7852846,Picking,2022-04-11 08:16:37.793,3.4
 20,Reliable 1 Laboratories LLC,Aisha Cooper,7852846,Picking,2022-04-11 08:29:16.407,12.633333333333333
 20,Reliable 1 Laboratories LLC,Aisha Cooper,7852846,Picking,2022-04-11 08:32:34.350,3.283333333333333
 20,Reliable 1 Laboratories LLC,Aisha Cooper,7852846,Picking,2022-04-11 08:35:25.667,2.85
 20,Reliable 1 Laboratories LLC,Aisha Cooper,7852846,Picking,2022-04-11 08:35:45.357,0.31666666666666665
 20,Reliable 1 Laboratories LLC,Aisha Cooper,7852846,Picking,2022-04-11 08:43:41.980,7.933333333333334
+20,Reliable 1 Laboratories LLC,Aisha Cooper,7852846,Picking,2022-04-11 08:45:24.717,1.7
+20,Reliable 1 Laboratories LLC,Aisha Cooper,7852846,Picking,2022-04-11 08:47:54.097,2.4833333333333334
+20,Reliable 1 Laboratories LLC,Aisha Cooper,7852846,Picking,2022-04-11 08:55:32.907,7.633333333333333
+20,Reliable 1 Laboratories LLC,Aisha Cooper,7852846,Picking,2022-04-11 08:57:16.020,1.7166666666666668
+20,Reliable 1 Laboratories LLC,Aisha Cooper,7852846,Picking Completed,2022-04-11 08:57:46.020,0.5
+20,Reliable 1 Laboratories LLC,Aisha Cooper,7852854,Picking,2022-04-11 10:02:02.737,30.75
+20,Reliable 1 Laboratories LLC,Aisha Cooper,7852854,Picking,2022-04-11 10:10:11.617,0.5333333333333333
+20,Reliable 1 Laboratories LLC,Aisha Cooper,7852854,Picking,2022-04-11 10:25:57.520,15.75
+20,Reliable 1 Laboratories LLC,Aisha Cooper,7852854,Picking,2022-04-11 10:29:09.447,3.183333333333333
+20,Reliable 1 Laboratories LLC,Aisha Cooper,7852854,Picking,2022-04-11 10:32:13.670,3.066666666666667
+20,Reliable 1 Laboratories LLC,Aisha Cooper,7852854,Picking,2022-04-11 10:34:28.020,2.2333333333333334
+20,Reliable 1 Laboratories LLC,Aisha Cooper,7852854,Picking,2022-04-11 10:38:57.310,4.483333333333333
+20,Reliable 1 Laboratories LLC,Aisha Cooper,7852854,Picking,2022-04-11 10:43:02.450,4.083333333333333
+20,Reliable 1 Laboratories LLC,Aisha Cooper,7852854,Picking,2022-04-11 10:44:41.017,1.6333333333333333
+20,Reliable 1 Laboratories LLC,Aisha Cooper,7852854,Picking Completed,2022-04-11 10:45:11.017,0.5
+20,Reliable 1 Laboratories LLC,Aisha Cooper,7858970,Picking,2022-04-11 11:08:32.897,1.7666666666666666
+20,Reliable 1 Laboratories LLC,Aisha Cooper,7858970,Picking,2022-04-11 11:08:51.600,0.3
+20,Reliable 1 Laboratories LLC,Aisha Cooper,7858970,Picking Completed,2022-04-11 11:09:03.707,0.2
+20,Reliable 1 Laboratories LLC,Aisha Cooper,7858970,Picking,2022-04-11 11:09:18.880,0.25
+20,Reliable 1 Laboratories LLC,Aisha Cooper,7858970,Picking,2022-04-11 11:09:25.927,0.11666666666666667
+20,Reliable 1 Laboratories LLC,Aisha Cooper,7858970,Picking,2022-04-11 11:10:24.253,0.9666666666666667
+20,Reliable 1 Laboratories LLC,Aisha Cooper,7858971,Picking,2022-04-11 11:56:44.123,20.833333333333332
+20,Reliable 1 Laboratories LLC,Aisha Cooper,7858971,Picking Completed,2022-04-11 11:57:03.497,0.31666666666666665
+20,Reliable 1 Laboratories LLC,Aisha Cooper,7858971,Picking,2022-04-11 12:17:04.543,20.016666666666666
+20,Reliable 1 Laboratories LLC,Aisha Cooper,7858972,Picking,2022-04-11 12:43:06.947,4.433333333333334
+20,Reliable 1 Laboratories LLC,Aisha Cooper,7858972,Picking,2022-04-11 12:43:53.717,0.7666666666666667
+20,Reliable 1 Laboratories LLC,Aisha Cooper,7858972,Picking,2022-04-11 12:44:02.217,0.13333333333333333
+20,Reliable 1 Laboratories LLC,Aisha Cooper,7858972,Picking Completed,2022-04-11 12:44:03.137,0.0
+20,Reliable 1 Laboratories LLC,Aisha Cooper,7858973,Picking,2022-04-11 12:58:17.803,0.4
+20,Reliable 1 Laboratories LLC,Aisha Cooper,7858973,Picking Completed,2022-04-11 12:59:02.960,0.75
+20,Reliable 1 Laboratories LLC,Aisha Cooper,7858973,Picking,2022-04-11 12:59:21.777,0.3
+20,Reliable 1 Laboratories LLC,Aisha Cooper,7858973,Picking,2022-04-11 12:59:32.387,0.16666666666666666
+20,Reliable 1 Laboratories LLC,Aisha Cooper,7859494,Picking,2022-04-11 10:58:29.017,0.36666666666666664
+20,Reliable 1 Laboratories LLC,Aisha Cooper,7859494,Picking Completed,2022-04-11 10:59:03.783,0.5666666666666667
+20,Reliable 1 Laboratories LLC,Aisha Cooper,7859494,Picking,2022-04-11 10:59:55.100,0.85
 20,Reliable 1 Laboratories LLC,Shawn Saunders,7852845,Picking,2022-04-11 07:38:47.763,2.183333333333333
 20,Reliable 1 Laboratories LLC,Shawn Saunders,7852845,Picking Completed,2022-04-11 07:39:05.777,0.3
 20,Reliable 1 Laboratories LLC,Shawn Saunders,7852845,Picking,2022-04-11 07:46:48.787,7.716666666666667
@@ -153,6 +1212,58 @@ Warehouse,Project,Employee,Shipment,Operation,Date,Time
 20,Reliable 1 Laboratories LLC,Shawn Saunders,7852845,Picking,2022-04-11 08:40:18.607,4.516666666666667
 20,Reliable 1 Laboratories LLC,Shawn Saunders,7852845,Picking,2022-04-11 08:42:15.243,1.9333333333333333
 20,Reliable 1 Laboratories LLC,Shawn Saunders,7852845,Picking,2022-04-11 08:44:04.747,1.8166666666666667
+20,Reliable 1 Laboratories LLC,Shawn Saunders,7852845,Picking,2022-04-11 08:45:32.340,1.45
+20,Reliable 1 Laboratories LLC,Shawn Saunders,7852845,Picking,2022-04-11 08:47:13.813,1.6833333333333333
+20,Reliable 1 Laboratories LLC,Shawn Saunders,7852845,Picking,2022-04-11 08:47:55.423,0.6833333333333333
+20,Reliable 1 Laboratories LLC,Shawn Saunders,7852845,Picking,2022-04-11 08:48:42.893,0.7833333333333333
+20,Reliable 1 Laboratories LLC,Shawn Saunders,7852845,Picking,2022-04-11 08:50:12.600,1.4833333333333334
+20,Reliable 1 Laboratories LLC,Shawn Saunders,7852845,Picking,2022-04-11 08:52:25.793,2.216666666666667
+20,Reliable 1 Laboratories LLC,Shawn Saunders,7852845,Picking,2022-04-11 08:54:26.453,2.0
+20,Reliable 1 Laboratories LLC,Shawn Saunders,7858967,Picking,2022-04-11 11:44:29.453,4.433333333333334
+20,Reliable 1 Laboratories LLC,Shawn Saunders,7858967,Picking,2022-04-11 11:44:53.170,0.38333333333333336
+20,Reliable 1 Laboratories LLC,Shawn Saunders,7858967,Picking Completed,2022-04-11 11:45:04.000,0.16666666666666666
+20,Reliable 1 Laboratories LLC,Shawn Saunders,7858975,Picking,2022-04-11 11:32:29.587,1.7333333333333334
+20,Reliable 1 Laboratories LLC,Shawn Saunders,7858975,Picking Completed,2022-04-11 11:33:04.210,0.5666666666666667
+20,Reliable 1 Laboratories LLC,Shawn Saunders,7858975,Picking,2022-04-11 11:35:47.887,2.716666666666667
+20,Reliable 1 Laboratories LLC,Shawn Saunders,7858975,Picking,2022-04-11 11:35:59.587,0.18333333333333332
+20,Reliable 1 Laboratories LLC,Shawn Saunders,7862089,Picking,2022-04-11 11:27:00.857,0.36666666666666664
+20,Reliable 1 Laboratories LLC,Shawn Saunders,7862089,Picking Completed,2022-04-11 11:27:33.043,0.5333333333333333
+20,Reliable 1 Laboratories LLC,Wendy Medrano,7852851,Picking,2022-04-11 10:29:32.227,6.633333333333333
+20,Reliable 1 Laboratories LLC,Wendy Medrano,7852851,Picking,2022-04-11 10:30:25.497,0.8833333333333333
+20,Reliable 1 Laboratories LLC,Wendy Medrano,7852851,Picking,2022-04-11 10:31:06.730,0.6833333333333333
+20,Reliable 1 Laboratories LLC,Wendy Medrano,7852851,Picking,2022-04-11 10:32:42.560,1.5833333333333335
+20,Reliable 1 Laboratories LLC,Wendy Medrano,7852851,Picking,2022-04-11 10:33:40.907,0.9666666666666667
+20,Reliable 1 Laboratories LLC,Wendy Medrano,7852851,Picking,2022-04-11 10:36:04.083,2.3833333333333333
+20,Reliable 1 Laboratories LLC,Wendy Medrano,7852851,Picking,2022-04-11 10:38:53.450,2.8166666666666664
+20,Reliable 1 Laboratories LLC,Wendy Medrano,7852851,Picking,2022-04-11 10:42:24.403,3.5
+20,Reliable 1 Laboratories LLC,Wendy Medrano,7852851,Picking,2022-04-11 10:44:12.797,1.8
+20,Reliable 1 Laboratories LLC,Wendy Medrano,7852851,Picking,2022-04-11 10:46:02.673,1.8166666666666667
+20,Reliable 1 Laboratories LLC,Wendy Medrano,7852851,Picking,2022-04-11 10:47:47.017,1.7333333333333334
+20,Reliable 1 Laboratories LLC,Wendy Medrano,7852851,Picking,2022-04-11 10:48:48.737,1.0166666666666666
+20,Reliable 1 Laboratories LLC,Wendy Medrano,7852851,Picking Completed,2022-04-11 10:49:18.737,0.5
+20,Reliable 1 Laboratories LLC,Wendy Medrano,7858968,Picking,2022-04-11 11:23:21.163,0.5166666666666667
+20,Reliable 1 Laboratories LLC,Wendy Medrano,7858968,Picking,2022-04-11 11:23:29.430,0.13333333333333333
+20,Reliable 1 Laboratories LLC,Wendy Medrano,7858968,Picking Completed,2022-04-11 11:24:03.303,0.55
+20,Reliable 1 Laboratories LLC,Wendy Medrano,7858969,Picking,2022-04-11 09:45:37.267,0.9666666666666667
+20,Reliable 1 Laboratories LLC,Wendy Medrano,7858969,Picking,2022-04-11 09:47:01.190,1.3833333333333333
+20,Reliable 1 Laboratories LLC,Wendy Medrano,7858969,Picking,2022-04-11 09:52:27.403,5.433333333333334
+20,Reliable 1 Laboratories LLC,Wendy Medrano,7858969,Picking Completed,2022-04-11 09:52:57.403,0.5
+20,Reliable 1 Laboratories LLC,Wendy Medrano,7858974,Picking,2022-04-11 09:23:43.637,2.8166666666666664
+20,Reliable 1 Laboratories LLC,Wendy Medrano,7858974,Picking Completed,2022-04-11 09:24:03.463,0.31666666666666665
+20,Reliable 1 Laboratories LLC,Wendy Medrano,7858974,Picking,2022-04-11 09:24:26.590,0.38333333333333336
+20,Reliable 1 Laboratories LLC,Wendy Medrano,7858974,Picking,2022-04-11 09:30:14.773,5.8
+20,Reliable 1 Laboratories LLC,Wendy Medrano,7862095,Picking,2022-04-11 08:50:52.027,2.6333333333333333
+20,Reliable 1 Laboratories LLC,Wendy Medrano,7862095,Picking Completed,2022-04-11 08:51:04.930,0.2
+20,Reliable 1 Laboratories LLC,Wendy Medrano,7862095,Picking,2022-04-11 08:51:32.137,0.45
+20,Reliable 1 Laboratories LLC,Wendy Medrano,7862095,Picking,2022-04-11 09:08:07.663,16.583333333333332
+20,Reliable 1 Laboratories LLC,Wendy Medrano,7862104,Picking,2022-04-11 09:11:01.333,0.9
+20,Reliable 1 Laboratories LLC,Wendy Medrano,7862104,Picking Completed,2022-04-11 09:11:03.333,0.03333333333333333
+20,Reliable 1 Laboratories LLC,Wendy Medrano,7862104,Picking,2022-04-11 09:11:36.883,0.55
+20,Reliable 1 Laboratories LLC,Wendy Medrano,7862104,Picking,2022-04-11 09:12:02.397,0.4166666666666667
+20,Reliable 1 Laboratories LLC,Wendy Medrano,7862104,Picking,2022-04-11 09:12:53.133,0.8333333333333334
+20,Reliable 1 Laboratories LLC,Wendy Medrano,7862165,Picking,2022-04-11 11:18:24.360,1.3
+20,Reliable 1 Laboratories LLC,Wendy Medrano,7862165,Picking Completed,2022-04-11 11:19:03.843,0.65
+20,Reliable 1 Laboratories LLC,Wendy Medrano,7862165,Picking,2022-04-11 11:21:15.097,2.183333333333333
 20,Sartorius Stedim North America  ,Ernest Ferguson,SSNA-2173538608,Picking,2022-04-11 08:04:04.800,5.616666666666667
 20,Sartorius Stedim North America  ,Ernest Ferguson,SSNA-2173538608,Picking Completed,2022-04-11 08:05:03.897,0.9833333333333333
 20,Sartorius Stedim North America  ,Ernest Ferguson,SSNA-2173538608,Picking,2022-04-11 08:07:24.737,2.3333333333333335
@@ -162,3 +1273,188 @@ Warehouse,Project,Employee,Shipment,Operation,Date,Time
 20,Sartorius Stedim North America  ,Ernest Ferguson,SSNA-2173546796,Picking,2022-04-11 08:18:34.360,4.566666666666666
 20,Sartorius Stedim North America  ,Ernest Ferguson,SSNA-2173546796,Picking Completed,2022-04-11 08:19:03.920,0.48333333333333334
 20,Sartorius Stedim North America  ,Ernest Ferguson,SSNA-2173546796,Picking,2022-04-11 08:19:26.687,0.36666666666666664
+20,Sartorius Stedim North America  ,Nicklas Schmidt,SSNA-2173529994,Picking,2022-04-11 11:49:08.743,0.6
+20,Sartorius Stedim North America  ,Nicklas Schmidt,SSNA-2173529994,Picking,2022-04-11 11:52:18.640,3.15
+20,Sartorius Stedim North America  ,Nicklas Schmidt,SSNA-2173529994,Picking,2022-04-11 11:53:49.363,1.5
+20,Sartorius Stedim North America  ,Nicklas Schmidt,SSNA-2173529994,Picking,2022-04-11 11:54:22.410,0.55
+20,Sartorius Stedim North America  ,Nicklas Schmidt,SSNA-2173529994,Picking,2022-04-11 12:08:36.833,0.5166666666666667
+20,Sartorius Stedim North America  ,Nicklas Schmidt,SSNA-2173529994,Picking Completed,2022-04-11 12:09:02.930,0.43333333333333335
+21,"NBTY Global, Inc.",Jaycob Albert,392900689,Picking,2022-04-11 11:55:26.137,1.0333333333333334
+21,"NBTY Global, Inc.",Jaycob Albert,392900689,Picking,2022-04-11 11:56:00.107,0.55
+21,"NBTY Global, Inc.",Jaycob Albert,392900689,Picking Completed,2022-04-11 11:56:03.120,0.05
+21,"NBTY Global, Inc.",Jaycob Albert,392900689,Picking,2022-04-11 11:57:40.093,1.6
+21,"NBTY Global, Inc.",Jaycob Albert,392900689,Picking,2022-04-11 11:58:40.127,1.0
+21,"NBTY Global, Inc.",Jaycob Albert,392900689,Picking,2022-04-11 11:59:33.707,0.8833333333333333
+21,"NBTY Global, Inc.",Jaycob Albert,392900689,Picking,2022-04-11 11:59:47.220,0.21666666666666667
+21,"NBTY Global, Inc.",Jaycob Albert,392900689,Picking,2022-04-11 12:00:03.783,0.26666666666666666
+21,"NBTY Global, Inc.",Jaycob Albert,392900689,Picking,2022-04-11 12:00:16.253,0.2
+21,"NBTY Global, Inc.",Jaycob Albert,392900689,Picking,2022-04-11 12:00:26.427,0.16666666666666666
+21,"NBTY Global, Inc.",Jaycob Albert,392900689,Picking,2022-04-11 12:00:36.863,0.16666666666666666
+21,"NBTY Global, Inc.",Jaycob Albert,392900689,Picking,2022-04-11 12:00:46.457,0.15
+21,"NBTY Global, Inc.",Jaycob Albert,392900689,Picking,2022-04-11 12:15:37.510,0.31666666666666665
+21,"NBTY Global, Inc.",Jaycob Albert,392900689,Picking,2022-04-11 12:16:15.713,0.6333333333333333
+21,"NBTY Global, Inc.",Jaycob Albert,392900689,Picking,2022-04-11 12:17:15.403,0.9833333333333333
+21,"NBTY Global, Inc.",Jaycob Albert,392900689,Picking,2022-04-11 12:17:52.217,0.6
+21,"NBTY Global, Inc.",Jaycob Albert,392900689,Picking,2022-04-11 12:18:51.170,0.9666666666666667
+21,"NBTY Global, Inc.",Jaycob Albert,392900689,Picking,2022-04-11 12:19:04.140,0.2
+21,"NBTY Global, Inc.",Jaycob Albert,392900689,Picking,2022-04-11 12:20:29.487,1.4166666666666667
+21,"NBTY Global, Inc.",Jaycob Albert,392900689,Picking,2022-04-11 12:20:39.083,0.15
+21,"NBTY Global, Inc.",Jaycob Albert,392900689,Picking,2022-04-11 12:20:47.723,0.13333333333333333
+21,"NBTY Global, Inc.",Jaycob Albert,392900760,Picking,2022-04-11 12:33:34.337,1.95
+21,"NBTY Global, Inc.",Jaycob Albert,392900760,Picking,2022-04-11 12:33:53.123,0.3
+21,"NBTY Global, Inc.",Jaycob Albert,392900760,Picking Completed,2022-04-11 12:34:03.590,0.16666666666666666
+21,"NBTY Global, Inc.",Jaycob Albert,392900760,Picking,2022-04-11 12:34:04.733,0.016666666666666666
+21,"NBTY Global, Inc.",Jaycob Albert,392900760,Picking,2022-04-11 12:34:16.090,0.18333333333333332
+21,"NBTY Global, Inc.",Jaycob Albert,392900760,Picking,2022-04-11 12:34:26.247,0.16666666666666666
+21,"NBTY Global, Inc.",Jaycob Albert,392900760,Picking,2022-04-11 12:34:35.497,0.15
+21,"NBTY Global, Inc.",Jaycob Albert,392900760,Picking,2022-04-11 12:38:51.750,4.266666666666667
+21,"NBTY Global, Inc.",Jaycob Albert,392900760,Picking,2022-04-11 12:39:05.437,0.21666666666666667
+21,"NBTY Global, Inc.",Jaycob Albert,392900760,Picking,2022-04-11 12:39:15.937,0.16666666666666666
+21,"NBTY Global, Inc.",Jaycob Albert,392900760,Picking,2022-04-11 12:39:27.390,0.18333333333333332
+21,"NBTY Global, Inc.",Jaycob Albert,392900760,Picking,2022-04-11 12:39:38.237,0.16666666666666666
+21,"NBTY Global, Inc.",Jaycob Albert,392900760,Picking,2022-04-11 12:39:46.923,0.13333333333333333
+21,"NBTY Global, Inc.",Jaycob Albert,392900760,Picking,2022-04-11 12:54:17.047,14.5
+21,"NBTY Global, Inc.",Jaycob Albert,392900760,Picking,2022-04-11 12:54:31.077,0.23333333333333334
+21,"NBTY Global, Inc.",Jaycob Albert,392900760,Picking,2022-04-11 12:54:45.127,0.23333333333333334
+21,"NBTY Global, Inc.",Jaycob Albert,392900760,Picking,2022-04-11 12:54:56.330,0.18333333333333332
+21,"NBTY Global, Inc.",Jaycob Albert,392900760,Picking,2022-04-11 12:55:22.723,0.43333333333333335
+21,"NBTY Global, Inc.",Jaycob Albert,392900760,Picking,2022-04-11 12:55:34.080,0.18333333333333332
+21,"NBTY Global, Inc.",Jaycob Albert,392900760,Picking,2022-04-11 12:55:43.143,0.15
+21,"NBTY Global, Inc.",Jaycob Albert,392900760,Picking,2022-04-11 13:01:41.700,0.9666666666666667
+21,"NBTY Global, Inc.",Jaycob Albert,392900760,Picking,2022-04-11 13:02:37.983,0.9333333333333333
+21,"NBTY Global, Inc.",Jaycob Albert,392900760,Picking,2022-04-11 13:03:03.453,0.4166666666666667
+21,"NBTY Global, Inc.",Jaycob Albert,392900760,Picking,2022-04-11 13:03:15.267,0.18333333333333332
+21,"NBTY Global, Inc.",Jaycob Albert,392900760,Picking,2022-04-11 13:03:24.173,0.13333333333333333
+21,"NBTY Global, Inc.",Jaycob Albert,392900760,Picking,2022-04-11 13:03:33.687,0.15
+21,"NBTY Global, Inc.",Jaycob Albert,392900760,Picking,2022-04-11 13:19:31.537,15.95
+21,"NBTY Global, Inc.",Jaycob Albert,392900760,Picking,2022-04-11 13:20:32.767,1.0166666666666666
+21,"NBTY Global, Inc.",Jaycob Albert,392900760,Picking,2022-04-11 13:21:02.657,0.48333333333333334
+21,"NBTY Global, Inc.",Jaycob Albert,392900760,Picking,2022-04-11 13:21:16.713,0.23333333333333334
+21,"NBTY Global, Inc.",Jaycob Albert,392900760,Picking,2022-04-11 13:21:25.787,0.15
+21,"NBTY Global, Inc.",Jaycob Albert,610351,Picking,2022-04-11 10:41:26.777,1.25
+21,"NBTY Global, Inc.",Jaycob Albert,610351,Picking Completed,2022-04-11 10:42:03.337,0.6
+21,"NBTY Global, Inc.",Jaycob Albert,610351,Picking,2022-04-11 10:44:21.233,1.3
+21,"NBTY Global, Inc.",Jaycob Albert,610351,Picking,2022-04-11 10:46:21.300,2.0
+21,"NBTY Global, Inc.",Jaycob Albert,610351,Picking,2022-04-11 10:50:13.607,3.6
+21,"NBTY Global, Inc.",Jaycob Albert,610351,Picking,2022-04-11 10:51:01.290,0.7833333333333333
+21,"NBTY Global, Inc.",Jaycob Albert,610351,Picking,2022-04-11 10:53:33.273,2.5166666666666666
+21,"NBTY Global, Inc.",Jaycob Albert,610351,Picking,2022-04-11 10:55:02.087,0.36666666666666664
+21,"NBTY Global, Inc.",Jaycob Albert,610351,Picking,2022-04-11 10:58:47.597,3.2333333333333334
+21,"NBTY Global, Inc.",Jaycob Albert,610351,Picking,2022-04-11 10:59:34.957,0.7833333333333333
+21,"NBTY Global, Inc.",Jaycob Albert,610351,Picking,2022-04-11 11:01:30.820,1.9166666666666665
+21,"NBTY Global, Inc.",Jaycob Albert,610351,Picking,2022-04-11 11:02:52.323,1.35
+21,"NBTY Global, Inc.",Jaycob Albert,610351,Picking,2022-04-11 11:06:19.657,3.45
+21,"NBTY Global, Inc.",Jaycob Albert,610351,Picking,2022-04-11 11:07:09.410,0.8166666666666667
+21,"NBTY Global, Inc.",Jaycob Albert,610351,Picking,2022-04-11 11:10:00.770,0.9833333333333333
+21,"NBTY Global, Inc.",Jaycob Albert,610351,Picking,2022-04-11 11:10:13.833,0.21666666666666667
+21,"NBTY Global, Inc.",Jaycob Albert,610351,Picking,2022-04-11 11:12:14.430,2.0
+21,"NBTY Global, Inc.",Jaycob Albert,610351,Picking,2022-04-11 11:12:29.710,0.25
+21,"NBTY Global, Inc.",Jaycob Albert,610351,Picking,2022-04-11 11:14:43.543,2.216666666666667
+21,"NBTY Global, Inc.",Jaycob Albert,610351,Picking,2022-04-11 11:15:13.073,0.48333333333333334
+21,"NBTY Global, Inc.",Jaycob Albert,610351,Picking,2022-04-11 11:17:02.357,1.8166666666666667
+21,"NBTY Global, Inc.",Jaycob Albert,610351,Picking,2022-04-11 11:17:36.950,0.5666666666666667
+21,"NBTY Global, Inc.",Jaycob Albert,610351,Picking,2022-04-11 11:17:46.390,0.15
+21,"NBTY Global, Inc.",Jaycob Albert,610635,Picking,2022-04-11 09:47:52.850,0.18333333333333332
+21,"NBTY Global, Inc.",Jaycob Albert,610635,Picking Completed,2022-04-11 09:48:03.113,0.16666666666666666
+21,"NBTY Global, Inc.",Jaycob Albert,610635,Picking,2022-04-11 09:50:07.463,2.066666666666667
+21,"NBTY Global, Inc.",Jaycob Albert,610635,Picking,2022-04-11 09:55:51.377,2.0833333333333335
+21,"NBTY Global, Inc.",Jaycob Albert,610635,Picking,2022-04-11 10:18:51.240,22.983333333333334
+21,"NBTY Global, Inc.",Jaycob Albert,610635,Picking,2022-04-11 10:21:04.247,2.216666666666667
+21,"NBTY Global, Inc.",Jaycob Albert,610635,Picking,2022-04-11 10:23:40.187,2.5833333333333335
+21,"NBTY Global, Inc.",Jaycob Albert,610635,Picking,2022-04-11 10:31:21.967,7.683333333333334
+21,"NBTY Global, Inc.",Jaycob Albert,610635,Picking,2022-04-11 10:35:24.473,4.033333333333333
+21,"NBTY Global, Inc.",Jaycob Albert,610635,Picking,2022-04-11 10:36:12.507,0.8
+21,"NBTY Global, Inc.",Jaycob Albert,610762,Picking,2022-04-11 12:23:10.617,0.85
+21,"NBTY Global, Inc.",Jaycob Albert,610762,Picking,2022-04-11 12:23:57.727,0.7833333333333333
+21,"NBTY Global, Inc.",Jaycob Albert,610762,Picking Completed,2022-04-11 12:24:03.087,0.08333333333333333
+21,"NBTY Global, Inc.",Jaycob Albert,610762,Picking,2022-04-11 12:24:29.307,0.43333333333333335
+21,"NBTY Global, Inc.",Jaycob Albert,610762,Picking,2022-04-11 12:25:46.590,1.2833333333333332
+21,"NBTY Global, Inc.",Jaycob Albert,610762,Picking,2022-04-11 12:26:05.373,0.3
+21,"NBTY Global, Inc.",Jaycob Albert,610762,Picking,2022-04-11 12:26:27.873,0.36666666666666664
+21,"NBTY Global, Inc.",Jaycob Albert,610762,Picking,2022-04-11 12:27:05.107,0.6166666666666667
+21,"NBTY Global, Inc.",Jaycob Albert,610762,Picking,2022-04-11 12:27:20.047,0.23333333333333334
+21,"NBTY Global, Inc.",Jaycob Albert,610762,Picking,2022-04-11 12:27:39.657,0.31666666666666665
+21,"NBTY Global, Inc.",Jaycob Albert,610762,Picking,2022-04-11 12:28:23.423,0.7166666666666667
+21,"NBTY Global, Inc.",Jaycob Albert,610762,Picking,2022-04-11 12:29:06.360,0.7
+21,"NBTY Global, Inc.",Jaycob Albert,610762,Picking,2022-04-11 12:29:22.923,0.26666666666666666
+21,"NBTY Global, Inc.",Jaycob Albert,610762,Picking,2022-04-11 12:35:59.137,0.38333333333333336
+21,"NBTY Global, Inc.",Jaycob Albert,610762,Picking,2022-04-11 12:36:23.713,0.4
+21,"NBTY Global, Inc.",Jaycob Albert,610762,Picking,2022-04-11 12:36:43.137,0.31666666666666665
+21,"NBTY Global, Inc.",Jaycob Albert,610762,Picking,2022-04-11 12:37:28.887,0.75
+21,"NBTY Global, Inc.",Jaycob Albert,610762,Picking,2022-04-11 12:38:18.763,0.8166666666666667
+21,"NBTY Global, Inc.",Jaycob Albert,610762,Picking,2022-04-11 12:38:32.203,0.21666666666666667
+21,"NBTY Global, Inc.",Jaycob Albert,610762,Picking,2022-04-11 12:38:53.983,0.35
+21,"NBTY Global, Inc.",Jaycob Albert,610762,Picking,2022-04-11 12:39:11.657,0.2833333333333333
+21,"NBTY Global, Inc.",Jaycob Albert,610762,Picking,2022-04-11 13:09:01.263,0.31666666666666665
+21,"NBTY Global, Inc.",Jaycob Albert,610762,Picking,2022-04-11 13:09:33.797,0.5333333333333333
+21,"NBTY Global, Inc.",Jaycob Albert,610762,Picking,2022-04-11 13:09:49.670,0.25
+21,"NBTY Global, Inc.",Jaycob Albert,610762,Picking,2022-04-11 13:13:46.363,3.9333333333333336
+21,"NBTY Global, Inc.",Jaycob Albert,610762,Picking,2022-04-11 13:14:02.913,0.26666666666666666
+21,"NBTY Global, Inc.",Jaycob Albert,610762,Picking,2022-04-11 13:14:42.493,0.65
+21,"NBTY Global, Inc.",Jaycob Albert,610762,Picking,2022-04-11 13:14:58.297,0.25
+21,"NBTY Global, Inc.",Jaycob Albert,610762,Picking,2022-04-11 13:16:43.223,1.7333333333333334
+21,"NBTY Global, Inc.",Keith Barker,610351,Picking,2022-04-11 10:42:19.307,0.25
+21,"NBTY Global, Inc.",Keith Barker,610351,Picking Completed,2022-04-11 10:43:02.950,0.7166666666666667
+21,"NBTY Global, Inc.",Keith Barker,610351,Picking,2022-04-11 10:46:26.817,0.08333333333333333
+21,"NBTY Global, Inc.",Keith Barker,610351,Picking,2022-04-11 10:46:36.800,0.15
+21,"NBTY Global, Inc.",Keith Barker,610351,Picking,2022-04-11 10:55:21.137,0.31666666666666665
+21,"NBTY Global, Inc.",Keith Barker,610351,Picking,2022-04-11 10:55:33.417,0.2
+21,"NBTY Global, Inc.",Keith Barker,610351,Picking,2022-04-11 11:08:20.597,1.1833333333333333
+22,"NBTY Global, Inc.",Alejandro Aguirre,610875,Picking,2022-04-11 13:16:11.743,2.6666666666666665
+22,"NBTY Global, Inc.",Alejandro Aguirre,610875,Picking Completed,2022-04-11 13:17:14.283,1.0333333333333334
+22,"NBTY Global, Inc.",Alejandro Aguirre,610875,Picking,2022-04-11 13:18:41.893,1.45
+22,"NBTY Global, Inc.",Alejandro Aguirre,610875,Picking,2022-04-11 13:23:25.683,4.716666666666667
+22,"NBTY Global, Inc.",Alejandro Aguirre,610875,Picking,2022-04-11 13:27:30.907,4.083333333333333
+22,"NBTY Global, Inc.",Alejandro Aguirre,610875,Picking,2022-04-11 13:30:29.930,2.9833333333333334
+22,"NBTY Global, Inc.",Alejandro Aguirre,610875,Picking,2022-04-11 13:34:02.440,3.533333333333333
+22,"NBTY Global, Inc.",William Trevino Trevino,610865,Picking,2022-04-11 10:35:03.253,1.25
+22,"NBTY Global, Inc.",William Trevino Trevino,610865,Picking,2022-04-11 10:38:05.853,3.033333333333333
+22,"NBTY Global, Inc.",William Trevino Trevino,610865,Picking,2022-04-11 10:39:58.350,1.8666666666666667
+22,"NBTY Global, Inc.",William Trevino Trevino,610865,Picking,2022-04-11 10:41:49.777,1.85
+22,"NBTY Global, Inc.",William Trevino Trevino,610865,Picking,2022-04-11 10:41:59.760,0.15
+22,"NBTY Global, Inc.",William Trevino Trevino,610865,Picking,2022-04-11 10:42:11.730,0.18333333333333332
+22,"NBTY Global, Inc.",William Trevino Trevino,610865,Picking,2022-04-11 10:48:39.347,6.45
+22,"NBTY Global, Inc.",William Trevino Trevino,610865,Picking,2022-04-11 10:48:51.887,0.2
+22,"NBTY Global, Inc.",William Trevino Trevino,610865,Picking,2022-04-11 10:57:49.203,8.95
+22,"NBTY Global, Inc.",William Trevino Trevino,610865,Picking,2022-04-11 10:58:02.627,0.21666666666666667
+22,"NBTY Global, Inc.",William Trevino Trevino,610865,Picking,2022-04-11 10:58:12.550,0.15
+22,"NBTY Global, Inc.",William Trevino Trevino,610865,Picking,2022-04-11 10:58:31.517,0.3
+22,"NBTY Global, Inc.",William Trevino Trevino,610865,Picking,2022-04-11 11:02:49.027,4.283333333333333
+22,"NBTY Global, Inc.",William Trevino Trevino,610865,Picking,2022-04-11 11:03:04.087,0.25
+22,"NBTY Global, Inc.",William Trevino Trevino,610865,Picking,2022-04-11 11:03:16.370,0.2
+22,"NBTY Global, Inc.",William Trevino Trevino,610865,Picking,2022-04-11 11:09:21.647,6.083333333333333
+22,"NBTY Global, Inc.",William Trevino Trevino,610865,Picking,2022-04-11 11:09:38.007,0.26666666666666666
+22,"NBTY Global, Inc.",William Trevino Trevino,610865,Picking,2022-04-11 11:09:50.180,0.2
+22,"NBTY Global, Inc.",William Trevino Trevino,610865,Picking,2022-04-11 11:21:18.347,11.466666666666667
+22,"NBTY Global, Inc.",William Trevino Trevino,610865,Picking,2022-04-11 11:21:30.113,0.18333333333333332
+22,"NBTY Global, Inc.",William Trevino Trevino,610865,Picking Completed,2022-04-11 11:22:00.113,0.5
+22,"NBTY Global, Inc.",William Trevino Trevino,610873,Picking,2022-04-11 12:21:08.847,0.9833333333333333
+22,"NBTY Global, Inc.",William Trevino Trevino,610873,Picking Completed,2022-04-11 12:22:09.240,1.0
+22,"NBTY Global, Inc.",William Trevino Trevino,610873,Picking,2022-04-11 12:23:58.540,1.8166666666666667
+22,"NBTY Global, Inc.",William Trevino Trevino,610873,Picking,2022-04-11 12:24:42.120,0.7166666666666667
+22,"NBTY Global, Inc.",William Trevino Trevino,610873,Picking,2022-04-11 12:24:58.933,0.26666666666666666
+22,"NBTY Global, Inc.",William Trevino Trevino,610873,Picking,2022-04-11 12:30:57.693,5.966666666666667
+22,"NBTY Global, Inc.",William Trevino Trevino,610873,Picking,2022-04-11 12:46:54.050,15.933333333333334
+22,"NBTY Global, Inc.",William Trevino Trevino,610873,Picking,2022-04-11 12:47:02.910,0.13333333333333333
+22,"NBTY Global, Inc.",William Trevino Trevino,610873,Picking,2022-04-11 12:50:49.807,3.7666666666666666
+22,"NBTY Global, Inc.",William Trevino Trevino,610873,Picking,2022-04-11 12:52:36.027,1.7666666666666666
+22,"NBTY Global, Inc.",William Trevino Trevino,610873,Picking,2022-04-11 12:54:50.407,2.2333333333333334
+22,"NBTY Global, Inc.",William Trevino Trevino,610876.1,Picking,2022-04-11 12:59:54.603,1.5166666666666666
+22,"NBTY Global, Inc.",William Trevino Trevino,610876.1,Picking Completed,2022-04-11 13:00:06.587,0.18333333333333332
+22,"NBTY Global, Inc.",William Trevino Trevino,610876.1,Picking,2022-04-11 13:00:09.323,0.03333333333333333
+22,"NBTY Global, Inc.",William Trevino Trevino,610876.1,Picking,2022-04-11 13:02:46.813,2.6166666666666667
+22,"NBTY Global, Inc.",William Trevino Trevino,610876.1,Picking,2022-04-11 13:07:16.667,0.13333333333333333
+22,"NBTY Global, Inc.",William Trevino Trevino,610876.1,Picking,2022-04-11 13:07:57.777,0.6833333333333333
+22,"NBTY Global, Inc.",William Trevino Trevino,610876.1,Picking,2022-04-11 13:08:25.573,0.45
+22,"NBTY Global, Inc.",William Trevino Trevino,610876.1,Picking,2022-04-11 13:08:39.327,0.21666666666666667
+22,"NBTY Global, Inc.",William Trevino Trevino,610876.1,Picking,2022-04-11 13:08:51.327,0.2
+22,"NBTY Global, Inc.",William Trevino Trevino,610876.1,Picking,2022-04-11 13:14:46.643,5.916666666666667
+22,"NBTY Global, Inc.",William Trevino Trevino,610876.1,Picking,2022-04-11 13:17:51.717,3.0833333333333335
+22,"NBTY Global, Inc.",William Trevino Trevino,610876.1,Picking,2022-04-11 13:18:33.197,0.6833333333333333
+22,"NBTY Global, Inc.",William Trevino Trevino,610876.1,Picking,2022-04-11 13:18:43.610,0.16666666666666666
+22,"NBTY Global, Inc.",William Trevino Trevino,610876.1,Picking,2022-04-11 13:19:20.950,0.6166666666666667
+22,"NBTY Global, Inc.",William Trevino Trevino,610876.1,Picking,2022-04-11 13:19:35.083,0.23333333333333334
+22,"NBTY Global, Inc.",William Trevino Trevino,610876.1,Picking,2022-04-11 13:24:11.253,4.6
+22,"NBTY Global, Inc.",William Trevino Trevino,610876.1,Picking,2022-04-11 13:30:18.243,6.1
+22,"NBTY Global, Inc.",William Trevino Trevino,610876.1,Picking,2022-04-11 13:30:39.867,0.35
+22,"NBTY Global, Inc.",William Trevino Trevino,610876.1,Picking,2022-04-11 13:34:17.673,3.6166666666666667
